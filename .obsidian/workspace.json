@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2019) That's Why I Gave Up On Music/03. August, That Place, Moonlight.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. August, That Place, Moonlight"
+              "title": "README"
             }
           },
           {
@@ -210,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2019) That's Why I Gave Up On Music/03. August, That Place, Moonlight.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 03. August, That Place, Moonlight"
+              "title": "Outline of README"
             }
           }
         ],
@@ -233,16 +233,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06add47f817cce57",
+  "active": "3712b4850b66315c",
   "lastOpenFiles": [
+    "Table of Contents.md",
+    "README.md",
+    "(2019) That's Why I Gave Up On Music/03. August, That Place, Moonlight.md",
     "(2019) Elma/03. Evening Calm, Some Place, Fireworks.md",
     "Others/Aporia.md",
     "Others/Sun.md",
     "(2020) Plagiarism/03. Prostitution.md",
     "(2020) Plagiarism/06. Replicant.md",
-    "(2019) That's Why I Gave Up On Music/03. August, That Place, Moonlight.md",
     "Others/Setting Sun.md",
-    "Table of Contents.md",
     "template.md",
     "Lore/Elma's Diary.md",
     "Untitled.md",
@@ -252,7 +253,6 @@
     "(2019) Elma/02. Just Sorrow.md",
     "Lore/Letters to Elma.md",
     "(2019) That's Why I Gave Up On Music/09. False Night.md",
-    "README.md",
     "(2017) The Summer Grass Is Getting In My Way/07. The Clouds and the Ghost.md",
     "Lore/Zense 2023 Live Stories.md",
     "(2019) That's Why I Gave Up On Music/14. That's Why I Gave Up On Music.md",
