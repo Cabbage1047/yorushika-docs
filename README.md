@@ -50,7 +50,7 @@
 [[14. That's Why I Gave Up On Music]] | だから僕は音楽を辞めた | Dakara Boku wa Ongaku wo Yameta
 ### Extras
 [[02. Deep Indigo#MV Notes]]
-## [[Letters to Elma]]
+## [[Lore/Letters to Elma]]
 ## Elma (2019)
 エルマ | Elma
 *Full Album*
@@ -70,7 +70,7 @@
 [[12. Amy]] | エイミー | Amy
 \13. Seafloor, Moonlight | 海底、月明かり | Kaitei, Tsukiakari *instrumental*
 [[14. Nautilus]] | ノーチラス | Nautilus
-## [[Elma's Diary]]
+## [[Lore/Elma's Diary]]
 ## [[Gekkou Saien Live Poetry]]
 # [[Ojisuma Story]]
 ## Plagiarism (2020)
