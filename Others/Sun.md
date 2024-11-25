@@ -1,0 +1,40 @@
+太陽 | Taiyou
+#### Official translation
+
+| Japanese                                                                       | Romanji                                                                                                                                                                                                | English                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 美しい蝶の羽を見た<br><br>名前も知らずに<br><br>砂漠の砂丘を飲み干してみたい<br><br>乾きの一つも知らずに               | utsukushii chou no hane wo mita<br><br>namae mo shirazu ni<br><br>sabaku no sakyuu wo nomihoshite mitai<br><br>kawaki no hitotsu mo shirazu ni                                                         | I saw the beautiful butterfly wing,<br><br>not knowing its name.<br><br>I feel like drinking up a sand hill in the desert,<br><br>not knowing a thing about getting thirsty.                                   |
+| 美しい蝶の羽を私につけて<br><br>緩やかな速度で追い抜いてゆく                                             | utsukushii chou no hane wo watashi ni tsukete<br><br>yuruyaka na sokudo de oinuite yuku                                                                                                                | Putting the beautiful butterfly wings on me,<br><br>it gets ahead of me at a slow speed.                                                                                                                       |
+| ゆっくりゆっくりとあくびの軽さで<br><br>行ったり来たりを繰り返しながら                                        | yukkuri yukkuri to akubi no karusa de<br><br>ittari kitari wo kurikaeshi nagara                                                                                                                        | Slowly, slowly, with the lightness of a yawn,<br><br>while going back and forth, over and over again.                                                                                                          |
+| 美しい蝶の羽を見た<br><br>醜い私を知らずに<br><br>海原を千も飲み干していく<br><br>少しも満ちるを知らずに               | utsukushii chou no hane wo mita<br><br>minikui watashi wo shirazu ni<br><br>unabara wo sen mo nomihoshite yuku<br><br>sukoshi mo michiru wo shirazu ni                                                 | I saw the beautiful butterfly wing,<br><br>not knowing my ugliness.<br><br>It’s going to drink up a thousand of vast oceans,<br><br>not knowing a thing about getting full.                                    |
+| 美しい鱗の粉よ地平を染めて<br><br>あり得ない速度で追い抜いてゆけ                                           | utsukushii rin no kona yo chihei wo somete<br><br>arienai sokudo de oinuite yuke                                                                                                                       | Let the beautiful scales color the horizon<br><br>and get ahead of me at an impossible speed.                                                                                                                  |
+| ひらりひらりと木洩れの光で<br><br>行ったり来たりを繰り返しながら                                           | hirari hirari to komore no hikari de<br><br>ittari kitari wo kurikaeshi nagara                                                                                                                         | Flutter lightly in dappled sunlight under a tree,<br><br>while going back and forth, over and over again.                                                                                                      |
+| 私が歩いた道も、私の足も<br><br>私が触った花も、私の指も<br><br>私が死ぬ日の朝も、その他の日々も<br><br>緩やかな速度で追い抜いてゆく | watashi ga aruita michi mo, watashi no ashi mo<br><br>watashi ga sawatta hana mo, watashi no yubi mo<br><br>watashi ga shinu hi no asa mo, sonota no hibi mo<br><br>yuruyaka na sokudo de oinuite yuku | The path I’ve walked as well as my feet.<br><br>The flowers I’ve touched as well as my fingers.<br><br>The morning of my last day as well as any other days.<br><br>It gets ahead of them all at a slow speed. |
+| ゆっくりゆっくりとあくびの軽さで<br><br>行ったり来たりを繰り返しながら                                        | yukkuri yukkuri to akubi no karusa de<br><br>ittari kitari wo kurikaeshi nagara                                                                                                                        | Slowly, slowly, with the lightness of a yawn,<br><br>while going back and forth, over and over again.                                                                                                          |
+| ゆっくりゆっくりと彼方へ<br><br>恐る恐ると羽を広げながら                                               | yukkuri yukkuri to kanata e<br><br>osoru osoru to hane wo hiroge nagara                                                                                                                                | Slowly, slowly, into the far distance I go,<br><br>while nervously spreading the wings.                                                                                                                        |
+##### Notes
+
+#### MV Notes
+##### MV Letter
+> [!Japanese]-
+> 先生。今日は良い天気です。
+> 先生に貰った太陽というテーマをこねくり回して、何度か書いてはみましたが、どうにも良いものが出来上がらず、こうして日が空いてしまいました。こんなことは初めてです。今まで代謝をするみたいに、待っていれば頭に浮かんでくる文字だけで物を書いてきたから、自分が手癖だけに頼っていることを意識させられてしまって、どうにも参りました。
+> 気分転換に散歩に出ると、背の高い草の間に蝶が止まっていました。黄色い羽に、黒の斑点が入った大ぶりの蝶です。それが、ゆっくり羽を広げて、気持ちよさそうに太陽を浴びていました。風に草がそよぐたび、細かく体を震わせて。僕はふいに、朔太郎の詩を思い出したのです。先生は博識だからもしかしたらご存知かもしれませんが「蝶を夢む」の初めの一編です。
+> 
+> 「あたらしい座敷のなかで　蝶がはねをひろげてゐる
+> 白い　あつぼつたい　紙のやうなはねをふるはしてゐる。」
+> 
+> そうして、僕は太陽を蝶に喩えてみようと考え始めました。すると、これまでが嘘のように筆が進んで、その日の夜には一編が書き上がっていました。
+> 美しい蝶がいます。体を燃やしながら、変えたての白熱電球のように明るい蝶。蝶は大きく羽を広げて、人々の頭上を飛んでいきます。砂漠や海原を越えて、その鱗粉を大地に注ぎながら。それは、僕たちがこの地上で暮らすずっと前から、気が遠くなるほどに繰り返されてきた営みで、これからも、きっと半永久的に続く不変です。人と違って決して変わらない。僕はいつでも、蝶が羨ましいと、そう思っています。
+
+Sensei. The weather’s nice today.
+
+I’ve been trying to work with the theme of “Sun” that you gave me; writing and then rewriting it several times, but it seems I couldn’t just come up with anything that’s good, and because of that, the day has emptily passed by. This is the first time I’ve seen something like this happen. Until now, I’ve been writing only with words that come to mind, as if they were naturally produced by my own metabolism. It made me realize that I’ve been solely relying on my habits. I couldn’t help but be frustrated. 
+I decided to take a walk to clear my mind and saw a butterfly perched among the tall grass. It was large, had yellow wings and black spots on it. It slowly spread its wings, basking in the sun looking quite pleasant. It trembled slightly, every time the wind rustled the grass. It made me suddenly remember a poem by Sakutarou(萩原朔太郎). Since I know you’re very knowledgeable and you might have known about it already, but it’s the opening lines from “To Dream Of A Butterfly”.
+
+“In the new tatami room, a butterfly spreads its wings,
+It’s flapping its white, thick, paper-like wings. “
+
+And then I began to think about comparing the sun to a butterfly. Soon after, my pen flowed smoothly as if nothing happened before, and by that night, I’d finished writing a piece.
+There’s a beautiful butterfly. A butterfly, burning its body as bright as a newly replaced incandescent light bulb. The butterfly spreads its wings wide and flies over the heads of people. It crossed deserts and oceans, scattering its scales all over the earth. It’s a process that’s been repeated again and again, even long before we began living on this earth, and it will continue, undeniably, for an almost endless amount of time. Unlike us humans, they will never change. I’ve always thought that I envied them, that I wish I could be that butterfly instead.
+

@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "2c62ee546988e738",
+    "type": "split",
+    "children": [
+      {
+        "id": "155e92d06a8734f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c2387c02ced8dd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Others/Sun.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sun"
+            }
+          },
+          {
+            "id": "f3091c2b9805a77a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Others/Aporia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aporia"
+            }
+          },
+          {
+            "id": "66d39079323838e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2019) Elma/03. Evening Calm, Some Place, Fireworks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03. Evening Calm, Some Place, Fireworks"
+            }
+          },
+          {
+            "id": "06add47f817cce57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2019) That's Why I Gave Up On Music/03. August, That Place, Moonlight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03. August, That Place, Moonlight"
+            }
+          },
+          {
+            "id": "f0e0b7bd843f0166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2020) Plagiarism/06. Replicant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06. Replicant"
+            }
+          },
+          {
+            "id": "c90ece2ce57df3d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2020) Plagiarism/03. Prostitution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03. Prostitution"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a88576490b67241",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f38f270f46b2e94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3712b4850b66315c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ad4d1f365a24991f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fed7c5cefb1ff9b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9019356ac1239082",
+    "type": "split",
+    "children": [
+      {
+        "id": "7086bf50fc68a6a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af38424811792559",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lore/Letters to Elma.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Letters to Elma"
+            }
+          },
+          {
+            "id": "70a6eab9fe06365d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lore/Letters to Elma.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Letters to Elma"
+            }
+          },
+          {
+            "id": "b063db3027b6c066",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6ad4e2446d3cd0d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "(2019) That's Why I Gave Up On Music/03. August, That Place, Moonlight.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03. August, That Place, Moonlight"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "06add47f817cce57",
+  "lastOpenFiles": [
+    "(2019) Elma/03. Evening Calm, Some Place, Fireworks.md",
+    "Others/Aporia.md",
+    "Others/Sun.md",
+    "(2020) Plagiarism/03. Prostitution.md",
+    "(2020) Plagiarism/06. Replicant.md",
+    "(2019) That's Why I Gave Up On Music/03. August, That Place, Moonlight.md",
+    "Others/Setting Sun.md",
+    "Table of Contents.md",
+    "template.md",
+    "Lore/Elma's Diary.md",
+    "Untitled.md",
+    "(2019) Elma/14. Nautilus.md",
+    "(2019) Elma/12. Amy.md",
+    "(2019) Elma/08. Walk.md",
+    "(2019) Elma/02. Just Sorrow.md",
+    "Lore/Letters to Elma.md",
+    "(2019) That's Why I Gave Up On Music/09. False Night.md",
+    "README.md",
+    "(2017) The Summer Grass Is Getting In My Way/07. The Clouds and the Ghost.md",
+    "Lore/Zense 2023 Live Stories.md",
+    "(2019) That's Why I Gave Up On Music/14. That's Why I Gave Up On Music.md",
+    "(2019) Elma/06. Dance of God.md",
+    "Others/Yuu, Sansan.md",
+    "(2019) That's Why I Gave Up On Music/06. Let's Dance.md",
+    "(2019) That's Why I Gave Up On Music/08. In May, From the Window with Emerald Green.md",
+    "(2019) That's Why I Gave Up On Music/04. Songwriting and Coffee.md",
+    "assets/letter to elma/8-25 thats why i gave up on music.jpg",
+    "assets/letter to elma/8-31 elma.jpg",
+    "assets/letter to elma/8-8.jpg",
+    "assets/letter to elma/5-6.jpg",
+    "assets/letter to elma/6-26.jpg",
+    "assets/letter to elma/5-29.jpg",
+    "assets/letter to elma/7-13.jpg",
+    "assets/letter to elma/4-20.jpg",
+    "assets/letter to elma/3-21 deep indigo.jpg",
+    "assets/letter to elma/3-14.jpg",
+    "assets/letter to elma",
+    "assets/gekkou",
+    "assets/zense",
+    "assets",
+    "TsukiNeko 2023",
+    "Lives",
+    "Gekkou",
+    "(2023) Magic Lantern/Untitled",
+    "Lore",
+    "8"
+  ]
+}
