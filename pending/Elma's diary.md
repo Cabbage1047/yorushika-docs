@@ -1,8 +1,6 @@
 
 pikapika-translate.blogspot.com
 Elma
-Nặc danh
-65–82 minutes
 
 Xin trả lại cho: Elma
 Người liên quan: Amy
