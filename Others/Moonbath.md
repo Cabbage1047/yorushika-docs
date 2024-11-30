@@ -1,7 +1,7 @@
 月光浴 | Gekkouyoku
-#### [OFFICIAL](https://yorushika.com/lyrics/detail/63/?lang=en) translation
+#### Lyrics
 
-| Japanese                                                       | Romanji                                                                                                                             | English                                                                                                                                                                |
+| Japanese                                                       | Romanji                                                                                                                             | [OFFICIAL](https://yorushika.com/lyrics/detail/63/?lang=en) translation                                                                                                |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 貴方の足が月を蹴った<br><br>白い砂が夜灯みたいだ<br><br>貴方は気付いているんだろうか             | Anata no ashi ga tsuki o ketta<br><br>Shiroi suna ga yatou mitai da<br><br>Anata wa kizuiteiru n darou ka                           | Your foot kicked the moon<br><br>The white sand glows like a night-light<br><br>I wonder if you have noticed                                                           |
 | 波の向こうに何かあった<br><br>それが何かわからなかった<br><br>少し寂しい                   | Nami no mukō ni nani ka atta<br><br>Sore ga nani ka wakaranakatta<br><br>Sukoshi sabishii                                           | There was something beyond the waves<br><br>I wasn’t sure what it was<br><br>It makes me a little sad                                                                  |

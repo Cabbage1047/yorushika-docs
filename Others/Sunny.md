@@ -1,7 +1,7 @@
 晴る | Haru [[#^title]]
-#### [OFFICIAL](https://yorushika.com/lyrics/detail/65/?lang=en) translation
+#### Lyrics
 
-| Japanese                                                   | Romanji                                                                                                                   | English                                                                                                                                                              |
+| Japanese                                                   | Romanji                                                                                                                   | [OFFICIAL](https://yorushika.com/lyrics/detail/65/?lang=en) translation                                                                                              |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 貴方は風のように<br><br>目を閉じては夕暮れ<br><br>何を思っているんだろうか              | Anata wa kaze no yōni<br><br>me o tojite wa yūgure<br><br>Nani o omotte-iru'n darou ka                                    | You’re there like a wind,<br><br>closing your eyes at sunset<br><br>I wonder what’s on your mind                                                                     |
 | 目蓋を開いていた<br><br>貴方の目はビイドロ<br><br>少しだけ晴るの匂いがした              | Mabuta o hiraite-ita<br><br>anata no me wa Bīdoro<br><br>Sukoshi dake haru no nioi ga shita                               | With your eyelids open,<br><br>your eyes shined like glass<br><br>It faintly smelled like a sunny day                                                                |
