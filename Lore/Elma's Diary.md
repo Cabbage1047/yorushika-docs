@@ -806,7 +806,7 @@ Inside of the box, there were dozens of letters and songs, notes written onto bl
 I don't have the technique to describe the contents of his letters. I can't even seem to understand the true value of what he was trying to say, even after rereading the letters to the point of wearing the paper down. I don't understand anything.
 
 For me, who was only ever following close behind him, I can't even think for myself anymore. Even now, I'm on this journey in order to imitate him. I'm writing songs in the same places that he did. Nothing has changed. Nothing comes to mind. 
-# 7/29
+# 7/27
 > [!Japanese]-
 > フォーレ島の北端へ。奇岩群を見た。
 > 見渡す限り石灰岩の砂浜。

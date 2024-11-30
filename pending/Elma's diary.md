@@ -4,7 +4,7 @@ Elma
 
 Xin trả lại cho: Elma
 Người liên quan: Amy
-
+# Ký ức 1
 Trong các tác phẩm luôn luôn có một vị thần cư ngụ, chính là câu cửa miệng của cậu ấy.
 Vị thần ấy không thể nào có mặt bên trong chúng ta, mà chỉ có thể ở lại trong những tác phẩm mà chúng ta tạo ra.
 Những tác phẩm có mặt thần thánh thì rất nhiều, nhưng con người mang trong mình một vị thần thì không có một ai cả.
@@ -21,12 +21,12 @@ Chuyện đó, đối với tớ vào mùa hè năm đó vốn dĩ sao cũng đ�
 
 Đối với tớ, ngay cả bây giờ cũng thế, cậu gần như là một vị thần.
 
-14/3
+# 14/3
 trên chuyến tàu đi từ Copenhagen lên phía Đông, mình đã bị nhân viên phục vụ trên xe yêu cầu xuất trình hộ chiếu.
 Mình lấy hộ chiếu ra khỏi túi du lịch, và nhận ra mình đã đi ra khỏi biên giới rồi. Ở ghế phía sau còn có tiếng nói chuyện bằng thứ tiếng mà mình chưa nghe thấy bao giờ.
 Bên ngồi toa tàu có đủ các thể loại người, đường ray tàu đung đưa trong gió biển lúc ẩn lúc hiện.
 
-5/9 Yuuichijou – Duy nhất một nỗi buồn
+# 5/9 Yuuichijou – Duy nhất một nỗi buồn
 Như thể đang ở dưới đáy hồ
 Hơi thở của tớ tắc lại trong cổ họng
 Thổi ra bọt khí, vài giây sau chân tớ đã chạm xuống
@@ -70,7 +70,7 @@ Cứ thế này thì đi đến đâu cũng được, hãy chạy đi thôi.
 
 Chú thích: Bài hát này Elma tự tưởng tượng mình như đang ở dưới đáy hồ và tả lại cảm giác ngột ngạt dưới đó, và từ dưới đáy hồ cô nhìn thấy những thứ trong suốt, mỏng manh, nhưng lại nói rằng “nếu nó rõ ràng hơn cả ảo ảnh (của Amy) thì thà để nguên như vậy còn hơn, vì cái chết vẫn còn nhẹ nhàng hơn so với việc phải đối diện với ảo ảnh đó.
 
-21/3
+# 21/3
 Từ Malmo đến Lund. Trong bức thư của cậu ấy viết đây là phố sinh viên. Mùa xuân ở Bắc Âu lạnh hơn mình nghĩ.
 Cậu ấy đã đi trên con phố này sao? Mình đã thuê một phòng trong nhà nghỉ bé ở góc phố.
 Bên lan can tưởng như sắp đổ sập đến núi, mình đang đọc lại những lá thư cậu ấy để lại. Hành động này gần như là công việc hàng ngày của mình rồi.
@@ -79,11 +79,11 @@ Mình cảm thấy sợ hãi. Những ngày tháng đã trải qua cùng cậu �
 Cứ mỗi ngày trôi qua chúng lại càng rỉ ra nhanh hơn.
 Những kỷ niệm rơi ra khỏi dung lượng của bộ não, chúng luồn qua cái lỗ nhỏ bị thủng dưới đáy. Mình phải viết nó vào nhật ký. Chí ít chỉ là một phần mình có thể viết hết ra thôi cũng được.
 
-22/3
+# 22/3
 Mình đã tìm được nơi cậu ấy chụp lại trong ảnh.
 Quảng trường ở phía Nam đi ra từ ga trung tâm, và gần đại học Lund là nhà thờ lớn với bức tường ngồi màu nâu đỏ, nhô lên khỏi mái nhà của các tồ nhà khác, lúc ẩn lúc hiện.
 
-22/3 Yuunagi, bou, hanamadoi – Tịch mịch, nơi nào đó, pháo hoa
+# 22/3 Yuunagi, bou, hanamadoi – Tịch mịch, nơi nào đó, pháo hoa
 Trước khi mùa hè đến, tớ đã khắc ghi vào trái tim những bông pháo hoa rơi xuống
 Màn đêm sẽ buông xuống, nên tớ chỉ mong chờ đến ngày kia
 Hãy nói một lần nữa đi, hãy nhớ lại ngày ấy trong tháng 8 đi
@@ -92,7 +92,7 @@ Gảy ghita theo nhịp hai, lời bài hát này có 380 chữ
 Tớ đặt bút viết rock and roll, tớ chỉ toàn hát về mùa hè năm đó
 
 Chỉ tạm biệt thôi thì không đủ
-Chỉ nhớ về những khúc ca viết trong những ngày hắt lên mình cậu màu hồng hôn đỏ thẫm thôi thì không đủ
+Chỉ nhớ về những khúc ca viết trong những ngày hắt lên mình cậu màu hoàng hôn đỏ thẫm thôi thì không đủ
 Cánh hoa trôi đi, tớ mong chờ mùa hạ, còn cậu thì hóa thành ngôn từ
 
 Tớ đã ghi lại bông pháo hoa mình thấy mùa hè năm đó để không quên đi
@@ -113,8 +113,7 @@ Chỉ hát thôi thì không đủ
 Hát sao cho đủ những khúc ca trong những ngày khốc lên mình cậu sắc hồng hôn đỏ thẫm
 Vì tớ còn muốn biết đến màn đêm xinh đẹp nữa
 Hoa bay trên trời, ngóng chờ mùa hè, ánh trăng soi rọi tớ
-
-23/3
+# 23/3
 Nhà thờ lớn Lund. Được xây vào thế kỷ 12, nằm ở trung tâm thành phố.
 Nhà thờ kiến trúc Roman, trần nhà cao, thờ Đạo Thiên Chúa.
 Bàn thờ được đặt ở chính giữa. Đại phong cầm.
@@ -126,7 +125,7 @@ Mình ngắm nhìn chiếc đồng hồ thiên vân mà Amy đã kể trong thư
 Dựa lưng vào chiếc ghế gỗ cuối nhà thờ, bắt chước cậu ấy duy trì những ngày viết nhạc ở đây.
 
 Mình thường hay nhớ lại, ngày đầu tiên gặp cậu ấy.
-
+# Ký ức 2
 Trên đường đến nhà bà, trời đổ mưa nên mình phải tìm chỗ trú. ở đó cậu ấy đang chăm chú viết lách gì đó. Trên chiếc bàn tròn bằng gỗ có chiếc đĩa nhỏ và tách Capuccino, nhìn chiếc tách không còn bốc hơi nóng nữa là đủ hiểu thời gian trôi qua đã lâu khiến nó nguội rồi. Cuốn sổ màu trắng đóng lò xo trên bàn, cục tẩy đặt trên mép để giữ trang giấy.
 Mắt cậu ấy chỉ hướng xuống dưới. Cậu ấy nhìn chằm chằm tờ giấy như thể chân lý của thế giới này đều được viết trong đó, biết bao nhiêu lần gõ đầu bút chì xuống bàn. Và rồi cậu ấy hí hốy viết như thể đã nhớ ra điều gì đó, nghỉ một hơi rồi lại nhìn tờ giấy.
 Ngồi ở một chỗ cách cậu ấy khá xa, mình buồn chán lấy tay vuốt theo vân gỗ trên bàn. Cơn mưa nặng hạt chẳng có vẻ gì sẽ tạnh, trong cặp mình cũng không có gì để giết thời gian cả.
@@ -142,17 +141,51 @@ Tiếng ghế kêu “cộc cộc” cái làm mình bừng tỉnh. Vội để 
 Cảm giác như mình đã làm chuyện gì đó tày trời giống như nhìn lén, nên mình đã lú đi và cúi mặt xuống. cơn mưa không biết từ lúc nào đã trở nên im ắng hẳn. Mùi hương của đầu hè dậy lên từ sàn gỗ ướt nước.
 Lần đầu tiên mình gặp Amy là ở hiên quán café tí tách mưa.
 
-5/4
+# 5/4
 Trên đường đi về phía Đông Bắc, do vấn đề về tàu nên mình đã trọ lại tại một thành phố trên đường đi. Tên nó là Jonkoping.
 Đó là một thành phố yên tĩnh nằm ở phía Nam của hồ lớn thứ hai đất nước này. Mình ngắm nhìn mặt trời hồng hôn không hề lặn trong đêm trắng*. Ngồi bên bãi cát, mình đắm mình trong làn gió hồ.
 Matsuo Basho hình như từng nói “Thơ Haiku phải giống như trẻ lên ba”. Trong thư cậu ấy cũng đã viết về điều này.
 Trong lúc tìm hiểu về Basho mình đã tìm đến cuốn sách viết về Yosa Buson. Nhà thơ này đã chịu ảnh hưởng từ Basho và sáng tác Haiku. Ông đi theo phong cách Shoufuukaiki (quay về phong cách Basho), nghĩa là phong cách thơ của Basho mới là chân chính, và sống cuộc đời ái mộ Basho.
 Không biết từ lúc nào, mình cũng đã đi theo con đường mô phỏng lại cậu ấy.
 
-*đêm trắng: Hiện tượng mặt trời không lặn trong suốt mùa hè ở hai cực Trái đất.
+đêm trắng: Hiện tượng mặt trời không lặn trong suốt mùa hè ở hai cực Trái đất.
+# 3/9 Ame to Capuccino – Mưa và Capuccino
+Những ngôn từ sáng dần sang sắc xám giống một ly capuchino
+Những lời biện hộ hãy bỏ lên bên ô cửa sổ đi
+Tớ đếm không nổi nữa rồi
+Trái tim cảu tớ sáng dần sang sắc xám giống một ly capuchino
+Biện hộ thế là đủ rồi, hãy uống một ngụm capuchino
+Cứ xem như tớ vừa nói đùa đi
+Cơn mưa như dao động mọi thứ
+Ngấm vào bông qua quật đổ chúng ta
+Những ký ức không hề phai mờ hình ảnh về cậu
+Xin cầu đừng, đừng đổ tràn chúng ra nữa
 
-3/9 Ame to Capuccino – Mưa và Capuccino
+Bờ biển chờ đợi cơn sóng, ánh mặt trời xuyên qua màn đêm đỏ thẫm
+Đọng lại bên cửa sổ
+Visby vào tháng 8 chờ đợi tiếng sóng vỗ trong vô vọng
+Chỉ còn lại gió biển lẻ loi
+Sắc trắng của bông hoa bơi trong mùa hạ
+Bị nhấn chìm vào màn đêm đang tuôn mưa dai dẳng
+Bông hoa hằn sâu hình bóng của đôi ta
+Xin cậu, xin cậu hãy găm nó vào sâu trong lồng ngực
 
+Tớ cứ mãi thấy thật kỳ lạ
+Tớ chỉ mong cậu chỉ cho tớ một lối để sống thôi
+Mặc dù tớ chẳng còn gì để trả được cho cậu
+Nhưng nếu cậu không biết phải trả lời sao, thì chỉ một từ thôi cũng được
+Tớ không hiểu được
+Thực sự tớ không biết đâu
+
+Cơn mưa như dao động mọi thứ
+Ngấm vào bông hoa quật đổ chúng ta
+Bài hát tớ biết ra để hình bóng cậu không phai màu
+Xin cậu, xin cậu đừng quên nó đi
+Lại một mùa hè nữa qua đi, tớ vẫn ôm một bông hoa trong tim
+Phía sau bờ mi đang nghẹn ngào của tớ
+Là bài ca tớ viết để hình bóng cậu không phai mờ
+Xin cậu, xin cậu đừng tràn ly
+# Ký ức 3
 Amy rất thích từ “lãng phí”.
 Và cậu ấy thích khoảng trống đến mức khó hiểu.
 Phòng của cậu ấy hều như chẳng có đồ đạc gì cả.
@@ -164,7 +197,7 @@ Ngồi ra, trong cuốn sổ nhật ký kiêm sổ ghi chép của cậu ấy, c
 Cậu ấy nói rằng, chính những khoảng trắng này là chiếc đĩa tiếp nhận năng lực tưởng tượng.
 Cậu ấy đôi khi cũng thể hiện tình yêu với những khoảng trống, bằng cách từng chút một lấp đầy những trang giấy trắng với những bài hát mới.
 
-1/5
+# 1/5
 Mình đã đến Linkoping.
 Đã đến thành phố này rồi, nhưng mình chẳng có cảm giác gì là cậu ấy đã đến đất nước này.
 Không có bất cứ dấu tích nào cho thấy cậu ấy đã ở đây.
@@ -179,7 +212,7 @@ Câu cửa miệng “Sao cũng được”. Sự khao khát mùa hè. Khát v�
 
 Mình biết. Tất nhiên, việc mình đang làm không phải là sáng tác gì cả. Nó chỉ đơn giản là mô phỏng.
 
-15/5
+# 15/5
 Mình đã đến Stockholm.
 Mình dùng bữa tại quán café gần cung điện Drottningholm.
 Nó chẳng có vị gì cả.
@@ -190,8 +223,7 @@ Ngày đó mình đã luôn sống với tâm thế như thể đang bị cái g
 Đời người chắc chắn cũng có thời hạn giữ hương vị ngon nhất.
 Đó là lời mà ngày trước mình đã nói với cậu ấy.
 
-28/5
-Kamisama no dance – Điệu nhảy của thần linh
+# 28/5 Kamisama no dance – Điệu nhảy của thần linh
 Quên đi thật là tàn nhẫn, quên đi thì hạnh phúc được sao?
 Có thứ gì đó không màu đã nở, nở trong mùa hè không có cậu
 Tớ không muốn bị cười nhạo, nên cứ cúi mặt xuống tỏ vẻ sợ hãi
@@ -234,27 +266,29 @@ Người đã làm tớ lệch lạc chính là cậu mà!
 
 Đúng vậy, tớ sẽ cứ như vậy đi thật xa
 Tìm ánh trăng ở một nơi không ai biết đến
-
+# Ký ức 4
 Nếu chỉ bỏ lại kỷ niệm rồi biến mất. Nếu chỉ có mình tớ bỏ lại kỷ niệm ở thành phố đó rồi đi. Nếu cậu chạy đi cùng với tớ, Amy à, tớ sẽ đi theo cậu đến bất cứ đâu. Tớ sẽ có thể vứt bỏ mọi thứ. Cho dù biết một ngày nào đó phải đối mặt với kết thúc, thì vẫn còn tốt hơn hiện tại không có gì cả. Ở một đất nước xa xôi nào đó, tớ sẽ quên hết mọi thứ, kể cả âm nhạc. Dù nghèo khó nhưng tớ sẽ cố gắng kiếm một công việc. ở trong một cùn phòng tồi tàn cũng không sao, hai chúng ta sẽ cùng nhau kiếm tìm sự sống, kiếm tìm trái tim. Chỉ cần được ở cùng với cậu thôi là được rồi.
 
 Thật đó, tớ chỉ cần như vậy thôi.
-
-15/6
+# 15/6
 Gamla Stan. Những bước chân dẫm lên bãi đá cuội.
 Trong bài hát viết vào cuối tháng 5, Amy đã nói sẽ viết về Gamla Stan sau cơn mưa. Nhưng cuối cùng cậu ấy đã không viết về điều đó. Trong những bức thư đề ngày tháng 6, chỉ tồn những bài hát viết về chủ đề khác.
 Mình muốn biết lí do của việc đó.
 
-16/6
+# 16/6
 Cậu ấy đã từng nói, một ngày nào đó sẽ đọc những bài hát mà mình viết, ghi nhớ ca từ, và sẽ rất ghen tỵ.
 Mình đã cười và chỉ nghĩ đó chỉ là lời trêu đùa dịu dàng.
 
-18/6 Mưa mãi vẫn không ngớt.
+# 18/6 
+Mưa mãi vẫn không ngớt.
 
-20/6 Hôm nay trời không mưa.
+# 20/6 
+Hôm nay trời không mưa.
 
-22/6 Ngày mà mình bắt gặp cậu ấy đi vào một bệnh viện nhỏ khi đang trên đường đến nhà công cộng, cũng là một ngày nắng đẹp như thế này.
+# 22/6 
+Ngày mà mình bắt gặp cậu ấy đi vào một bệnh viện nhỏ khi đang trên đường đến nhà công cộng, cũng là một ngày nắng đẹp như thế này.
 
-25/6
+# 25/6
 Mưa không có dấu hiệu ngừng. Cũng chẳng có việc gì làm, nên mình lại đi vòng quanh Gamla Stan. Gamla Stan giống như một mê cung được bày vào một hòn đảo nhỏ, trên đường lớn tấp nập khách du lịch.
 
 Trên ngõ có một cậu thiếu niên cởi trần.
@@ -268,10 +302,10 @@ Cậu bé không biết từ bao giờ đã biến mất.
 
 Bên cạnh cái cây được trồng trong góc khuôn viên có một cái bục bằng sắt hình vuông. Bên trên đó là một chiếc ghế dài nhỏ, và đi lên bục thì thấy cậu thiếu niên nhỏ con đang ngồi trên đó.
 Trời đã về chiều, những đám mây dần dần rủ nhau đi chơi. Bỗng có mùi mưa xộc lên.
-
+# 25/6
 Chắc cậu ấy cảm thấy ngạc nhiên khi thấy mình đi theo sau.
 Đến bây giờ mình vẫn không biết gì hết, cả cảm xúc của cậu ấy khi đó, cả điều cậu ấy muốn nói.
-
+# Ký ức 5
 Trong sảnh công của tồ nhà toạ(?) ở một nơi khá xa với nhà ga, có một cây đàn piano đứng cỡ nhỏ. Mình và Amy vào những ngày mưa thường đến đây chơi đàn. Tồ nhà này vốn dĩ không hút khách, và đến ngày mưa thì đương nhiên sẽ rất yên ắng, tiếng phím đàn và tiếng pedal hồ vào nhau có thể nghe rõ mồn một.
 Trong không gian tĩnh lặng như thể đã bị thuê đứt, tiếng đàn của cậu ấy vang lên như tiếng mưa vọng lại từ trong tự nhiên.
 Đối với những người hết mình với âm nhạc như cậu ấy thì có lẽ tiếng piano của mình chỉ là trò trẻ con.
@@ -284,10 +318,10 @@ Cậu ấy trên trọng ngay cả những nốt đánh sai của mình, xử s�
 Cậu ấy sống một cuộc đời để tái hiện lại nguyên vẹn tình yêu dành cho âm nhạc.
 Và rồi đến một ngày nọ, cậu ấy đã dừng chơi đàn.
 
-29/6
+# 29/6
 Mưa đã tạnh.
 
-30/6 Ame Haruru – Sau cơn mưa
+# 30/6 Ame Haruru – Sau cơn mưa
 Cuối cùng trời cũng mưa
 Tớ đã mãi thương nhớ màu xanh này
 Trái tim tớ đã lặng tiếng
@@ -328,24 +362,24 @@ Chúng rung động để tớ nhớ lại
 Tớ muốn viết nhiều hơn, viết bản tình ca mãi không nguội lạnh
 Mùa hè không có cậu lại sắp đến rồi
 
-2/7
+# 2/7
 Mình sẽ đi khỏi thành phố này.
 
-5/7
+# 5/7
 Có một bà lão trên chuyến phà đi đến đảo Gotland.
 Thấy bà lão chống gậy định leo cầu thang nên mình đưa tay ra định đỡ, thì bà lão nói “Tack”. Có vẻ bà không nhận ra mình không nói được tiếng nước này, nên bà cứ nhoẻn miệng cười và nói gì đó.
 Thấy mình không thể trả lời được, bà lão lấy từ trong chiếc túi nhỏ màu đen ra một tấm ảnh.
 Trong bức ảnh có 3 người cả nam cả nữ đang quây quần quanh bà lão trông trẻ hơn bây giờ và một ông lão và cười nói vui vẻ.
 Bà lão chậm rãi nói ra 3 từ gì đó nghe như tên của người trong ảnh. Mình vừa gật đều vừa suy nghĩ xem liệu họ đang ở đâu làm gì.
 
-6/7
+# 6/7
 Đảo Gotland, Visby.
 Một thành phố đẹp đúng như mình đã nghe nói.
 Trên đường hoa hồng nở rộ, nơi đâu cũng còn lưu lại các di tích cổ.
 Trong thành phố còn rải rác các bức tượng điêu khắc cừu để lưu lại dấu tích văn hóa chăn cừu đã từng rất phát triển.
 Một thành phố với những di tích và hoa hồng, với con dốc trải dài bắt đều từ bức tường Ringmuren bao quanh thành phố dẫn thẳng ra biển.
 
-8/7 Aruku – Bước đi
+# 8/7 Aruku – Bước đi
 Hôm nay tớ có cảm giác như mình sắp chết
 Tớ chỉ đợi đến ngày mai, nhìn mùa hè trôi đi
 Tớ thấy đằng nào cũng vậy, mình đã đi khá xa rồi
@@ -380,7 +414,7 @@ Tớ đã sống mà không hay biết gì cả
 Chỉ như vậy mà thôi
 
 Ngay bây giờ cũng vậy, Amy à
-
+# Ký ức 6
 Mình vẫn còn nhớ những điều Amy đã nói khi mình thổ lộ rằng muốn từ bỏ viết nhạc. “Ví dụ tài năng là một thứ gì đó giống như một sợi chỉ.”
 Khi cậu ấy nói như vậy, cậu ấy sẽ nhìn vào mắt mình để truyền dũng khí cho mình.
 Sợi chỉ đó mảnh mai, thổi thì sẽ đung đưa, mong manh đến sắp đứt, nhạt nhồ, lúc nào cũng rủ xuống trước mắt chúng ta trong cuộc sống hàng ngày.
@@ -397,18 +431,17 @@ Tất cả những giá trị mà con người tạo ra đều bình đẳng.
 Khái niệm tài năng, thực ra không hề có đâu Elma.
 
 Tớ không hiểu đâu Amy.
-
-10/7
+# 10/7
 Mình đi dạo quanh vài nơi cách hơi xa thành phố.
 Băng qua khu rừng, mình đến một vách núi đá cao, đứng trước mũi vách đá và nhìn ra tồn cảnh Visby ở phía xa.
 Có một con thuyền từ một vùng đất xa xôi đang bị hút vào bến cảng.
 
-12/7
+# 12/7
 Từ công viên Almedalen đi lên hướng Bắc, men theo đường bờ biển dọc bức tường Ringmuren. Bên trong bức tường đó là một công viên tự nhiên rộng lớn được bao bọc bởi cây xanh trù phú. Ở phía Bắc có một chiếc ghế dài được tạo ra phỏng theo bức tường. Phía xa xa còn nhìn thấy cả hai ngôi nhà san sát nhau. Một ngôi nhà to và một ngôi nhà nhỏ. Giữa 2 ngôi nhà đó là một con dốc thoai thoải.
 Ở đối diện bức tường Ringmuren, hồng hôn đã nhuộm đỏ trên bầu trời. Một chiều hồng hôn mờ khói nhá nhem tối.
 Từ xa tiếng chuông nhà thờ báo giờ vang lên.
-
-Khi mình đến tồ nhà công cộng nọ thì cậu ấy đang ngồi đánh piano, một điều khá là hiếm gặp. Những phím đànđàn vang lên chỉ bằng những cái chạm nhẹ.
+# Ký ức 7
+Khi mình đến tới nhà công cộng nọ thì cậu ấy đang ngồi đánh piano, một điều khá là hiếm gặp. Những phím đànđàn vang lên chỉ bằng những cái chạm nhẹ.
 Mình nghe thấy tiếng pedal bị nhấn xuống. Ngón tay cậu ấy nhảy múa giữa những khoảng lặng ngắn ngủi.
 Mình nhìn thật chăm chú, rồi cậu ấy phát hiện ra, cười gượng rồi đứng lên. Không khí hội trường lớn vào mùa hè vẫn còn vương lại chút mùi sau cơn mưa, qua lớp kính tường dày còn nghe thấy tiếng ve kêu.
 “Cũng vì cậu đã giỏi hơn tớ rồi”, cậu ấy cười và nói.
@@ -448,7 +481,7 @@ Cậu ấy đếm nhịp bằng ngón tay đang đặt trên piano.
 
 Và sau ngày hôm ấy, cậu ấy đã biến mất khỏi thành phố.
 
-6/9 Kokoro ni ana ga aita – Có một lỗ hổng trong trái tim
+# 6/9 Kokoro ni ana ga aita – Có một lỗ hổng trong trái tim
 Có một lỗ hổng nhỏ, thủng ngay giữa trái tim tớ
 Hồng hôn nhá nhem tối bao trùm lấy thành phố
 
@@ -494,16 +527,16 @@ Chiếc lỗ cứ rộng ra, lan ra, không còn quay lại được nữa
 
 Chỉ còn lại tớ với lỗ hổng lớn
 
-18/7
+# 18/7
 Tớ có ham muốn mãnh liệt nên muốn có tất cả mọi thứ. Giống như trên địa vị thì có danh dự, Tớ muốn được công nhận với tác phẩm.
 Tớ không thể viết nhạc mà chỉ nghĩ về nghệ thuật giống như cậu.
 Tớ không thể trở thành Henry Darger được. Tớ thấy không đủ. Tớ cái gì cũng không đủ Amy à. Tớ muốn có cái gì đó lấp đầy những khoảng trống trải trộng trong tim. Tớ muốn có danh tiếng để có thể lấp đầy nó. Tớ muốn trở thành cái gì đó, chứ không phải là bản thân mình.
 
-20/7
+# 20/7
 Ngồi trên chiếc ghế dài dọc theo tường Ringmuren, mình ngắm mặt trời không lặn.
 Đêm trắng vẫn chưa kết thúc. Ngày mai mình sẽ rời khỏi đây.
 
-22/7
+# 22/7
 Rời khỏi Visby, trên đường đến Faro, tại một nhà thờ trên đường làng được bao quanh bởi một khu rừng, mình lại gặp bà lão dạo trước. Bà có vẻ ngạc nhiên khi thấy mình, nhưng ngay sau đó đã mỉm cười.
 Trong khuôn viên nhà thờ có xếp cái gì đó dãn cách đều nhau. Rất nhiều bia mộ được làm từ nhiều vật liệu khác nhau. Mình đã hiểu ra ngay đây là một nghĩa trang.
 Bà lão chống gậy đi nên mình đỡ bà, và rồi bà dừng lại trước một bia mộ ở bên tay trái nhà thờ. Bà lão quỳ xuống, dâng hoa và nến, rồi nhắm mắt lại cầu nguyện.
@@ -514,7 +547,7 @@ Mình nghe thấy tiếng bà nói gì đó.
 Từ ngày hôm đó mọi thứ đều trở nên nhạt nhồ. Mọi thứ đều xiêu vẹo. Như thể chỉ có một mình mình bị bỏ lại dưới đáy hồ.
 Bà lão lấy khăn tay ra từ trong túi đen, đưa cho mình trong khi mình vẫn im lặng.
 Mình không nói gì cả, chỉ biết cúi xuống.
-
+# Ký ức 8
 Bà gọi cho mình nên mình về quê. Giữa các ngọn núi đã có sự chuyển màu, đã đến lúc mùa thu ghé đến nơi đây rồi. Bà nói ở nhà có cái gì đó kỳ lạ vừa được gửi đến. Mình nghĩ là bà muốn mình về nhà thôi. Mình cũng không đốn ra được là thứ gì, có vẻ nó là đồ được chuyển đến từ nước ngồi, nên mình có chút tò mò.
 Lúc ra khỏi nhà ga để về nhà bà, mình phát hiện ra quán café đã không còn nữa, thay vào đó là một tồ nhà nào đấy đang được thi công.
 Về đến nhà, bà liền nói “Con về rồi đấy à?” rồi đưa ra một gói hàng được bọc giấy. Một cái gì đó hình vuông vức. Bóc lớp giấy ra và bên trong là một chiếc hộp gỗ kỳ lạ, đã hơi biển.
@@ -522,18 +555,18 @@ Mình mở hộp ra, và đọc những bức thư mà Amy để lại.
 
 Từ ngày hôm đó, mình lúc nào cũng nằm mơ.
 
-24/7
+# 24/7
 Từ bến cảng Farosund, mình đi đảo Faro.
-Ơ đảo vẫn còn giữ lại hình thức chăn cừu nguyên thủy. Ở đâu cũng thấy cối xay gió.
-
+Ở đảo vẫn còn giữ lại hình thức chăn cừu nguyên thủy. Ở đâu cũng thấy cối xay gió.
+# Ký ức 9
 Trong hộp có vài chục lá thư và bài hát, nhạc phổ đã được viết nốt nhạc, và ảnh của một đất nước xa xôi nào đó. Chữ viết này không nhầm đi đâu được, chính là nét chữ hồi niệm của cậu ấy. Mình đọc ngấu nghiến những bức thư bên trong. Cậu ấy đã lên đường đến một nước Bắc Âu. Cậu ấy đã dành mấy tháng để vòng quanh cố đô Lund ở miền Nam, Linkoping, Thủ đô Stockholm, ở lại thành phố Trung Cổ Gamla Stan, rồi lại đến đảo Gotland, đảo Faro. Và cuối cùng cậu ấy quay lại Stockholm để kết thúc tất cả. Mình không có kỹ năng kể chuyện mà cậu ấy viết trong thư. Dù có đọc đi đọc lại đến mòn cả giấy mình cũng không thể hiểu được giá trị thật sự mà cậu ấy muốn truyền tải. Mình chẳng hiểu gì cả. Với một đứa chỉ biết lẽo đẽo theo sau cậu ấy như mình, giờ đã quá muộn để có thể tự mình suy nghĩ về mọi thứ. Kể cả bây giờ mình vẫn đang đi vòng quanh những thành phố cậu ấy đã đi qua, như một cách để bắt chước. Viết nhạc ở đó giống như cậu ấy đã làm. Chẳng có gì thay đổi hết. Mình chẳng nghĩ ra được gì cả.
 
-27/7
+# 27/7
 Mình đến cực Bắc của đảo Faro. Và mình nhìn thấy một tảng đá kỳ lạ.
 Nhìn qua thì đây là bờ biển với các tảng đá vôi. Ở đâu cũng thấy những táng đá to lớn cao vài mét đứng sừng sững.
 Tảng đá mà Amy đã chụp trong ảnh lại nổi bật hơn tất cả, nó cách xa so với những tảng đá khác và đứng một mình vẻ buồn bã.
 
-28/7 Koe – Giọng nói
+# 28/7 Koe – Giọng nói
 Không cách nào để chạm vào được, cũng không thể nào nhìn thấy được
 Dù dễ dàng quên đi, nhưng tớ vẫn muốn nhớ lâu hơn chút nữa
 Sự tồn tại của bài hát này.
@@ -562,7 +595,7 @@ Bình minh đỏ rực trên trời, tớ cắn môi đến đau nhức
 Hôm nay tớ vẫn chưa đến được thế giới của cậu
 Chỉ còn mình tớ, ngồi đây cười mà thôi
 
-30/7
+# 30/7
 Mình đã nằm mơ.
 Trên con đường làng không được rải nhựa, cậu ấy một mình bước đi.
 Phía trước con đường dài thênh thang là nhà thờ trong khu rừng.
@@ -583,11 +616,11 @@ Và rồi trong khi đó, bất chợt đâu đó trong đầu mình đã có m�
 Mình biết kết thúc của giấc mơ này.
 Khi mình ngẩng mặt lên, mình đã ở hiên quán café tí tách mưa.
 
-2/8
+# 2/8
 Mình trở về từ đảo Faro.
 Mình ăn ở một quán ăn gần bến cảng.
 Vẫn vậy, chẳng có vị gì cả.
-
+# Ký ức 10
 Mình vẫn nhớ cái ngày Amy bỏ mình lại mà đi. Và cả tâm trạng mình khi đó.
 Mình đi tìm cậu ấy, khóc, cho dù bị xoay vần bởi cái lỗ hổng trong đầu mình, bởi sự trống rỗng, bởi sự thống khổ giằng xé trái tim, thì sâu trong trái tim mình vẫn có một cảm xúc khác che giấu chúng đi.
 Mình đã cảm thấy khuây khoả hơn một chút.
@@ -603,7 +636,7 @@ Thật sự cắn rứt quá thể, giống như con kỳ nhông không thể th
 Mình không thể thay đổi điều gì cả.
 Mình chỉ biết ôm vào lòng cuốn nhật ký lấy trộm được từ phòng cậu ấy. Từ ngày hôm đó, mình luôn chìm trong giấc mơ.
 
-7/8
+# 7/8
 Quay trở lại Visby, thành phố tràn ngập người qua lại.
 Hỏi thử người qua đường thì mới biết là thành phố đang bước vào tuần lễ Trung Cổ. Nghe nói đây là lễ hội mà họ sẽ tưởng nhớ những truyền thống cũ, cả người và thành phố đều sẽ quay lại thời kỳ đó. Từ những phụ nữ mặc trang phục dân tộc đội khăn trùm đều, những thanh niên mặc giáp kị sô, đến những người mặc đồ cướp biển thời Trung Cổ.
 Chỗ nào cũng mọc lên cửa hàng, cho đến những con hẻm chật hẹp cũng chật ních người. Thành phố trở nên nhộn nhịp tràn đầy không khí lễ hội.
@@ -611,35 +644,35 @@ Trong đám Đông, mình nghe thấy tiếng nhạc. Tiếng sáo nhạc cụ d
 Đi ra quảng trường, có một đồn người cầm tay nhau nhảy múa theo một nhóm nhạc đang chơi nhịp ba.
 Bỗng dưng mình nghĩ, có khi cậu ấy đã xem lễ hội này rồi.
 
-10/8
+# 10/8
 Công viên Almedalen. Một chú chim nhỏ đang chạy nhảy trước mặt mình.
 Ở đất nước này cũng có chim sẻ ư. Mình ngồi xuống chiếc ghế được bao quanh bởi cây cối, trầm tư suy nghĩ. Mình không hiểu nổi vì sao không thể đi bút. Mình chẳng viết được gì cả.
 
 Không nghĩ được gì cả.
 
-15/8
+# 15/8
 Trời mưa rồi. Mình trú mưa trong tháp canh được xây trong bức tường Ringmuren. Mình leo cầu thang lên mấy tầng và nhìn xuống, và thấy chiếc ghế dài trông rất kì lạ.
 Kỷ niệm với cậu ấy đã cạn hết rồi. Mình không còn viết được gì nữa.
 
-21/8
+# 21/8
 Không viết được gì cả.
 
-22/8
+# 22/8
 Trong nhà ăn ở nhà nghỉ, mình cắt bánh mì ra ăn.
 Cậu ấy nếu ăn đoản lắm. Nói là lười làm việc nhà chắc cũng không sai.
 Hai đứa vẫn thường cắt bánh ra ăn như thế này.
 
-23/8
+# 23/8
 Không nghĩ ra được gì cả.
 
-25/8
+# 25/8
 ~~Không viế~~　　~~Hôm na~~
 Mình không viết được gì hết.
 
-26/8
+# 26/8
 Không viết được gì cả.
 
-27/8
+# 27/8 (#1)
 Mình rời khỏi thành phố và đi lên phía Bắc.
 Một mình bước đi trên con đường chưa được trải nhựa.
 Trong đầu mình có một khoảng trống. Một khoảng trống giống như được sơn lên một màu trắng tinh không pha tạp.
@@ -678,7 +711,7 @@ Mình với tay ra tóm lấy nó. Mình biết thứ này.
 
 Mình biết chiếc bút máy này.
 
-27/8
+# 27/8 (#2)
 Trên bãi cát gần cầu tàu, có một lọ mực lăn lông lốc.
 Dưới bóng của tảng đó cách đó không xa, mình tìm thấy chiếc cặp của cậu ấy.
 
@@ -696,7 +729,7 @@ Nếu những bức thư được gửi đến cho mình là “viết nháp”,
 
 Cuốn sổ đã oằn mình trong gió biển đang ở trước mắt.
 Mình mở bìa ra và đọc những thứ cậu ấy viết.
-
+# Ký ức 1111
 Tớ muốn trở thành cái gì đó. Một ai đó ngồi tớ ra.
 Tớ muốn một bản thân không bị khinh thường, tớ muốn một bản thân không chịu thua trước ác ý của người khác.
 Tớ khổ quá. Tớ không đáp trả được gì cả, tớ ghét chính mình như thế này.
@@ -716,7 +749,8 @@ Nhưng chỉ có vị thần đó là biết cậu. Vị thần nghệ thuật �
 
 Elma, điều cậu muốn làm là gì?
 Điều cậu thực sự muốn tìm thấy là gì?
-
+Amy, tớ...
+# Ký ức 12
 Cuốn sổ của Amy đã có đôi chỗ không còn đọc được nữa vì gió biển, nhưng hều hết đều viết những nội dung giống với những bức thư. Duy chỉ có những trang cuối là khác.
 Trong đó có kẹp vài bài hát mà cậu ấy không viết trong thư. Một bài hát nói về nắng lên sau cơn mưa, một bài hát nói về việc ngủ vào mùa đông và chờ đợi mùa hè. Một bài hát tự so sánh mình với kẻ thua cuộc. Ngày tháng thì thưa thớt, những tờ được viết sau đôi chỗ bị mờ và nhoè. Tuy thế nét chữ vẫn rất ngay ngắn.
 
@@ -727,7 +761,7 @@ Tiêu đề bài hát được viết chèn vào khoảng trống, là “Elma�
 
 Là cái tên cậu ấy đã cho mình.
 
-16/9 Amy
+# 16/9 Amy
 Tự nói ra thêm một lần nữa, đàn ghita vang lên hai phách
 Lời bài hát viết ra đã đến nhịp ba, mùa hè thứ tư đã đến rồi
 
@@ -767,7 +801,7 @@ Cuộc đời này tất cả đều thật ngu ngốc
 Vậy mà ngay cả đám mây trắng trôi trên cao
 Trí tưởng tượng của nó cũng đi theo tớ
 Cậu đã ở lại mãi trong mùa hè năm đó rồi
-
+# Ký ức 1313
 “Cậu có biết thứ âm nhạc đẹp đẽ nhất trên thế gian nằm ở đâu không?”
 
 Khi mình trả lời là không biết, cậu ấy đã nắm lấy đều mình và lắc nhẹ. “Đầu ư?”, mình hỏi. Cậu ấy gật đầu.
@@ -789,7 +823,7 @@ Tại sao tớ lại không suy nghĩ thấu đáo chứ! Bằng cái đầu nà
 
 Amy, tại sao tớ lại, Amy, tớ…
 
-Nautilus
+# Nautilus
 Chuông báo thức reo, cuối cùng tớ cũng tỉnh dậy
 Trận ốm hôm qua cứ như đùa vậy
 Đang định ra ngoài thì, ah.. dự báo nói trời sẽ mưa
@@ -835,42 +869,42 @@ Khi màn đêm cuối cùng cũng qua đi
 Cậu hãy tỉnh dậy và nhìn đi
 Hình ảnh cậu với đôi mắt còn mơ ngủ, tớ sẽ mãi khắc họa nó
 
-3/9
+# 3/9
 Mình quay về phòng khách sạn. Mình sẽ viết bài hát vào những khoảng trống trong sổ nhật ký.
 Giống như cậu ấy khi còn sống đã làm.
 Tân bài hát là Mưa và Capuccino.
-
+# Ký ức 14
 Amy luôn luôn cười thật dịu dàng.
 Cứ đến phòng cậu ấy, nghiễm nhiên cậu ấy sẽ gảy đàn và hát cho mình nghe những bài cậu ấy sáng tác.
 Bài hát của Amy có mùi thật hồi niệm ở đâu đó.
 Nó có màu sâu thẳm như bầu trời xanh cuối hè.
 Thế nhưng đâu đó vẫn riêng biệt, kháng cự, thoáng thấy lòng tự trọng như chiếc vỏ bọc ôm lấy cậu ấy, và mình thấy mừng thầm vì điều đó
 
-5/9
+# 5/9
 Từ nhà thờ lớn Santa Maria đi lên cầu thang về hướng Đông.
 Mình viết nhạc trên ghế dài trên ngọn đồi.
 Tân bài hát là “Duy nhất một nỗi buồn”.
-
+# Ký ức 15
 Amy thích từ “lãng phí”.
 Trong lúc chơi piano, mình mà cố ý thêm mấy nốt không có trong bản nhạc là cậu ấy sẽ mỉm cười với mình.
 “Đó là sự lãng phí đáng để yêu thương đấy, Elma.
 Đó là bối cảnh sáng tác vô cùng nguyên thuỷ đó.
 Jazz Standard và Rock and Roll, đều được sinh ra từ sự lãng phí không có trong bản nhạc.”
 
-6/9
+# 6/9
 Mình viết nhạc. Tên bài hát là Có một lỗ hổng trong trái tim.
-
+# Ký ức 16
 Đọc sách rất quan trọng đó.
 Cái cốt lõi của sáng tác bao giờ cũng nằm ở chữ.
 Elma, sách được viết từ chữ.
 Cuốn sách mà cậu đang cầm, có thể chính là thứ mà vị thần nghệ thuật đang đọc đấy.
 
-7/9
+# 7/9
 Ngôn từ dâng tràn. Nốt nhạc đang nhảy múa trong đầu mình.
 Kỷ niệm đang xoay vòng. Viết ra không hết.
 Hết trang trống này đến trang trống khác trong sổ, cả những khoảng giữa ngày tháng quá khứ, mình đều tuôn ra kỷ niệm với cậu ấy.
 Tại sao tớ lại quên đi chứ. Amy, tại sao tớ lại thế này.
-
+# Ký ức 17
 Tháng 8 rồi. Ở thành phố vẫn còn lại chút hơi nóng, pháo hoa đã bắn lên. Trên bầu trời chiều lặng gió.
 Amy dừng gảy đàn ghita và mở cửa tiến ra ban công.
 “Elma, pháo hoa kìa.”, cậu ấy nói.
@@ -878,7 +912,7 @@ Mình dừng viết nhạc lại và đi ra ngồi.
 Bị tòa nhà cao tầng che mất, pháo hoa nhìn từ ban công bị cắt chỉ còn một nửa vòng tròn.
 Amy dịu dàng cười.
 
-8/9
+# 8/9
 Mình đã quay lại bãi biển đó một lần nữa.
 Lúc đi dạo trên cát mình đã tìm ra một chiếc cầu tàu cũ khác.
 Nó giống như đúc cái cầu mà mình đã nhảy xuống, nhưng vẫn hơi khác ở chỗ là gỗ sắp mục rồi.
@@ -886,7 +920,7 @@ Nó giống như đúc cái cầu mà mình đã nhảy xuống, nhưng vẫn h�
 Chiếc hộp đựng ghita của cậu ấy bị vứt chỏng chơ ở đó.
 Trong hộp có cây đàn ghita acoustic và một tờ giấy viết bài hát.
 Tên của nó là Nautilus.
-
+# Ký ức 18
 Tớ thích cả tiếng piano của cậu, và cả bài hát của cậu, Elma à.
 Đừng làm vẻ mặt như thế chứ.
 Một ngày nào đó cậu sẽ lớn lên. Cậu sẽ trở thành một nhạc sĩ viết được những tác phẩm hay.
@@ -898,24 +932,24 @@ Tớ đã nói rồi mà.
 Thứ quan trọng không phải là đánh giá của người khác.
 
 Mà là âm nhạc, Elma à.
-
+# Ký ức 19
 Elma à, hãy trở thành một người rộng lượng nhé.
 
-10/9
+# 10/9 (#1)
 Bên trong mình không có gì gọi là ánh trăng cả. Tớ không hiểu được ánh sáng mà cậu nhìn thấy là gì.
 Chỉ là, mỗi lần viết những bài hát bắt chước cậu thì bầu trời trong xanh lại hiện lên trong đều tớ.
 Phía bên kia của bài hát tớ nhìn thấy khuôn mặt đó.
 
-10/9
+# 10/9 (#2)
 Cho đến giờ tớ vẫn không hề có suy nghĩ gì về việc khẳng định nghệ thuật cả.
 Đến cả lí do cho việc lên đường theo dấu cậu rồi viết nhạc cũng không phải nó.
 Mặt sau của sự dối lòng luôn có cái tôi. Tất cả đều là vì bản thân tớ.
 Thật sự chỉ có vậy thôi, Amy.
 
-11/9
+# 11/9
 Cuối cùng tớ cũng đã hiểu.
 
-12/9
+# 12/9
 Amy, tớ đã nghĩ rồi.
 Đầu tiên, tớ muốn viết nhạc bằng những bài hát cậu đã để lại.
 Đây là lần đều tiên từ khi cha sinh mẹ đẻ. Lần đều tiên tớ cảm thấy muốn làm cái gì đó như thế này.
@@ -931,12 +965,12 @@ chỉ vậy là đủ.
 
 Đây là chuyến hành trình vĩnh viễn đi tìm kiếm ánh trăng mà ngày hôm đó cậu ấy đã thấy trong mình.
 
-14/9
+# 14/9
 Mình cũng chuẩn bị dừng viết nhật ký thôi.
 Câu chuyện không có hồi kết sẽ rất nhàm chán. Đó là lời của cậu ấy.
 Thứ mà mình đã viết ra, thì chính mình sẽ kết thúc nó.
 
-25/9
+# 25/9
 Mình lên thuyền tại cảng của thành phố.
 Vừa leo lên boong tàu để nhìn xuống cảng thì mình thấy bà lão mình đã tạm biệt ở nhà thờ.
 Bà lão được những người trông có vẻ là con cháu quây quần xung quanh, cười rất tươi.
