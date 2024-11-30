@@ -1,8 +1,8 @@
 
-#### 
+#### Lyrics
 
-| Japanese | Romanji | English |
-| -------- | ------- | ------- |
-|          |         |         |
+| Japanese | Romanji |     |
+| -------- | ------- | --- |
+|          |         |     |
 ##### Notes
 >
