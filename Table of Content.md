@@ -82,7 +82,7 @@
 [[02. Burglar]] | 昼鳶 | Hirutonbi
 [[03. Prostitution]] | 春ひさぎ | Haru Hisagi
 [[04. Bomber]] | 爆弾魔 | Bakudanma **Re-recording**
-Adolescent, Burglar | 青年期、空き巣 | Seinenki, Akisu *instrumental*
+[[05. Adolescent, Burglar]] | 青年期、空き巣 | Seinenki, Akisu *instrumental*
 [[06. Replicant]] | レプリカント | Replicant
 [[07. Flower and Badger Game]] | 花人局 | Hanamotase
 [[08. Middle Age, Plagiarist]] | 朱夏期、音楽泥棒 | Shukaki, Ongaku Dorobou *instrumental*
@@ -110,7 +110,7 @@ Adolescent, Burglar | 青年期、空き巣 | Seinenki, Akisu *instrumental*
 *Full Album*
 ![[GENTOU.png]]
 ### Song list
-Chapter 1 : Portrait of Summer | 第１章：夏の肖像
+**Chapter 1 : Portrait of Summer | 第１章：夏の肖像**
 	[[01. The Portrait of Summer]] | 夏の肖像 | Natsu no Shouzou
 	[[02. Miyakoochi]] | 都落ち | Miyakoochi
 	[[03. Bremen]] | ブレーメン | Bremen
@@ -126,7 +126,7 @@ Chapter 1 : Portrait of Summer | 第１章：夏の肖像
 	[[13. Isana]] | いさな | Isana
 	[[14. Left-Right Confusion]] | 左右盲 | Sayuumou
 	[[15. Algernon]] | アルジャーノン | Algernon
-Chapter 2 : Dancing Animals | 第２章：踊る動物
+**Chapter 2 : Dancing Animals | 第２章：踊る動物**
 	[[16. First Night]] | 第一夜 | Daiichiya
 	[[17. Second Night]] | 第二夜 | Dainiya *instrumental*
 	[[18. Third Night]] | 第三夜 | Daisanya *instrumental*

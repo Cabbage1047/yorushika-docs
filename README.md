@@ -2,6 +2,23 @@
 # Setup
 ## Plugin
 1. `Dataview` plugin with enabled Javascript queries and Javascript inline queries
+## Folder structure
+```
+Vault
+┣━ 📂 _script
+┃  ┣━ 📃 view.js
+┃  ┗━ 📄 config.md
+┣━ 📄 README.md
+┣━ 📄 Table of Content.md
+┣━ 📂 audio
+┃  ┣━ 📂 Yorushika - Tosaku (plagiarism) (3rd Album)
+┃  ┃  ┣━ 🎵 06 レプリカント .mp3
+┃  ┃  ┗━ ... (other Plagiarism tracks)
+┃  ┣━ ... (other album folders)
+┃  ┣━ 🎵 01. アポリア.mp3
+┃  ┗━ ... (other singles)
+... (other files)
+```
 # Known issues
 - Audio playback is paused when scroll far away from the audio player
 	- Use `View mode`
