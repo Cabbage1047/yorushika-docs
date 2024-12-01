@@ -1,3 +1,6 @@
+```dataviewjs
+await dv.view('_script');
+```
 ルバート | Rubato [[#^title]]
 #### Lyrics
 

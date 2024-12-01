@@ -1,3 +1,6 @@
+```dataviewjs
+await dv.view('_script');
+```
 アポリア | Aporia [[#^title]]
 #### Lyrics
 

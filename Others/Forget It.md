@@ -1,3 +1,6 @@
+```dataviewjs
+await dv.view('_script');
+```
 忘れてください | Wasurete Kudasai
 #### Lyrics
 

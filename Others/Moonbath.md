@@ -1,3 +1,6 @@
+```dataviewjs
+await dv.view('_script');
+```
 月光浴 | Gekkouyoku
 #### Lyrics
 

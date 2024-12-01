@@ -1,7 +1,7 @@
 const CONFIG_FILE = "_script/config.md";
 const ROOT_DIR = "root";
 const ALBUM_DIR = "dir";
-const ALBUM_FALLBACK = "others";
+const ALBUM_FALLBACK = "Others";
 const DEBUG_LOG = true;
 
 const config = dv.page(CONFIG_FILE).file.frontmatter;
@@ -31,12 +31,12 @@ function trackInfo() {
 function audioFilePath(album, track) {
   const albumConfig = config[album] || config[ALBUM_FALLBACK];
   if (!albumConfig) {
-    error(`${album} not found and no fall back.`);
+    error(`${album} not found and no fall back ${ALBUM_FALLBACK}.`);
     return;
   }
-  const albumPath = albumConfig[ALBUM_DIR];
+  const albumPath = albumConfig[ALBUM_DIR] ? `/${albumConfig[ALBUM_DIR]}` : '';
   const trackFile = albumConfig[track];
-  return `${rootPath}/${albumPath}/${trackFile}`;
+  return `${rootPath}${albumPath}/${trackFile}`;
 }
 
 async function loadAudio(args) {
