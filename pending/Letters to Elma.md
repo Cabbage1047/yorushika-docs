@@ -88,6 +88,7 @@ Phong cảnh nhàm chán giữa một buổi trưa miên man
 Tớ ngả lưng dưới chân cầu vượt, và cậu thì không có ở đây
 Một tiếng vỗ tay vang lên trong cuộc đời tựa trang giấy trắng
 Ngày hôm nay tớ vẫn hát về mình, một kẻ bên trong rỗng tuếch
+
 Vẫn như mọi khi
 Trong cuốn vở viết câu chuyện mà cậu là nhân vật chính
 Điện nước đều bị cắt
@@ -95,27 +96,33 @@ Thế gian và thời sự, tất cả đều là việc của người dưng
 Cả cuộc đời này là của tớ, cũng chỉ như mực trên giấy mà thôi
 Cả giấc mơ mà tớ vẽ ra trong đầu suốt dạo đó
 Thời hiệu của nó kéo dài đến tận khi tớ đã lớn lên
-Dù chỉ  là ngước lên nhìn một đám mây
+
+Dù chỉ là ngước lên nhìn một đám mây
 Ánh mắt của tớ ngày hôm nay vẫn trôi về một nơi xa
 Trong màn đêm tớ ngước nhìn về xa xăm, một bông hoa đang bơi trên bầu trời
 Như thể tớ đã lạc mất cậu
 Đến mức nhầm lẫn bông hoa đó với mùa xuân
+
 Tớ nhìn xuống dưới để không bị vấp ngã
 Cuộc đời này chỉ cần thỏa hiệp là đã yên ổn rồi
 Trái tim, vận mệnh, tình ca, cuộc đời, tớ đều không tin
 Những thứ không bán đi được đều là đồ bỏ
+
 Qua bao đêm dài cố tình ru mình vào giấc mộng
 Giờ đây tớ vẫn đang vật vờ chờ đợi thời hiệu kết thúc
 Chỉ là phía sau bờ mi của tớ
 Tớ vẫn chỉ thấy hình bóng cậu hiện lên xa xăm
+
 Trong cuốn vở, nơi một góc đêm nhạt nhòa, một bông hoa đang bơi trên bầu trời
 Tất cả trong mắt tớ đều là một
 Cuộc đời là một chuỗi những thỏa hiệp
 Chuyện đó tớ đã thấu từ thuở nào rồi
+
 Elma, chính là cậu đó
 Chỉ có cậu mới là âm nhạc của tớ
 Bài hát này chỉ còn 80 chữ nữa thôi
 Bởi vì giá trị của cuộc đời này chính là cách để kết thúc bài hát
+
 Chỉ vẽ lên hình bóng cậu thôi
 Sắc chàm trong ánh mắt tớ đã thấm nhòe trang giấy rồi
 Trên màn đêm tớ ngước nhìn xa xăm, một bông hoa bơi trên bầu trời
@@ -138,6 +145,7 @@ Làm nhạc và cuộc sống tớ đều không quan tâm nữa
 
 Trong tớ giờ chỉ còn những thứ khiến tớ không ưa
 
+
 Một đêm trăng sáng tháng 8, tớ cùng với cậu bay lên bằng chiếc xe đạp
 
 Ta đi qua chân cầu vượt Higashifushimi, Kodaira, đường Fujimi và khu mua bán
@@ -145,6 +153,7 @@ Ta đi qua chân cầu vượt Higashifushimi, Kodaira, đường Fujimi và khu
 Cơn gió đêm sượt qua mũi, cơn đau trong tim này hẳn là do tưởng nhầm rồi
 
 Tớ hiểu rồi, tớ vờ như không hiểu mà thôi
+
 
 Thật tệ hại, thật tệ hại, tất cả mọi thứ của tớ đều quá tệ hại
 
@@ -154,11 +163,13 @@ Thật tệ hại, quá tệ hại, tệ đến mức cảm thấy thoải mái 
 
 Riêng lời bài hát này cũng đã là thứ tệ hại rồi
 
+
 Cuộc đời tớ nếu có thể chấm dứt ở tuổi 27, vậy thì bài rock and roll cùng cậu viết đã cứu rỗi tớ
 
 Tớ phải dừng suy nghĩ đi thôi, vì đằng nào cũng chết
 
 Tớ không cần cậu, cũng không cần gì hết!
+
 
 Trái tim thật phiền phức, càng cười thì cổ họng càng khô rát
 
@@ -167,6 +178,7 @@ Lần đầu tiên tớ đã bán đi trái tim mình
 Cơn đau tim hay là sự tự tôn, tớ chẳng thiết gì nữa rồi
 
 Tớ cúi đầu trước những kẻ tớ không ưa
+
 
 Một ngày tháng 8, tớ băng qua cảnh sắc dạo ấy
 
@@ -178,6 +190,7 @@ Bầu trời xanh này hẳn cũng là do tớ tự tưởng tượng ra
 
 Mỉm cười, một khuôn mặt tươi cười…
 
+
 Thật tệ hại, thật ngạo mạn, cả cậu và những người khác đều quá sân si
 
 Những bài hát lãng mạn và cả tình yêu đều thật ngờ ngệch
@@ -187,6 +200,7 @@ Tớ biết rồi, tớ hiểu rồi
 Cho dù tớ có hét lên “thật tệ hại” bao nhiêu lần đi nữa
 
 Cuộc đời của cậu vẫn là của cậu mà thôi
+
 
 Phải rồi, đúng là vậy rồi
 
@@ -198,17 +212,20 @@ Vì thần thánh đâu có tồn tại ở đó
 
 Tội lỗi, sai lầm, tội phạm, tự sát, chiến tranh, thiểu số, tất cả tớ đều không quan tâm
 
+
 Thật tệ hại, quá tệ hại, lời tạm biệt thật là ngạo mạn
 
 “Tớ muốn chấp nhận mọi thứ thuộc về cậu”
 
 Đấy chỉ là lừa gạt thôi Elma à
 
+
 Thật tệ hại, quá tệ hại, tình cảm của tớ quá bao la
 
 Tớ muốn khóc thương cho bản thân mình vào một đêm lãng mạn.
 
 (Amy muốn chôn cất con người yếu đuối thật sự bên trong mình, chỉ để lại vỏ bọc mình tạo dựng lên để không đau khổ nữa)
+
 
 Thật tệ hại, quá tệ hại, câu từ thật quá rườm rà
 
@@ -220,11 +237,12 @@ Thật tệ hại, quá tệ hại, bài hát này mà bị cười nhạo thì 
 
 Vì lời bài hát này toàn gieo vần “tệ hại” mà thôi
 
+
 Cuộc đời tớ nếu có thể chấm dứt ở tuổi 27, vậy thì bài rock and roll cùng cậu viết đã cứu rỗi tớ
 
 Tớ phải dừng suy nghĩ đi thôi, vì đằng nào cũng chết
 
-Hiện tại, tình yêu, quá khứ, ước mơ, ký ức, bài hát ngâm nga, đôi mắt nhạt nhoà, màn đêm mờ ảo, 
+Hiện tại, tình yêu, quá khứ, ước mơ, ký ức, bài hát ngâm nga, đôi mắt nhạt nhòa, màn đêm mờ ảo, 
 
 Sự dịu dàng, nỗi thống khổ, bó hoa, sự u uất, mùa hè năm đó, bài hát này,
 
@@ -241,212 +259,212 @@ Thói quen hằng ngày của tớ là tránh giờ làm lễ ra, ngồi ở m�
 
 Tớ vừa nhớ lại cuộc sống ở Seki vừa viết nhạc.
 # 24/4 Utagaki to Coffee
-Saiteigen no seikatsu de chiisana heya no roku jou de  
-最低限の生活で小さな部屋の六畳で  
+Saiteigen no seikatsu de chiisana heya no roku jou de
+最低限の生活で小さな部屋の六畳で
 Giá mà có thể cùng sống với cậu
 
-Kimi to kurasereba yokatta  
-君と暮らせれば良かった  
+Kimi to kurasereba yokatta
+君と暮らせれば良かった
 Một cuộc sống tối giản trong căn phòng sáu chiếu
 
-soredake kangaeteita  
-それだけ考えていた  
+soredake kangaeteita
+それだけ考えていた
 Tớ chỉ nghĩ về điều đó mà thôi
 
-Shiawase no iro wa jun toumei  
-幸せの色は準透明  
+Shiawase no iro wa jun toumei
+幸せの色は準透明
 Màu của hạnh phúc là màu dần ngả sang trong suốt
 
-nara mienai hou ga yokatta  
-なら見えない方が良かった  
+nara mienai hou ga yokatta
+なら見えない方が良かった
 Nếu vậy thì tớ thà không nhìn thấy nó còn hơn
 
-Nani mo dekinai noni kyou ga owaru  
-何も出来ないのに今日が終わる  
+Nani mo dekinai noni kyou ga owaru
+何も出来ないのに今日が終わる
 Hôm nay vẫn trôi đi mà tớ chẳng làm được gì cả
 
-Saiteigen no seikatsu de chiisana heya no roku jou de  
-最低限の生活で小さな部屋の六畳で  
+Saiteigen no seikatsu de chiisana heya no roku jou de
+最低限の生活で小さな部屋の六畳で
 Mỗi ngày tớ đều nhìn lên trần nhà
 
-Tenjou wo nagameru mainichi  
-天井を眺める毎日  
+Tenjou wo nagameru mainichi
+天井を眺める毎日
 Một cuộc sống tối giản trong căn phòng sáu chiếu
 
-nani ka wo kangaeteita  
-何かを考えていた  
+nani ka wo kangaeteita
+何かを考えていた
 Tớ suy nghĩ về điều gì đó
 
-Shiawase no kachi wa roku man yen  
-幸せの価値は60000円  
+Shiawase no kachi wa roku man yen
+幸せの価値は60000円
 Hạnh phúc có giá 60.000 yên
 
-Yachin ga hikarete yon sen yen  
-家賃が引かれて4000円  
+Yachin ga hikarete yon sen yen
+家賃が引かれて4000円
 trừ đi tiền nhà thì còn 4000 yên
 
-Boyaketa atama de omoide wo asaru  
-ぼやけた頭で想い出を漁る  
+Boyaketa atama de omoide wo asaru
+ぼやけた頭で想い出を漁る
 Đầu óc tớ mờ nhạt đi lục tìm những ký ức
 
-Sameta me de ai wo kataru you ni natteita  
-冷めた目で愛を語るようになっていた  
+Sameta me de ai wo kataru you ni natteita
+冷めた目で愛を語るようになっていた
 Tớ đã có thể kể về những chuyện tình bằng đôi mắt bâng quơ
 
-Sameta koohii mo aikawarazu sou nanda  
-冷めたコーヒーも相変わらずそうなんだ  
+Sameta koohii mo aikawarazu sou nanda
+冷めたコーヒーも相変わらずそうなんだ
 Còn tách cà phê nguội thì vẫn thế
 
-Kirai da  
-嫌いだ  
+Kirai da
+嫌いだ
 tớ vẫn ghét nó
 
-Wakan nai yo wakan nai yo  
-わかんないよ　わかんないよ  
+Wakan nai yo wakan nai yo
+わかんないよ　わかんないよ
 Tớ không biết, không biết đâu
 
-Wakan nai yo wakan nai yo  
-わかんないよ　わかんないよ  
+Wakan nai yo wakan nai yo
+わかんないよ　わかんないよ
 Tớ không biết, thật sự không biết đâu
 
-Omoide ni naru kimi ga jama ni natteiku  
-想い出になる　君が邪魔になっていく  
+Omoide ni naru kimi ga jama ni natteiku
+想い出になる　君が邪魔になっていく
 Người con gái sẽ trở thành kỉ niệm của tớ sao thật phiền phức quá
 
-Wakan nai yo wakan nai yo  
-わかんないよ　わかんないよ  
+Wakan nai yo wakan nai yo
+わかんないよ　わかんないよ
 Tớ không biết, không biết đâu
 
-Wakan nai yo wakan nai yo  
-わかんないよ　わかんないよ  
+Wakan nai yo wakan nai yo
+わかんないよ　わかんないよ
 Tớ không biết, thật sự không biết đâu
 
-Wakan nai yo  
-わかんないよ  
+Wakan nai yo
+わかんないよ
 thật sự không hiểu nổi đâu
 
-Jouzuna arukikata mo  
-上手な歩き方も  
+Jouzuna arukikata mo
+上手な歩き方も
 Cả cách đi uyển chuyển cũng thế
 
-Sayonara no iikata mo  
-さよならの言い方も  
+Sayonara no iikata mo
+さよならの言い方も
 cả cách nói lời tạm biệt cũng thế
 
-Saishougеn no onryou de sukoshi ookiku natta heya de  
-最小限の音量で　少し大きくなった部屋で  
+Saishougеn no onryou de sukoshi ookiku natta heya de
+最小限の音量で　少し大きくなった部屋で
 Mở âm lượng nhỏ nhất, trong một căn phòng lớn hơn một chút
 
-Tomatta gasu mo omoidе mo shawaa no tsumetasa mo kaki nagutta  
-止まったガスも思い出もシャワーの冷たさも書き殴った  
+Tomatta gasu mo omoidе mo shawaa no tsumetasa mo kaki nagutta
+止まったガスも思い出もシャワーの冷たさも書き殴った
 Tớ nguệch ngoạc viết về chuyện điện nước bị cắt, kỷ niệm và nước tắm lạnh ngắt
 
-Jumyou o uru nara nokori ni nen  
-寿命を売るなら残り二年  
+Jumyou o uru nara nokori ni nen
+寿命を売るなら残り二年
 Nếu bán đi tuổi thọ của mình thì tớ chỉ còn 2 năm
 
-Soredake nokoshite ano machi e  
-それだけ残してあの街へ  
+Soredake nokoshite ano machi e
+それだけ残してあの街へ
 Tớ để hết lại và đi đến thành phố đó
 
-Amatta jumyou de omoide o asaru  
-余った寿命で思い出を漁る  
+Amatta jumyou de omoide o asaru
+余った寿命で思い出を漁る
 dùng phần đời còn lại lục tìm ký ức
 
-Hare mo yoru matsuri mo Sekimachi no gaitou mo  
-晴れも夜祭りも関町の街灯も  
+Hare mo yoru matsuri mo Sekimachi no gaitou mo
+晴れも夜祭りも関町の街灯も
 Trời nắng, lễ hội ban đêm, đèn đường ở Seki
 
-Kumo mo nigemizu mo hasu ni kamaeta kashikan mo  
-雲も逃げ水も斜に構えた歌詞観も  
+Kumo mo nigemizu mo hasu ni kamaeta kashikan mo
+雲も逃げ水も斜に構えた歌詞観も
 đám mây, dòng nước chảy, quan điểm viết nhạc đã quá ổn định,
 
-Kiben da  
-詭弁だ  
+Kiben da
+詭弁だ
 tất cả đều là nguỵ biện
 
-Wakan nai yo wakan nai yo  
-わかんないよ　わかんないよ  
+Wakan nai yo wakan nai yo
+わかんないよ　わかんないよ
 Tớ không biết, không biết đâu
 
-Wakan nai yo wakan nai yo  
-わかんないよ　わかんないよ  
+Wakan nai yo wakan nai yo
+わかんないよ　わかんないよ
 Tớ không biết, thật sự không biết đâu
 
-Omoide ni naru kimi ga uta ni natteiku  
-想い出になる　君が詩に成っていく  
+Omoide ni naru kimi ga uta ni natteiku
+想い出になる　君が詩に成っていく
 Người con gái sẽ trở thành kỉ niệm của tớ đang hoá thành lời ca
 
-Wakan nai yo wakan nai yo  
-わかんないよ　わかんないよ  
+Wakan nai yo wakan nai yo
+わかんないよ　わかんないよ
 Tớ không biết, không biết đâu
 
-Wakan nai yo wakan nai yo  
-わかんないよ　わかんないよ  
+Wakan nai yo wakan nai yo
+わかんないよ　わかんないよ
 Tớ không biết, thật sự không biết đâu
 
-Wakan nai yo, wasurerareru houhou mo  
-わかんないよ、忘れられる方法も  
+Wakan nai yo, wasurerareru houhou mo
+わかんないよ、忘れられる方法も
 Không biết đâu, cả cái cách để bị lãng quên cũng thế
 
-Korekara no tsukaikata mo  
-これからの使い方も  
+Korekara no tsukaikata mo
+これからの使い方も
 cái cách dùng cuộc đời tớ từ bây giờ cũng thế
 
-Sameta me no naka de kimi no uta o kaiteita  
-冷めた目の中で君の詩を書いていた  
+Sameta me no naka de kimi no uta o kaiteita
+冷めた目の中で君の詩を書いていた
 Tớ viết về cậu bằng một ánh mắt bâng quơ
 
-Boku no kono hibi wa kimi no tame no jinsei da  
-僕のこの日々は君の為の人生だ  
+Boku no kono hibi wa kimi no tame no jinsei da
+僕のこの日々は君の為の人生だ
 Những tháng ngày này của tớ là cuộc đời sống vì cậu đó
 
-Yume mo hakanasa mo kimi no kuchi mo me mo sono yubisaki mo wasure nagara  
-夢も儚さも君の口も目もその指先も忘れながら  
+Yume mo hakanasa mo kimi no kuchi mo me mo sono yubisaki mo wasure nagara
+夢も儚さも君の口も目もその指先も忘れながら
 Khi đang quên đi ước mơ, sự mong manh, mắt, miệng, cả ngón tay của cậu
 
-Hora, sorosoro uta mo owaru jikan da  
-ほら、そろそろ詩も終わる時間だ  
+Hora, sorosoro uta mo owaru jikan da
+ほら、そろそろ詩も終わる時間だ
 Xem kìa, đã đến lúc bài hát này phải kết thúc rồi
 
-Yatto kimi no ban da kara sa  
-やっと君の番だからさ  
+Yatto kimi no ban da kara sa
+やっと君の番だからさ
 Cuối cùng cũng đến lượt cậu rồi
 
-Wakan nai yo wakan nai yo  
-わかんないよ　わかんないよ  
+Wakan nai yo wakan nai yo
+わかんないよ　わかんないよ
 Tớ không biết, không biết đâu
 
-Wakan nai yo wakan nai yo  
-わかんないよ　わかんないよ  
+Wakan nai yo wakan nai yo
+わかんないよ　わかんないよ
 Tớ không biết, thật sự không biết đâu
 
-Omoide ni nare kimi yo uta ni natte yuke  
-想い出になれ　君よ詩に成って往け  
+Omoide ni nare kimi yo uta ni natte yuke
+想い出になれ　君よ詩に成って往け
 Hãy trở thành kỷ niệm đi! Cậu đó, hãy hoá thành lời ca đi!
 
-Wakan nai yo wakan nai yo  
-わかんないよ　わかんないよ  
+Wakan nai yo wakan nai yo
+わかんないよ　わかんないよ
 Tớ không biết, không biết đâu
 
-Wakan nai yo wakan nai yo  
-わかんないよ　わかんないよ  
+Wakan nai yo wakan nai yo
+わかんないよ　わかんないよ
 Tớ không biết, thật sự không biết đâu
 
-Wakannai ne  
-わかんないね  
+Wakannai ne
+わかんないね
 Không thể hiểu được đâu phải không?
 
-Hito wa arukerunda toka  
-人は歩けるんだとか  
+Hito wa arukerunda toka
+人は歩けるんだとか
 Chuyện con người có thể bước đi
 
-Sore ga atarimae da to kawakan nai sa  
-それが当たり前だとかわかんないさ  
+Sore ga atarimae da to kawakan nai sa
+それが当たり前だとかわかんないさ
 hay điều đó là hiển nhiên, tớ đều không để tâm
 
-Wakan nai yo  
-わかんないよ  
+Wakan nai yo
+わかんないよ
 Tớ không biết gì hết đâu.
 # 13/7
 
@@ -513,6 +531,7 @@ Nếu cậu chấp nhận tớ, nếu cậu muốn biết về tớ, thì tớ s
 
 Giờ đây tớ sẽ nhảy múa cho cậu xem.
 
+
 Ah, tớ chẳng còn muốn làm người nữa
 
 Đúng không, chẳng có cái gì hay ho cả
@@ -520,6 +539,7 @@ Ah, tớ chẳng còn muốn làm người nữa
 Ah, tớ muốn phá huỷ bản thân tớ 
 
 Khi ngày đó đã khoe khoang cây ghita mình tự mãn
+
 
 Vì tất cả những điều tớ muốn nói, cả mùa hè và mùa đông, cả rìa bên kia của ngày mai
 
@@ -531,6 +551,7 @@ Nếu tớ không cần cậu nữa, nếu tớ muốn quên đi, vậy thì t�
 
 Tớ sẽ nhảy múa cho đến khi bình minh lên
 
+
 Ah, tớ sẽ từ bỏ âm nhạc đi thôi
 
 Nếu làm thế có thể vẽ ra cậu không khác một nét nào so với ký ức
@@ -539,6 +560,7 @@ Nếu làm thế có thể vẽ ra cậu không khác một nét nào so với k
 
 Tớ không nghĩ ra được gì cả
 
+
 Ngày tháng trôi đi khi cậu vẫn còn trong tâm trí tớ
 
 Những hỉ nộ ái ố mà tớ theo đuổi, tớ muốn đưa nó vào lời ca
@@ -546,6 +568,7 @@ Những hỉ nộ ái ố mà tớ theo đuổi, tớ muốn đưa nó vào lờ
 Nếu bây giờ mà thống khổ quá, chẳng cần biện hộ gì nữa đâu
 
 Nên là cứ nhảy múa đi thôi nào
+
 
 Mọi thứ biến thành gió rồi, tan đi cùng bọt khí rồi
 
@@ -589,7 +612,7 @@ Hồi đó tớ không hiểu được điều này.
 Nếu người ta cười cượt kỷ niệm của tớ, tác phẩm của tớ, thì ngay lúc đó tớ cứ đấm bỏ mấy tên đó là được rồi.
 
 Những giọt nước mắt thầm rơi đằng sau sự tự tôn của tớ, không an ủi tớ một chút nào cả, nó là một chất độc. Thật đấy, tớ đã nghĩ vậy đấy.
-# 31/5 Rokugatsu wa ameagari no machi wo kaku  
+# 31/5 Rokugatsu wa ameagari no machi wo kaku
 (Tháng 6 viết về thành phố sau cơn mưa)
 
 Màu xanh biếc của khu phố phản chiếu lên cửa sổ, mưa tháng 5 lần theo máng nước mái hiên
@@ -599,6 +622,7 @@ Tớ thẫn thờ nhìn lên, một giọt nước rơi xuống, rơi xuống
 Trái tim tớ hình chữ nhật, ngự tại chính giữa tờ giấy này
 
 Phía trước những câu hát nối đuôi nhau, cậu hiện lên bên trên đó
+
 
 Thật là vớ vẩn, thật là ngốc nghếch
 
@@ -612,6 +636,7 @@ Rồi dùng ngôn từ để đơm lại, đợi tớ ở thành phố đó
 
 (Đoạn này là một dạng ám hiệu mà chỉ Elma mới có thể hiểu, người ngoài như chúng ta không thể hiểu đâu)
 
+
 Tiếng nước mưa nhảy múa trên đèn đường, trời nhá nhem phía trước ngã rẽ
 
 Tiếng bước chân của đoàn diễu hành đơn độc, màu xanh mờ của đám mây chờ mùa hè
@@ -623,6 +648,7 @@ Trừ đi cậu là âm mất rồi
 Chỉ có thể thấy cậu trong hồi ức
 
 Trong tiết trời tạnh mưa tháng 6
+
 
 Khuôn mặt tươi cười của cậu tớ cũng vẽ nguệch ngoạc lên
 
@@ -640,11 +666,13 @@ Tớ đang viết về mùa hè năm đó
 
 Toàn những chuyện tớ không quan tâm
 
+
 Dính dáng đến người khác cũng thật phiền phức
 
 Nói ra thôi cũng thấy khó chịu
 
 Kết cục tớ chỉ còn có cậu thôi sao?
+
 
 Tại vì vớ vẩn quá đi thôi, ngốc nghếch quá đi thôi
 
@@ -706,43 +734,43 @@ Thì chẳng phải như vâỵ là quá vô vị hay sao?
 Những người đã phải làm đến mức đó để sống đến ngày hôm nay như chúng ta, chẳng phải là bất công quá hay sao?
 
 Elma, là cậu thì cậu nghĩ sao?
-# 15/5 Gogatsu wa hanarokushou no madobe kara  
+# 15/5 Gogatsu wa hanarokushou no madobe kara
 (Tháng 5 ghé đến qua bậu cửa sổ màu xanh Paris)
 
 Mùa hè sắp kết thúc, tớ lại nghĩ là do trái tim tớ tưởng tượng ra thôi.
 
-Lớp học trống không, tấm rèm cửa đung đưa trong gió  
+Lớp học trống không, tấm rèm cửa đung đưa trong gió
 Mùa hè mà tớ cùng cậu ngắm nhìn bầu trời, chưa bao giờ biến mất khỏi tâm trí tớ
 
-Tạm biệt cậu  
-Tớ đã thản nhiên mà nuốt một hơi, nước mắt cũng giống như chất Xanh Paris vậy  
+Tạm biệt cậu
+Tớ đã thản nhiên mà nuốt một hơi, nước mắt cũng giống như chất Xanh Paris vậy
 Chỉ cần im lặng thì sẽ tan biến, thật là ngu ngốc quá nhỉ.
 
-Hãy nhớ ra đi!  
-Đầu óc tớ gào thét, nó không thể nhớ ra được  
-Nếu thế thì nỗi đau này là linh hồn của tớ  
+Hãy nhớ ra đi!
+Đầu óc tớ gào thét, nó không thể nhớ ra được
+Nếu thế thì nỗi đau này là linh hồn của tớ
 Dẫu thế, dẫu thế, nếu cậu vẫn không thể nghe thấy tiếng tớ…
 
-Ngoài cười trừ ra thì tớ không thể làm gì cả  
+Ngoài cười trừ ra thì tớ không thể làm gì cả
 Cho dù người ta có cười cợt kỷ niệm mà tớ cùng cậu trải qua mùa hè thì tớ vẫn im lặng
 
-Đừng có cười tôi!  
-Giá trị của chúng tôi là điều hiển nhiên  
-Nếu so sánh thì nó chính là linh hồn của tôi!  
-Chỉ im lặng thôi cũng đã đau đớn rồi, vậy mà trông tôi cứ như tên ngốc vậy  
+Đừng có cười tôi!
+Giá trị của chúng tôi là điều hiển nhiên
+Nếu so sánh thì nó chính là linh hồn của tôi!
+Chỉ im lặng thôi cũng đã đau đớn rồi, vậy mà trông tôi cứ như tên ngốc vậy
 Này, mau cãi lại họ đi!
 
-Tớ không thể cãi lại và tiếp tục bước đi một mình  
-Còn lại mình tớ bị người ta chỉ trỏ  
+Tớ không thể cãi lại và tiếp tục bước đi một mình
+Còn lại mình tớ bị người ta chỉ trỏ
 Dù thế, dù thế tớ vẫn không thể nhớ lại về cậu ư?
 
-Tạm biệt cậu  
-Tớ đã thản nhiên mà nuốt một hơi, nước mắt cũng giống như chất Xanh Paris vậy  
+Tạm biệt cậu
+Tớ đã thản nhiên mà nuốt một hơi, nước mắt cũng giống như chất Xanh Paris vậy
 Im lặng hết đi! Tôi biết rồi, tôi nghe thấy tiếng cậu ấy rồi!
 
-Cậu ấy nói “Mau nhớ lại đi!”  
-Cổ họng tớ gào thét, “tớ đã nhớ lại rồi”  
-Nỗi đau này chính là bằng chứng của cậu  
+Cậu ấy nói “Mau nhớ lại đi!”
+Cổ họng tớ gào thét, “tớ đã nhớ lại rồi”
+Nỗi đau này chính là bằng chứng của cậu
 Dẫu thế, dẫu thế, nếu cậu vẫn không thể nghe thấy…
 # 26/6
 
@@ -891,7 +919,7 @@ Nếu màn đêm cứ thôi trôi đi
 Để ký ức này không khô héo
 Để bài hát này không mất đi
 Xin cậu đừng quên chúng, hãy lưu lại dù chỉ một chút nữa
-Hãy để đoàn diễu hành  đơn độc này kéo dài hơn chút nữa
+Hãy để đoàn diễu hành đơn độc này kéo dài hơn chút nữa
 Trước đây tớ đã nghĩ đến điều này rồi
 Rằng có lẽ bên trong đầu ngón tay cảu cậu có một vị thần sinh sống
 Trước hôm nay, trước cả hôm qua, từ rất lâu về trước

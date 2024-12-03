@@ -1,7 +1,7 @@
 ### Ongaku Dorobo no Jihaku (Lời tự bạch của tên trộm âm nhạc) 音楽泥棒の自白
-“Ta là một tên trộm.  
-Từ cổ chí kim, trộm thì muôn hình muôn vẻ, nhưng ta thì khác với bọn họ.  
-Ta không ăn trộm tiền, cũng chẳng hứng thú với trang sức cổ hay các loại mỹ thuật có giá trị khác.  
+“Ta là một tên trộm.
+Từ cổ chí kim, trộm thì muôn hình muôn vẻ, nhưng ta thì khác với bọn họ.
+Ta không ăn trộm tiền, cũng chẳng hứng thú với trang sức cổ hay các loại mỹ thuật có giá trị khác.
 Ta, là một kẻ đi ăn trộm âm thanh.
 
 Những bản nhạc jazz standard phát ra từ radio. Những bài pop nghe từ loa trên phố. Tiếng hát vọng đến vòng xuyến trước nhà ga. Bản piano sonata truyền đến từ khán phòng nhỏ trong hội trường thành phố.
@@ -10,96 +10,96 @@ Ta ăn trộm những thứ đó. Ta ghi âm chúng lại bằng chiếc máy th
 
 Từ xưa ta đã yêu tha thiết những giai điệu đẹp đẽ.
 ### Hiru Tonbi (Trộm ban ngày) 昼鳶
-Kiryou, saikaku, kachikan  
-**器量、才覚、価値観**  
+Kiryou, saikaku, kachikan
+**器量、才覚、価値観**
 Dung mạo, sự nhạy bén, rồi giá trị quan
 
-Hone no zui made zenbu netamashii  
-**骨の髄まで全部妬ましい**  
+Hone no zui made zenbu netamashii
+**骨の髄まで全部妬ましい**
 Ta ghen tức với những thứ đó đến tận xương tủy
 
-Kokoro zenbu mitashitai  
-**心全部満たしたい**  
+Kokoro zenbu mitashitai
+**心全部満たしたい**
 Ta muốn lấp đầy trái tim này
 
-Sonemu nouri wa shitauchi bakari  
-**嫉む脳裏は舌打ちばかり**  
+Sonemu nouri wa shitauchi bakari
+**嫉む脳裏は舌打ちばかり**
 Cảm giác tiếc nuối xâm lấn trong tâm trí hậm hực
 
-Kodai koukoku masari, yo wa shi ni tai no ongaku bakari  
-**誇大広告勝り、世は死に体の音楽ばかり**  
+Kodai koukoku masari, yo wa shi ni tai no ongaku bakari
+**誇大広告勝り、世は死に体の音楽ばかり**
 Quảng cáo phóng đại thì nhan nhản, thứ âm nhạc “xác sống” lấn chiếm thế giới
 
-Kimi no zenbu ga netamashii  
-**君の全部妬ましい**  
+Kimi no zenbu ga netamashii
+**君の全部妬ましい**
 Ta ghen ghét tất cả mọi thứ thuộc về ngươi
 
-Asamashii kono kokorone ga uzuku bakari  
-**浅ましいこの心根が疼くばかり**  
+Asamashii kono kokorone ga uzuku bakari
+**浅ましいこの心根が疼くばかり**
 Chúng dày vò tâm can hèn hạ này của ta
 
-Tsumaranai mono dake ga mitai no saa  
-**つまらないものだけが観たいのさ**  
+Tsumaranai mono dake ga mitai no saa
+**つまらないものだけが観たいのさ**
 Ta chỉ muốn ngắm nhìn những thứ tẻ nhạt thôi
 
-Yoru no zenbu ga boku wa hoshii  
-**夜の全部が僕は欲しい**  
+Yoru no zenbu ga boku wa hoshii
+**夜の全部が僕は欲しい**
 Ta muốn thu về mọi thứ trong màn đêm
 
-Tada yarusenai kara uta ni shitai  
-**ただやるせないから歌にしたい**  
+Tada yarusenai kara uta ni shitai
+**ただやるせないから歌にしたい**
 Nhưng chỉ vì cùng cực nên ta mượn cơn thèm khát này
 
-Kono kawaki wo iiwake ni saa  
-**この渇きを言い訳にさぁ**  
+Kono kawaki wo iiwake ni saa
+**この渇きを言い訳にさぁ**
 Đem nó cất lên thành lời ca
 
-Yakei, daiya no hikari, emi de juutakugai wo mikudashi  
-**夜景、ダイヤの光、笑みで住宅街を見下し**  
+Yakei, daiya no hikari, emi de juutakugai wo mikudashi
+**夜景、ダイヤの光、笑みで住宅街を見下し**
 Đêm xuống, kim cương lấp lánh, ta cười khẩy nhìn xuống khu phố
 
-Subarashiki sono kurashi  
-**素晴らしきその暮らし**  
+Subarashiki sono kurashi
+**素晴らしきその暮らし**
 Ôi chao cuộc sống đó tươi đẹp làm sao!
 
-Saa shiawase wa oikura bakari  
-**さぁ幸せはお幾らばかり？**  
+Saa shiawase wa oikura bakari
+**さぁ幸せはお幾らばかり？**
 Hạnh phúc ấy bán bao nhiêu tiền thế?
 
-Kono netami wa utomashii bakari  
-**この妬みは疎ましいばかり**  
+Kono netami wa utomashii bakari
+**この妬みは疎ましいばかり**
 Ta ghê tởm sự đố kị này
 
-Tsumaranai mono dake ga mitai  
-**つまらないものだけが観たいのさぁ**  
+Tsumaranai mono dake ga mitai
+**つまらないものだけが観たいのさぁ**
 Vì ta chỉ muốn ngắm nhìn những thứ tẻ nhạt thôi
 
-Hito no zenbu wo baka ni shite  
-**他人の全部を馬鹿にして**  
+Hito no zenbu wo baka ni shite
+**他人の全部を馬鹿にして**
 Loài người tất cả đều là trò cười trong mắt ta
 
-Wasuretai no ni mune ga itai  
-**忘れたいのに胸が痛い**  
+Wasuretai no ni mune ga itai
+**忘れたいのに胸が痛い**
 Ta muốn quên đi nhưng trái tim này vẫn đau thắt
 
-Tada nani mo nai kara boku wa hoshii  
-**ただ何も無いから僕は欲しい**  
+Tada nani mo nai kara boku wa hoshii
+**ただ何も無いから僕は欲しい**
 Vì không có gì cả nên ta mới khát khao
 
-Tsumaranai mono dake ga mitai no saa  
-**つまらないものだけが観たいのさぁ**  
+Tsumaranai mono dake ga mitai no saa
+**つまらないものだけが観たいのさぁ**
 Ta chỉ muốn ngắm nhìn những thứ tẻ nhạt thôi
 
-Kimi no zenbu ga hoshii  
-**君の全部が僕は欲しい**  
+Kimi no zenbu ga hoshii
+**君の全部が僕は欲しい**
 Ta muốn có tất cả mọi thứ của ngươi
 
-Tada nani mo nai kara boku wa hoshii  
-**ただ何も無いから僕は欲しい**  
+Tada nani mo nai kara boku wa hoshii
+**ただ何も無いから僕は欲しい**
 Chính vì không có gì cả nên ta mới mong muốn nó
 
-Kono kawaki wo iiwake ni saa  
-**この渇きを言い訳にさぁ**  
+Kono kawaki wo iiwake ni saa
+**この渇きを言い訳にさぁ**
 Đem cơn thèm khát này ra nói lên điều đó
 
 Giải thích lời bài hát: Bài hát này được đặt đầu tiên để mở đầu album, sau track “Lời tự bạch của tên trộm âm nhạc”, bởi vậy có thể coi đây là lời tự bạch của tên trộm và hắn tự nhận mình là “Trộm ban ngày”. Tại sao lại là “trộm ban ngày” mà không phải “trộm ban đêm”? Nếu các bạn có theo dõi hết 3 video vietsub trên kênh thì các bạn đều sẽ biết tên trộm này khao khát chiêm ngưỡng 1 màn đêm tuyệt vời nhất trong đời, và để làm được điều đó thì phải vứt bỏ mọi thứ và chết theo cách đẹp đẽ nhất. Nhưng trong bài này, ở lời 1 thì nói là “ta muốn thu về hết mọi thứ trong màn đêm” tức là ý chí ban đầu của tên trộm, nhưng sang đến lời 2 thì “muốn quên đi nhưng trái tim lại đau thắt”, tức là con tim anh ta chối bỏ ý chí ban đầu, đến điệp khúc cuối thì “ta muốn có tất cả mọi thứ của ngươi”. Tức là thứ mà anh ta thật sự mong muốn không phải là cái chết diễm lệ, mà chính là thứ hạnh phúc tầm thường của con người mà anh ta ra sức chế giễu từ đầu đến cuối bài hát “hạnh phúc đó bán bao nhiêu tiền thế?”. Bởi vậy có thể hiểu, tên trộm âm nhạc thực ra cũng có những mong muốn tầm thường của con người, và vì thế nên anh ta tự nhận mình là tên trộm ban ngày, tức là đi nghe ngóng thế gian để ăn trộm chất liệu cho sáng tác của mình. Và điều này bạn sẽ thấy ở track tiếp theo, “Bán xuân”. À và có 1 từ hay ho trong lời bài hát, đó là thứ âm nhạc “xác sống”. Từ “xác sống” này trong tiếng Nhật là shinitai, một thuật ngữ dùng trong sumo. Xác sống là tư thế sumo bị quật ngã, 2 bàn chân với ngón chân hướng lên trời và không thể đứng dậy được nữa. Khi bị tiếp đất với tư thế này đương nhiên sumo sẽ bị xử thua. Trong bài này khi dùng từ xác sống để miêu tả âm nhạc, ý n-buna đó là thứ âm nhạc mục rữa đến mức không thể quay đầu lại nữa. Cách dùng từ rất hay nên mình giải thích thêm cho vui =))
@@ -176,552 +176,552 @@ Sang đến phần lời 2, ở trong MV bạn sẽ thấy con quái vật ban �
 
 Còn có 1 cái rất hay đó là cách chơi chữ trong bài hát. Trong bài này có xuất hiện 2 hình ảnh là “con phù du” và “hơi nóng của mùa hè”. 2 từ này trong tiếng Nhật đều đọc là kagerou. Con phù du là 1 loại côn trùng mà khi còn là trứng thì nó sống dưới nước trong khoảng 3 năm nhưng khi đã thành bướm nó sẽ bay lên bờ, giao phối và chết ngay sau đó, phù du trưởng thành thường chỉ có thể sống trong 3 tiếng đồng hồ. Còn cái hơi nóng của mùa hè chính là cái hơi nóng bốc lên từ mặt đường khiến chúng ta có ảo giác là mặt đường ướt sũng nước. Cả 2 hình ảnh này đều có chung 1 đặc điểm là “mong manh, tan biến”. Đây là hình ảnh ẩn dụ ám chỉ những giá trị thật sự của con người thì thường sẽ không thể được hát thành lời, nó sẽ chết yểu và một ngày nào đó chúng ta sẽ quên mất nó vì những bộn bề cuộc sống. Nhưng dẫu thế người nhạc sĩ vẫn khao khát có được những thứ mong manh đó, bởi như vậy mới là thực sự sống.
 ## Bakudanma (Kẻ cuồng bom) 爆弾魔
-Shinda me de bakudan katate ni kuchi wo hiraku  
-**死んだ眼で爆弾片手に口を開く**  
+Shinda me de bakudan katate ni kuchi wo hiraku
+**死んだ眼で爆弾片手に口を開く**
 Với đôi mắt thẫn thờ, mang trên tay trái bom, ta nói
 
-Sayonara da jinrui, minna fukitonjimae  
-**さよならだ人類、みんな吹き飛んじまえ**  
+Sayonara da jinrui, minna fukitonjimae
+**さよならだ人類、みんな吹き飛んじまえ**
 “Tạm biệt nhân loại, ta sẽ thổi bay tất cả!”
 
-Naita kao de bakudan katate  
-**泣いた顔で爆弾片手**  
+Naita kao de bakudan katate
+**泣いた顔で爆弾片手**
 Khuôn mặt đẫm nước mắt, trên tay cầm trái bom
 
-Yoru ga kurushii  
-**夜が苦しい**  
+Yoru ga kurushii
+**夜が苦しい**
 Đêm nay sao khổ sở quá
 
-Yasuppoi naitoshou no one scene mitai na yume ga mitai  
-**安っぽいナイトショーのワンシーンみたいな夢が見たい**  
+Yasuppoi naitoshou no one scene mitai na yume ga mitai
+**安っぽいナイトショーのワンシーンみたいな夢が見たい**
 Ta muốn mơ một giấc mơ giống một cảnh trong night show rẻ tiền
 
-Kyou mo dekimasen deshita  
-**今日もできませんでした**  
+Kyou mo dekimasen deshita
+**今日もできませんでした**
 Hôm nay ta vẫn không làm được
 
-Kyou mo yaremasen deshita  
-**今日もやれませんでした**  
+Kyou mo yaremasen deshita
+**今日もやれませんでした**
 Hôm nay ta vẫn chưa ra tay được
 
-Seishun no zenbu wo bakuha shitai  
-**青春の全部を爆破したい**  
+Seishun no zenbu wo bakuha shitai
+**青春の全部を爆破したい**
 Ta muốn cho nổ tung cả cái thanh xuân
 
-Kimi no koto wo uta ni shitai  
-**君のことを歌にしたい**  
+Kimi no koto wo uta ni shitai
+**君のことを歌にしたい**
 Ta muốn đem hình ảnh em vào lời ca
 
-Kono hibi wo bakuha shite kokoro goto bakuha shite  
-**この日々を爆破して　心ごと爆破して**  
+Kono hibi wo bakuha shite kokoro goto bakuha shite
+**この日々を爆破して　心ごと爆破して**
 Ta sẽ nổ tung hết những ngày tháng này, nổ tung hết cả con tim này
 
-Zurui yo, yasashisatte yatsu chiratsukasete sa  
-**ずるいよ、優しさってやつちらつかせてさ**  
+Zurui yo, yasashisatte yatsu chiratsukasete sa
+**ずるいよ、優しさってやつちらつかせてさ**
 Thật bất công, các người dám mặn nồng ở đây
 
-Zurui yo zenbu  
-**ずるいよ全部**  
+Zurui yo zenbu
+**ずるいよ全部**
 Tất cả đều quá bất công!
 
-Kono heya wo bakuha shitai  
-**この部屋を爆破したい**  
+Kono heya wo bakuha shitai
+**この部屋を爆破したい**
 Ta muốn nổ tung căn phòng này
 
-Yume ga nakya ikirarenai  
-**夢がなきゃ生きられない**  
+Yume ga nakya ikirarenai
+**夢がなきゃ生きられない**
 Không có giấc mơ ta sống không nổi
 
-Dakara ima, sayonara da fukitonjimae  
-**だから今、さよならだ　吹き飛んじまえ**  
+Dakara ima, sayonara da fukitonjimae
+**だから今、さよならだ　吹き飛んじまえ**
 Vậy nên, ngay lúc này, tạm biệt tất cả, cút hết đi!
 
-Shinda me de bakudan katate de machi wo aruku  
-**死んだ眼で爆弾片手に街を歩く**  
+Shinda me de bakudan katate de machi wo aruku
+**死んだ眼で爆弾片手に街を歩く**
 Với ánh mắt lờ đờ, mang trong tay trái bom xuống phố
 
-Daremo mimuki mo shinainda bakudan wo kazashita tote  
-**誰も見向きもしないんだ　爆弾を翳したとて**  
+Daremo mimuki mo shinainda bakudan wo kazashita tote
+**誰も見向きもしないんだ　爆弾を翳したとて**
 Cầm bom trên tay ấy vậy mà chẳng ai thèm nhìn ta
 
-Zutto nakemasen deshita  
-**ずっと泣けませんでした**  
+Zutto nakemasen deshita
+**ずっと泣けませんでした**
 Ta mãi vẫn không khóc nổi
 
-Zutto waraemasen deshita  
-**ずっと笑えませんでした**  
+Zutto waraemasen deshita
+**ずっと笑えませんでした**
 Vẫn không thể tươi cười nổi
 
-Seishun no zenbu ni kimi ga iru  
-**青春の全部に君がいる**  
+Seishun no zenbu ni kimi ga iru
+**青春の全部に君がいる**
 Thanh xuân ấy đều có em bên cạnh
 
-Kaze ga fukeba hana ga saku  
-**風が吹けば花が咲く**  
+Kaze ga fukeba hana ga saku
+**風が吹けば花が咲く**
 Chỉ cần gió thổi hoa sẽ đua nở
 
-Ano natsu wo bakuha shite omoide wo bakuha shite  
-**あの夏を爆破して　思い出を爆破して**  
+Ano natsu wo bakuha shite omoide wo bakuha shite
+**あの夏を爆破して　思い出を爆破して**
 Ta sẽ nổ tung mùa hè năm ấy, nổ tung cả những kỷ niệm
 
-Hidoi yo, kimi jishin wa damatte kieta kuse ni  
-**酷いよ、君自身は黙って消えたくせに**  
+Hidoi yo, kimi jishin wa damatte kieta kuse ni
+**酷いよ、君自身は黙って消えたくせに**
 Thật quá đáng, em lại không nói lời nào mà biến mất
 
-Hidoi yo zenbu  
-**酷いよ全部**  
+Hidoi yo zenbu
+**酷いよ全部**
 Tất cả đều thật quá đáng
 
-Kono machi wo bakuha shitai  
-**この街を爆破したい**  
+Kono machi wo bakuha shitai
+**この街を爆破したい**
 Ta muốn cho nổ cả thành phố này
 
-Kono mama ja ikirarenai  
-**このままじゃ生きられない**  
+Kono mama ja ikirarenai
+**このままじゃ生きられない**
 Cứ thế này ta sẽ không sống nổi mất
 
-Dakara ima, sayonara da fukitonjimae  
-**だから今、さよならだ　吹き飛んじまえ**  
+Dakara ima, sayonara da fukitonjimae
+**だから今、さよならだ　吹き飛んじまえ**
 Vậy nên ngay lúc này, tạm biệt, tất cả đi chết hết đi!
 
-Motto waraeba yokatta  
-**もっと笑えばよかった**  
+Motto waraeba yokatta
+**もっと笑えばよかった**
 Giá mà khi ấy ta cười nhiều hơn
 
-Zutto modoritakatta  
-**ずっと戻りたかった**  
+Zutto modoritakatta
+**ずっと戻りたかった**
 Ta muốn quay lại lắm
 
-Seishun no zenbu ni chireba sake  
-**青春の全部に散れば咲け**  
+Seishun no zenbu ni chireba sake
+**青春の全部に散れば咲け**
 Nếu ngươi có rơi về thanh xuân của ta thì hãy nở đi
 
-Chireba sake yo sarusuberi  
-**散れば咲けよ百日紅**  
+Chireba sake yo sarusuberi
+**散れば咲けよ百日紅**
 Nếu có rơi xuống thì hãy nở đi, hỡi hoa bằng lăng xẻ!
 
-Kono hibi wo bakuha shite kokoro goto bakuha shite  
-**この日々を爆破して　心ごと爆破して**  
+Kono hibi wo bakuha shite kokoro goto bakuha shite
+**この日々を爆破して　心ごと爆破して**
 Ta sẽ nổ tung hết những ngày tháng này, nổ tung hết cả con tim này
 
-Tsurakute mo ii kurushisa mo zenbu boku no mono da  
-**辛くてもいい　苦しさも全部僕のものだ**  
+Tsurakute mo ii kurushisa mo zenbu boku no mono da
+**辛くてもいい　苦しさも全部僕のものだ**
 Dẫu có đau đớn cũng không sao, nỗi khổ đau cũng là của ta
 
-Wakatterun da  
-**分かってるんだ**  
+Wakatterun da
+**分かってるんだ**
 Ta biết chứ!
 
-Kono hoshi wo bakuha shite kimi wo keseru dake de ii  
-**この星を爆破したい　君を消せるだけでいい**  
+Kono hoshi wo bakuha shite kimi wo keseru dake de ii
+**この星を爆破したい　君を消せるだけでいい**
 Ta muốn nổ tung hành tinh này, chỉ cần xóa được hình dáng em là được
 
-Ima shika nai, inaku nare  
-**今しかいない、いなくなれ**  
+Ima shika nai, inaku nare
+**今しかいない、いなくなれ**
 Chỉ có lúc này thôi, hãy biến mất đi!
 
-Konohibi wo bakuha shite kokoro goto bakuha shite  
-**この日々を爆破して　心ごと爆破して**  
+Konohibi wo bakuha shite kokoro goto bakuha shite
+**この日々を爆破して　心ごと爆破して**
 Ta sẽ nổ tung hết những ngày tháng này, nổ tung hết cả con tim này
 
-Zurui yo, yasashisatte yatsu chiratsukasete sa  
-**ずるいよ、優しさってやつちらつかせてさ**  
+Zurui yo, yasashisatte yatsu chiratsukasete sa
+**ずるいよ、優しさってやつちらつかせてさ**
 Thật bất công, các người dám mặn nồng ở đây
 
-Zurui yo zenbu  
-**ずるいよ全部**  
+Zurui yo zenbu
+**ずるいよ全部**
 Tất cả đều quá bất công!
 
-Kono yoru wo bakuha shitai kimi dake wo oboete itai  
-**この夜を爆破したい　君だけを覚えていたい**  
+Kono yoru wo bakuha shitai kimi dake wo oboete itai
+**この夜を爆破したい　君だけを覚えていたい**
 Ta muốn cho nổ tung màn đêm này, ta chỉ muốn nhớ về em thôi
 
-Dakara ima, sayonara da  
-**だから今、さよならだ**  
+Dakara ima, sayonara da
+**だから今、さよならだ**
 Vậy nên ngay lúc này, tạm biệt
 
-Fukitonjimae  
-**吹き飛んじまえ**  
+Fukitonjimae
+**吹き飛んじまえ**
 Tất cả cuốn bay hết đi!
 ## Seinenki, akisu (Thời niên thiếu, kẻ trộm)
 ## Replicant (Người nhân bản) レプリカント
-Kimi wa eiga wo zutto miteiru dare hitori mo inai gekijou de  
-**君は映画をずっと観ている　誰一人もいない劇場で**  
+Kimi wa eiga wo zutto miteiru dare hitori mo inai gekijou de
+**君は映画をずっと観ている　誰一人もいない劇場で**
 Em chăm chú vào bộ phim, tại rạp chiếu không một bóng người
 
-Ima omoeba chiipu na setto de hito no yoku shinu SF eiga  
-**今思えばチープなセットで　人のよく死ぬSF映画**  
+Ima omoeba chiipu na setto de hito no yoku shinu SF eiga
+**今思えばチープなセットで　人のよく死ぬSF映画**
 Chiếu theo thời nay thì đó là một bộ phim SF dựng cảnh rẻ tiền, nhân vật thì chết như ngả rạ
 
-Itsuka sekai ga matomo ni natte  
-**いつか世界が真面になって、**  
+Itsuka sekai ga matomo ni natte
+**いつか世界が真面になって、**
 Giá mà một ngày nào đó thế giới này trở nên ngay thẳng
 
-Hito no jumyou sae zuibun nobite  
-**人の寿命さえ随分伸びて、**  
+Hito no jumyou sae zuibun nobite
+**人の寿命さえ随分伸びて、**
 Con người thì sống lâu hơn thật lâu
 
-Shinenai sekai ni nareba ii no ni ne  
-**死ねない世界になればいいのにね**  
+Shinenai sekai ni nareba ii no ni ne
+**死ねない世界になればいいのにね**
 Rồi không thể chết nữa thì tốt biết mấy ha
 
-Soshitara kokoro igai wa nisemono da  
-**そしたら心以外は偽物だ**  
+Soshitara kokoro igai wa nisemono da
+**そしたら心以外は偽物だ**
 Nếu mà vậy thì ngoài con tim ra tất cả đều là đồ giả
 
-Kotoba igai wa nisemono da  
-**言葉以外は偽物だ**  
+Kotoba igai wa nisemono da
+**言葉以外は偽物だ**
 Ngoài câu từ ra thì tất cả đều là đồ giả
 
-Kami sama datte sakuhin nan dakara  
-**神様だって作品なんだから**  
+Kami sama datte sakuhin nan dakara
+**神様だって作品なんだから**
 Bởi vì ngay cả thần thánh thì cũng chỉ là tác phẩm thôi
 
-Bokura mina repurika da  
-**僕ら皆レプリカだ**  
+Bokura mina repurika da
+**僕ら皆レプリカだ**
 Tất cả chúng ta đều chỉ là bản sao
 
-Itsuka kisetsu ga sugisatte  
-**いつか季節が過ぎ去って**  
+Itsuka kisetsu ga sugisatte
+**いつか季節が過ぎ去って**
 Một ngày nào đó các mùa sẽ đi qua
 
-Tsumetaku natte toshi oite  
-**冷たくなって年老いて**  
+Tsumetaku natte toshi oite
+**冷たくなって年老いて**
 Lạnh lẽo và già nua
 
-Sono toki ni  
-**その時に**  
+Sono toki ni
+**その時に**
 Đến khi đó…
 
-Boku wa eiga wo zutto miteiru tsumaranai hodo ni usui eiga  
-**僕は映画をずっと観ている　つまらないほどに薄い映画**  
+Boku wa eiga wo zutto miteiru tsumaranai hodo ni usui eiga
+**僕は映画をずっと観ている　つまらないほどに薄い映画**
 Ta vẫn chăm chú cuốn vào bộ phim, một bộ phim nhạt đến mức chán òm
 
-Seki wo tatte kara yatto kizuku kore wa boku wo egaita dorama da  
-**席を立ってからやっと気づく　これは僕を描いたドラマだ**  
+Seki wo tatte kara yatto kizuku kore wa boku wo egaita dorama da
+**席を立ってからやっと気づく　これは僕を描いたドラマだ**
 Đến khi đứng lên ta mới nhận ra, đó là bộ drama về cuộc đời ta
 
-Itsuka bokura wa otona ni natte  
-**いつか僕らは大人になって、**  
+Itsuka bokura wa otona ni natte
+**いつか僕らは大人になって、**
 Một ngày nào đó chúng ta thành người lớn
 
-Te ni ireru mono mo ookiku natta  
-**手に入れるものも大きくなった**  
+Te ni ireru mono mo ookiku natta
+**手に入れるものも大きくなった**
 Những thứ có được cũng sẽ to hơn
 
-Tsugi wa ai demo kaeba ii no ni ne  
-**次は愛でも買えばいいのにね**  
+Tsugi wa ai demo kaeba ii no ni ne
+**次は愛でも買えばいいのにね**
 Giá mà ngay cả tình yêu cũng mua được bằng tiền thì tốt ha
 
-Anta no kachikan nante nisemono da  
-**あんたの価値観なんて偽物だ**  
+Anta no kachikan nante nisemono da
+**あんたの価値観なんて偽物だ**
 Giá trị quan của các người đều là đồ giả hết
 
-Omoide datte nisemono da  
-**思い出だって偽物だ**  
+Omoide datte nisemono da
+**思い出だって偽物だ**
 Kỉ niệm thì cũng là đồ giả hết
 
-Kokoro wa nou no shingou nan dakara  
-**心は脳の信号なんだから**  
+Kokoro wa nou no shingou nan dakara
+**心は脳の信号なんだから**
 Bởi vì trái tim cũng chỉ là tín hiệu từ não mà thôi
 
-Ai mo mina repurika da  
-**愛も皆レプリカだ**  
+Ai mo mina repurika da
+**愛も皆レプリカだ**
 Tình yêu tất cả đều chỉ là bản sao
 
-Itsuka kisetsu ga sugi satte  
-**いつか季節が過ぎ去って**  
+Itsuka kisetsu ga sugi satte
+**いつか季節が過ぎ去って**
 Một ngày nào đó các mùa sẽ đi qua
 
-Omoide bakari ga tsunotte  
-**思い出ばかりが募って**  
+Omoide bakari ga tsunotte
+**思い出ばかりが募って**
 Ký ức dội lại mạnh mẽ về trong ta
 
-Sono toki ni  
-**その時に**  
+Sono toki ni
+**その時に**
 Chính lúc đó…
 
-Mitasareru nara sore de yokatta  
-**満たされるならそれで良かった**  
+Mitasareru nara sore de yokatta
+**満たされるならそれで良かった**
 Nếu khi ấy bản thân ta thỏa mãn được thì là chuyện tốt thôi
 
-Uta wo utau noni riyuu mo nai wa  
-**歌を歌うのに理由も無いわ**  
+Uta wo utau noni riyuu mo nai wa
+**歌を歌うのに理由も無いわ**
 Ta chẳng biết lí do gì mà ta hát nữa
 
-Tanin no tame ni ikirarenai  
-**他人のために生きられない**  
+Tanin no tame ni ikirarenai
+**他人のために生きられない**
 Ta không thể sống cho người khác được
 
-Sayonara igai zenbu gomi  
-**さよなら以外全部塵**  
+Sayonara igai zenbu gomi
+**さよなら以外全部塵**
 Ngoài lời tạm biệt ra tất cả đều là rác rưởi
 
-Hito wo norou uta ga egakitai  
-**人を呪う歌が描きたい**  
+Hito wo norou uta ga egakitai
+**人を呪う歌が描きたい**
 Ta muốn viết ra những bài hát nguyền rủa con người
 
-Sorede dareka wo koroseba ii ze  
-**それで誰かを殺せればいいぜ**  
+Sorede dareka wo koroseba ii ze
+**それで誰かを殺せればいいぜ**
 Nếu nhờ thế mà giết được ai đó thì hay đấy
 
-Natsu no nioi ni mune ga tsumatteita  
-**夏の匂いに胸が詰まっていた**  
+Natsu no nioi ni mune ga tsumatteita
+**夏の匂いに胸が詰まっていた**
 Trái tim này đã mắc kẹt trong hương vị của mùa hè
 
-Bokura no kokoro igai wa nisemono da  
-**僕らの心以外は偽物だ**  
+Bokura no kokoro igai wa nisemono da
+**僕らの心以外は偽物だ**
 Trong chúng ta ngoài trái tim ra đều là đồ giả
 
-Kotoba igai wa nisemono da  
-**言葉以外は偽物だ**  
+Kotoba igai wa nisemono da
+**言葉以外は偽物だ**
 Ngoài câu từ ra chỉ toàn là đồ giả
 
-Kono yo no zenbu wa shukan nan dakara  
-**この世の全部は主観なんだから**  
+Kono yo no zenbu wa shukan nan dakara
+**この世の全部は主観なんだから**
 Bởi vì thế giới này ai cũng chỉ biết đến mình mà thôi
 
-Kimi mo mina repurika da  
-**君も皆レプリカだ**  
+Kimi mo mina repurika da
+**君も皆レプリカだ**
 Cả em nữa tất cả đều chỉ là bản sao
 
-Sayonara datte nage dashite  
-**さよならだって投げ出して**  
+Sayonara datte nage dashite
+**さよならだって投げ出して**
 Lời tạm biệt hãy vứt nó đi
 
-Kono mama tooku nige dashite  
-**このまま遠く逃げ出して**  
+Kono mama tooku nige dashite
+**このまま遠く逃げ出して**
 Chúng ta hãy cứ vậy chạy đi thật xa đi
 
-Kotoba de zenbu arawashite  
-**言葉で全部表して**  
+Kotoba de zenbu arawashite
+**言葉で全部表して**
 Lời nói có bao nhiêu hãy thể hiện ra hết đi
 
-Kokoro mo ai mo kaki tashite  
-**心も愛も書き足して**  
+Kokoro mo ai mo kaki tashite
+**心も愛も書き足して**
 Tâm can rồi tình yêu hãy viết hết ra đi
 
-Sore demo sora wa hidoku aoin dakara  
-**それでも空は酷く青いんだから**  
+Sore demo sora wa hidoku aoin dakara
+**それでも空は酷く青いんだから**
 Bởi vì dẫu thế nhưng bầu trời vẫn xanh một cách quá đáng
 
-Sore wa kitto mahou dakara  
-**それはきっと魔法だから**  
+Sore wa kitto mahou dakara
+**それはきっと魔法だから**
 Đó hẳn phải là một loại phép thuật rồi
 
-Itsuka kisetsu ga sugi satte  
-**いつか季節が過ぎ去って**  
+Itsuka kisetsu ga sugi satte
+**いつか季節が過ぎ去って**
 Một ngày nào đó các mùa sẽ qua đi
 
-Tsumetaku natte toshi oite  
-**冷たくなって年老いて**  
+Tsumetaku natte toshi oite
+**冷たくなって年老いて**
 Lạnh lẽo và già nua
 
-Sono toki ni yatto wakaru  
-**その時にやっとわかる**  
+Sono toki ni yatto wakaru
+**その時にやっとわかる**
 Đến khi đó cuối cùng ta cũng sẽ hiểu
 
-Boku mo sono aosa ga wakaru  
-**僕もその青さがわかる**  
+Boku mo sono aosa ga wakaru
+**僕もその青さがわかる**
 Ta cũng sẽ hiểu được ý nghĩa của màu xanh ấy
 
-Giải thích lời bài hát:  
-Đầu tiên, bài hát này được sáng tác dựa trên bộ phim Blade Runner công chiếu năm 1982 với chủ đề chiến tranh giữa con người và người nhân bản. Trong bộ phim này con người nhân bản được gọi với cái tên Replicant, do chính con người tạo ra và giống hệt người thật. Về nội dung phim các bạn có thể search google nhé.  
-Ngay từ những câu đầu tiên bài hát đã thể hiện ngay ý đồ đạo tác, bởi vì bộ phim được nhắc đến trong phần đầu chính là Blade Runner, một bộ phim kỹ xảo rẻ tiền của ngày xưa. Và chính từ đây nội dung của bài hát được triển khai từ ý của bộ phim: quá trình nhân vật chính đi tìm câu trả lời cho câu hỏi “Trên thế giới này cái gì mới là thật?”.  
-Quá trình giải thích câu trả lời này nằm ở 3 đoạn điệp khúc. Ở điệp khúc thứ nhất có nói ngoài trái tim và ngôn từ ra tất cả đều là giả dối, bởi vì nếu thế giới này không thể chết được nữa thì con người sẽ tồn tại bất diệt như những tác phẩm nghệ thuật, ngay cả thần thánh cũng vậy. Bởi vậy con người chúng ta chỉ là bản sao mà thôi, không khác gì so với người nhân bản trong phim cả.  
-Ở điệp khúc thứ 2 lại nói tất cả giá trị quan và ký ức đều là giả dối, vì trái tim chỉ là do não truyền tín hiệu đến chỉ đạo. Bởi vậy khi chúng ta nghĩ đến một điều gì đó, nhớ lại một điều gì đó, tất cả đều là tín hiệu do não chi phối, bởi vậy tình yêu hay gì đó cũng chỉ là bản sao mà thôi.  
-Và đến đoạn cuối, nhân vật chính nói rằng ngoài hình ảnh bản thân trong suy nghĩ của chính ta ra thì tất cả đều là giả dối. Bởi vì con người nhìn nhận mọi thứ từ quan điểm chủ quan của mình, nên cái nhìn của họ sẽ khác với sự thật. Ngay cả “em” trong mắt nhân vật chính cũng là hình tượng do chính nhân vật chính vẽ ra chứ không chắc nó giống với con người thật.  
+Giải thích lời bài hát:
+Đầu tiên, bài hát này được sáng tác dựa trên bộ phim Blade Runner công chiếu năm 1982 với chủ đề chiến tranh giữa con người và người nhân bản. Trong bộ phim này con người nhân bản được gọi với cái tên Replicant, do chính con người tạo ra và giống hệt người thật. Về nội dung phim các bạn có thể search google nhé.
+Ngay từ những câu đầu tiên bài hát đã thể hiện ngay ý đồ đạo tác, bởi vì bộ phim được nhắc đến trong phần đầu chính là Blade Runner, một bộ phim kỹ xảo rẻ tiền của ngày xưa. Và chính từ đây nội dung của bài hát được triển khai từ ý của bộ phim: quá trình nhân vật chính đi tìm câu trả lời cho câu hỏi “Trên thế giới này cái gì mới là thật?”.
+Quá trình giải thích câu trả lời này nằm ở 3 đoạn điệp khúc. Ở điệp khúc thứ nhất có nói ngoài trái tim và ngôn từ ra tất cả đều là giả dối, bởi vì nếu thế giới này không thể chết được nữa thì con người sẽ tồn tại bất diệt như những tác phẩm nghệ thuật, ngay cả thần thánh cũng vậy. Bởi vậy con người chúng ta chỉ là bản sao mà thôi, không khác gì so với người nhân bản trong phim cả.
+Ở điệp khúc thứ 2 lại nói tất cả giá trị quan và ký ức đều là giả dối, vì trái tim chỉ là do não truyền tín hiệu đến chỉ đạo. Bởi vậy khi chúng ta nghĩ đến một điều gì đó, nhớ lại một điều gì đó, tất cả đều là tín hiệu do não chi phối, bởi vậy tình yêu hay gì đó cũng chỉ là bản sao mà thôi.
+Và đến đoạn cuối, nhân vật chính nói rằng ngoài hình ảnh bản thân trong suy nghĩ của chính ta ra thì tất cả đều là giả dối. Bởi vì con người nhìn nhận mọi thứ từ quan điểm chủ quan của mình, nên cái nhìn của họ sẽ khác với sự thật. Ngay cả “em” trong mắt nhân vật chính cũng là hình tượng do chính nhân vật chính vẽ ra chứ không chắc nó giống với con người thật.
 Đọc mãi nghe mãi rồi bạn sẽ có cảm giác đây là một quá trình tìm kiếm câu trả lời không có hồi kết, nghĩ mãi cũng không có câu trả lời cuối cùng. Khi thế giới này trở nên vĩnh viễn, câu trả lời mãi không tìm thấy điểm dừng, thì thứ duy nhất không thay đổi chính là bầu trời xanh đến mức quá đáng. Bởi vậy nhân vật chính muốn thoát khỏi thế giới vô tận ấy, đi đến điểm cuối của cuộc đời. Khi chúng ta đón nhận kết thúc, ta sẽ biết được rốt cuộc bầu trời xanh kia là cái gì, ta sẽ tìm thấy được phiên bản thật sự của chính mình.
 ## Hanamotase (Trao hoa cho người / Hoa nhân kế) 花人局
-Sayonara wo oite boku ni hanamotase  
-**さよならを置いて僕に花もたせ**  
+Sayonara wo oite boku ni hanamotase
+**さよならを置いて僕に花もたせ**
 Người để lại lời tạm biệt, trao cho ta một bông hoa
 
-Obotsukanu mama ni yoi ga akete  
-**覚束ぬままに夜が明けて**  
+Obotsukanu mama ni yoi ga akete
+**覚束ぬままに夜が明けて**
 Trời trở sáng trong khi ta vẫn bán tín bán nghi
 
-Dare mo inai heya de okita  
-**誰もいない部屋で起きた**  
+Dare mo inai heya de okita
+**誰もいない部屋で起きた**
 Thức dậy trong căn phòng không có một ai
 
-Sono nukumori hitotsu nokoshite  
-**その温もり一つ残して**  
+Sono nukumori hitotsu nokoshite
+**その温もり一つ残して**
 Người bỏ lại nơi ta chút hơi ấm đó
 
-Kinou no yoru no koto wa sukoshi mo oboetenai keredo  
-**昨日の夜のことは少しも覚えてないけれど**  
+Kinou no yoru no koto wa sukoshi mo oboetenai keredo
+**昨日の夜のことは少しも覚えてないけれど**
 Chuyện đêm qua ta chẳng nhớ chút nào cả
 
-Hoka ni dareka ga ita sonna ki ga tada shiteiru  
-**他に誰かが居た、そんな気がただしている**  
+Hoka ni dareka ga ita sonna ki ga tada shiteiru
+**他に誰かが居た、そんな気がただしている**
 Chỉ là có cảm giác dường như đã có ai đó ở đây
 
-Futsuka yoi ga nokoru atama wa mawacchainai keredo  
-**二日酔いが残る頭は回っちゃいないけれど**  
+Futsuka yoi ga nokoru atama wa mawacchainai keredo
+**二日酔いが残る頭は回っちゃいないけれど**
 Đầu ta vẫn còn vương chút men sau hai ngày say, nhưng ta không chếnh choáng
 
-Wakaranai mama demo maa, Sore wa sore demo kirei da  
-**わからないままでもまぁ、それはそれでも綺麗だ**  
+Wakaranai mama demo maa, Sore wa sore demo kirei da
+**わからないままでもまぁ、それはそれでも綺麗だ**
 Vậy mà ta chẳng hiểu chuyện gì xảy ra cả, mà thôi mọi thứ vẫn đẹp đẽ
 
-Senmendai no ha burashi, dareka no koppu, tana no keshousui  
-**洗面台の歯ブラシ、誰かのコップ、棚の化粧水。**  
+Senmendai no ha burashi, dareka no koppu, tana no keshousui
+**洗面台の歯ブラシ、誰かのコップ、棚の化粧水。**
 Bàn chải đánh răng trên bồn rửa mặt, chiếc cốc của ai đó, nước hoa hồng trên kệ
 
-Oboe no nai mono bakari da  
-**覚えのない物ばかりだ**  
+Oboe no nai mono bakari da
+**覚えのない物ばかりだ**
 Toàn những thứ ta chẳng quen chút nào
 
-Makura wa hana no nioi ga suru  
-**枕は花の匂いがする**  
+Makura wa hana no nioi ga suru
+**枕は花の匂いがする**
 Trên gối vẫn còn lưu lại mùi hoa
 
-Sayonara wo oite boku ni hanamotase  
-**さよならを置いて僕に花もたせ**  
+Sayonara wo oite boku ni hanamotase
+**さよならを置いて僕に花もたせ**
 Người để lại lời tạm biệt, trao cho ta một bông hoa
 
-Obotsukanu mama ni yoi ga akete  
-**覚束ぬままに夜が明けて**  
+Obotsukanu mama ni yoi ga akete
+**覚束ぬままに夜が明けて**
 Trời trở sáng trong khi ta vẫn bán tín bán nghi
 
-Dare mo inai heya de okiru  
-**誰もいない部屋で起きる**  
+Dare mo inai heya de okiru
+**誰もいない部屋で起きる**
 Thức dậy trong căn phòng không có một ai
 
-Sono nukumori hitotsu nokoshite  
-**その温もり一つ残して**  
+Sono nukumori hitotsu nokoshite
+**その温もり一つ残して**
 Người bỏ lại nơi ta chút hơi ấm đó
 
-Kinou no yoru no koto wa soko made oboetenai keredo  
-**昨日の夜のことはそこまで覚えてないけれど**  
+Kinou no yoru no koto wa soko made oboetenai keredo
+**昨日の夜のことはそこまで覚えてないけれど**
 Chuyện đêm qua ta cũng không nhớ lắm đâu
 
-Tsutsumotase wo utagau sonna ki mo shinaide iru  
-**美人局を疑う、そんな気もしないでいる**  
+Tsutsumotase wo utagau sonna ki mo shinaide iru
+**美人局を疑う、そんな気もしないでいる**
 Bị dính mỹ nhân kế ư? Ta không nghĩ thế đâu
 
-Futsuka yoi mo sameta atama de kangaeteita kedo, Wakaranai mama demo ii  
-**二日酔いも醒めた頭で考えていたけど、わからないままでもいい**  
+Futsuka yoi mo sameta atama de kangaeteita kedo, Wakaranai mama demo ii
+**二日酔いも醒めた頭で考えていたけど、わからないままでもいい**
 Sau hai ngày say hơi men giờ đã tiêu tan, nhưng nghĩ mãi vẫn chẳng hiểu gì cả
 
-Mushiro sono hou ga ii  
-**むしろその方がいい**  
+Mushiro sono hou ga ii
+**むしろその方がいい**
 Mà không sao, ngược lại thà như vậy có khi lại tốt hơn
 
-Madobe saku rabendaa, yogoreta shinku, amikake no mafuraa  
-**窓際咲くラベンダー、汚れたシンク、編み掛けのマフラー**  
+Madobe saku rabendaa, yogoreta shinku, amikake no mafuraa
+**窓際咲くラベンダー、汚れたシンク、編み掛けのマフラー**
 Hoa oải hương nở bên bậu cửa sổ, bồn rửa bát dính bẩn, khăn quàng cổ đan len
 
-Oboe no nai koto bakari da  
-**覚えのない事ばかりだ**  
+Oboe no nai koto bakari da
+**覚えのない事ばかりだ**
 Toàn những chuyện ta chẳng nhớ gì cả
 
-Heya ni wa haru no nioi ga suru  
-**部屋には春の匂いがする**  
+Heya ni wa haru no nioi ga suru
+**部屋には春の匂いがする**
 Trong phòng vẫn còn vương mùi hương của mùa xuân
 
-Ukigumo tsukamu you na hanamotase  
-**浮雲掴むような花人局**  
+Ukigumo tsukamu you na hanamotase
+**浮雲掴むような花人局**
 Hoa nhân kế mơ hồ như tóm lấy áng mây nổi
 
-Dare mo konai mama hi ga kurete  
-**誰も来ないまま日が暮れて**  
+Dare mo konai mama hi ga kurete
+**誰も来ないまま日が暮れて**
 Mặt trời lặn xuống mà vẫn chẳng có ai đến
 
-Yuuhi no sashita mado hitotsu  
-**夕陽の差した窓一つ**  
+Yuuhi no sashita mado hitotsu
+**夕陽の差した窓一つ**
 Bên cửa sổ ánh nắng xiên vào
 
-Nani mo shiranai boku wo nokoshite  
-**何も知らない僕を残して**  
+Nani mo shiranai boku wo nokoshite
+**何も知らない僕を残して**
 Bơ vơ mình ta vẫn chẳng biết chuyện gì cả
 
-Kinou no yoru no koto mo hontou wa sukoshi oboeterunda  
-**昨日の夜のことも本当は少し覚えてるんだ**  
+Kinou no yoru no koto mo hontou wa sukoshi oboeterunda
+**昨日の夜のことも本当は少し覚えてるんだ**
 Chuyện đêm qua thực ra ta có nhớ đôi chút đấy
 
-Anata no inai kurashi, sore ga tsuzuku koto mo  
-**貴方の居ない暮らし、それが続くことも**  
+Anata no inai kurashi, sore ga tsuzuku koto mo
+**貴方の居ない暮らし、それが続くことも**
 Chuỗi những ngày dài sống cuộc sống không có em
 
-Ima demo kono atama hitotsu de kangaeteiru bakari  
-**今でもこの頭一つで考えているばかり**  
+Ima demo kono atama hitotsu de kangaeteiru bakari
+**今でもこの頭一つで考えているばかり**
 Ngay cả bây giờ ta vẫn một mình suy nghĩ
 
-Hana hitotsu motasete kieta anata no koto  
-**花一つ持たせて消えた貴方のこと**  
+Hana hitotsu motasete kieta anata no koto
+**花一つ持たせて消えた貴方のこと**
 Về em – người đã để lại một bông hoa cho ta rồi biến mất
 
-Ashita ni wa kitto modotte kuru  
-**明日にはきっと戻ってくる**  
+Ashita ni wa kitto modotte kuru
+**明日にはきっと戻ってくる**
 Chắc chắn ta sẽ quay trở về với ngày mai
 
-Nanigenai kao kaette kuru  
-**何気ない顔で帰ってくる**  
+Nanigenai kao kaette kuru
+**何気ない顔で帰ってくる**
 Ta sẽ quay về với một vẻ mặt thật bình thản
 
-Ima ni doa ga aite kikoeru  
-**今にドアが開いて聞こえる**  
+Ima ni doa ga aite kikoeru
+**今にドアが開いて聞こえる**
 Sớm thôi cửa sẽ mở và ta sẽ nghe thấy giọng em
 
-Gomen ne, osoku nattatte  
-**ごめんね、遅くなったって**  
+Gomen ne, osoku nattatte
+**ごめんね、遅くなったって**
 “Em xin lỗi, em về muộn rồi”
 
-Kotoba dake wo zutto matteiru  
-**言葉だけをずっと待っている**  
+Kotoba dake wo zutto matteiru
+**言葉だけをずっと待っている**
 Ta vẫn luôn mong chờ duy nhất lời nói ấy
 
-Yuuyake wo jitto matteiru  
-**夕焼けをじっと待っている**  
+Yuuyake wo jitto matteiru
+**夕焼けをじっと待っている**
 Mong ngóng hoài chiều hoàng hôn
 
-Wasurete shimau mae ni hana egake  
-**忘れてしまう前に花描け**  
+Wasurete shimau mae ni hana egake
+**忘れてしまう前に花描け**
 Trước khi lãng quên mất ta sẽ vẽ một bông hoa
 
-Kyou mo hitori mata yoru ga kite  
-**今日も一人また夜が来て**  
+Kyou mo hitori mata yoru ga kite
+**今日も一人また夜が来て**
 Ngày hôm nay màn đêm lại buông xuống bên mình ta
 
-Dare mo inai heya de nemuru  
-**誰もいない部屋で眠る**  
+Dare mo inai heya de nemuru
+**誰もいない部屋で眠る**
 Lại ngủ trong căn phòng chẳng có ai cả
 
-Sono nukumori, boku ni nokoshite  
-**その温もり、僕に残して**  
+Sono nukumori, boku ni nokoshite
+**その温もり、僕に残して**
 Hơi ấm ấy, em hãy để lại cho ta đi!
 
-Baka mitai ni ai wa hana motase  
-**馬鹿みたいに愛は花もたせ**  
+Baka mitai ni ai wa hana motase
+**馬鹿みたいに愛は花もたせ**
 Tình yêu khờ khạo để lại hoa cho ta
 
-Kono heya ni mo mata haru ga kite  
-**この部屋にもまた春が来て**  
+Kono heya ni mo mata haru ga kite
+**この部屋にもまた春が来て**
 Rồi mùa xuân sẽ lại đến với căn phòng này
 
-Anata no inai machi wo ikiru  
-**貴方のいない街を生きる**  
+Anata no inai machi wo ikiru
+**貴方のいない街を生きる**
 Ta sẽ sống trong thành phố không có bóng dáng em
 
-Sono nukumori, boku ni nokoshite  
-**その温もり、僕に残して**  
+Sono nukumori, boku ni nokoshite
+**その温もり、僕に残して**
 Hơi ấm đó, em hãy để lại cho ta đi
 
-Boku ni hitotsu, hana wo nokoshite  
-**僕にひとつ、花を残して**  
+Boku ni hitotsu, hana wo nokoshite
+**僕にひとつ、花を残して**
 Hãy để lại cho ta một đóa hoa đi!
 
-Kotoba dake wo zutto matteiru  
-**言葉だけをずっと待っている**  
+Kotoba dake wo zutto matteiru
+**言葉だけをずっと待っている**
 Ta vẫn mãi chờ đợi lời nói của em đây
 
-Yuuyake wo jitto matteiru  
-**夕焼けをじっと待っている**  
+Yuuyake wo jitto matteiru
+**夕焼けをじっと待っている**
 Chờ hoài chiều hoàng hôn buông xuống đây
 
-Giải thích về bài hát:  
+Giải thích về bài hát:
 Trước hết mình sẽ giải thích về sự vi diệu của cái tiêu đề bài hát theo cách dễ hiểu nhất nhé! Tên bài hát là Hanamotase, và cách viết đúng của nó trong tiếng Nhật là 花持たせ, theo cách viết này thì nghĩa mặt chữ của nó là trao hoa cho người khác, và nghĩa đúng của nó là nhường công lao, thành quả của bản thân cho người khác. Tuy nhiên, trong tiếng Nhật còn có một từ khác là Tsutsumotase, viết theo chữ Hán là 美人局, dịch ra là mỹ nhân kế (từ này cũng xuất hiện trong lời 2 của bài hát). Và việc mà n-buna đã làm là ghép 2 từ trên với nhau, lấy 花 trong 花持たせ và 人局 trong 美人局 tạo thành một từ mới là 花人局, do đó vẫn giữ nguyên được cách đọc là Hanamotase. Tuy nhiên cái từ này là do n-buna tự sáng tạo ra và nó hoàn toàn không tồn tại trong từ điển tiếng Nhật =))) Nó được tạo ra để phục vụ cho duy nhất mục đích của bài hát này. Bởi vậy khi ghép từ như này, n-buna đã làm biến mất cái nghĩa “nhường công lao, thành quả của bản thân cho người khác”, chỉ còn giữ lại đúng cái mặt chữ là trao hoa cho người, cộng thêm ý nghĩa từ “mỹ nhân kế” tạo thành nghĩa thứ hai là “hoa nhân kế”. Đó là lí do vì sao mình dịch tiêu đề bài hát thành 2 nghĩa khác nhau. Các bạn cũng có thể đọc ra trong lời bài hát, người con gái ra đi âm thầm chỉ để lại cho nhân vật chính một đóa hoa gây thương nhớ, đó chính là hoa nhân kế ạ.
 
 Khi đọc lời bài hát thì các bạn sẽ tưởng tượng ra cảnh một anh chàng say khướt và đã qua đêm cũng một cô gái nào đó mà anh ta chẳng thể nhớ ra là ai đúng không. Nhưng đọc kỹ qua 3 lời bạn sẽ thấy 3 câu “Chuyện đêm qua ta chẳng nhớ chút nào cả”, “Chuyện đêm qua ta cũng không nhớ lắm đâu”, “Chuyện đêm qua thực ra ta có nhớ đôi chút đấy”. Thực ra không phải anh ta quên đâu mà là anh ta đang tự lừa bản thân để quên đi nỗi đau mất đi người vợ yêu quý đó. Anh ta sống mãi trong quá khứ, trong mùi hương, kỷ niệm của người vợ, không chấp nhận nổi thực tại. Đây là một bài hát tuyệt vời, không một câu chữ nhớ thương nào nhưng lại thể hiện được nỗi nhớ dày vò da diết.
@@ -813,6 +813,7 @@ Kiễng chân lên, dưới trời mây rực đỏ, ta buông lời tạm biệ
 Ta muốn được công nhận, ta muốn yêu đương
 Đây là ước mơ mà người đời vẫn nói sao?
 Vậy thì hãy thành toàn cho ta đi, mau lên, ta muốn được thỏa mãn!
+(Vậy thì hãy cho ta toại nguyện đi, mau lên, làm ta được thỏa mãn đi!)
 
 Thế gian dịu dàng với kẻ khác này sao có thể hiểu lòng ghen tuông trong ta?
 Ta vẫn luôn đi tìm cơ hội để đánh người đây!
@@ -839,7 +840,7 @@ Trong lúc chờ đến thời khắc đó
 
 Bầu trời nhuộm đỏ tiếng hát của đàn quạ
 Hỡi nỗi cô đơn này, hãy biến thành lời ca đi!
-Tạm biệt em, hỡi người con gái trong ánh chiều đỏ thậm
+Tạm biệt em, hỡi người con gái trong ánh chiều đỏ thẫm
 Ta đang chờ màn đêm xuống
 Khẽ thầm thì "mai gặp lại nhé"
 
@@ -857,135 +858,135 @@ Sơ sơ về tiểu thuyết và ý nghĩa cái tên “tội nhận thức” t
 
 Rồi đến đây sẽ có bạn hỏi bài này thì liên quan gì đến thơ Haiku với Ozaki Housai. Ozaki Housai là một nhà thơ Haiku theo thể tự do, sống cuộc đời nghiện rượu, nghèo khổ, tính cách kỳ quặc đi đâu cũng bị người đời ghét. Ông bất lực với cuộc đời nên đã từng nói với vợ rằng "Bà hãy chết chung với tôi đi", tất nhiên người vợ không nghe theo và đã bỏ ông ra đi. Và sau đó ông đã bỏ lại tất cả để bắt đầu cuộc sống phiêu bạt, làm người dọn dẹp trong chùa. Nghe rất giống nhân vật chính trong bài hát này đúng không nào. Trong bài hát này thực ra có 2 câu “đạo” từ thơ Haiku của Housai. Câu thứ nhất là Tiếp nhận lấy nó bằng đôi bàn tay trắng (Iremono no nai ryoute de ukete), và câu thơ gốc là Iremono ga nai ryoute de ukeru. Câu thơ này kể về sự nghèo khổ bần cùng của Housai đến mức đi xin ăn nhưng không có đồ để đựng nên phải chìa hai tay ra để hứng. Nhân vật trong bài hát này có lẽ cũng nghèo đói tình cảm giống y như vậy. Câu thứ hai chính là Một cột khói hiện ra sau ngọn núi mùa xuân (Haru no yama no ushiro kara mata hitotsu kemuri ga tatsu), câu thơ gốc là Haru no yama no ushiro kara kemuri ga dedashita. Câu thơ này được Housai ngâm trước khi mất ở tuổi 41, thể hiện nỗi nhớ ngọn núi quê hương. Kết cục đến lúc chết người ta sẽ chỉ còn lưu luyến những ký ức và quá khứ mà thôi. Chính vì những điểm tương đồng này nên bài hát này mới được n-buna dùng để tưởng niệm những năm cuối đời của Housai.
 ## Toubou (Chạy trốn) 逃亡
-Natsu no nioi ga shiteta  
-**夏の匂いがしてた**  
+Natsu no nioi ga shiteta
+**夏の匂いがしてた**
 Mùi hương của mùa hè tỏa ra rồi
 
-Aze michi, hitotsu nyuudougumo  
-**あぜ道、ひとつ入道雲**  
+Aze michi, hitotsu nyuudougumo
+**あぜ道、ひとつ入道雲**
 Bên bở ruộng, xa xa cụm mây lớn
 
-Yoru ga chikazuku made kyou wa aruite miyou yo  
-**夜が近づくまで今日は歩いてみようよ**  
+Yoru ga chikazuku made kyou wa aruite miyou yo
+**夜が近づくまで今日は歩いてみようよ**
 Hôm nay anh sẽ cứ đi đến khi trời gần tối
 
-Tonari no machi no yoru matsuri ni ikun da  
-**隣の町の夜祭りに行くんだ**  
+Tonari no machi no yoru matsuri ni ikun da
+**隣の町の夜祭りに行くんだ**
 Anh sẽ đi đến lễ hội đêm ở thị trấn kế bên
 
-Nurui yoru, yuugatou no higurashi, hana uta, nokisaki no fuurin  
-**温い夜、誘蛾灯の日暮、鼻歌、軒先の風鈴**  
+Nurui yoru, yuugatou no higurashi, hana uta, nokisaki no fuurin
+**温い夜、誘蛾灯の日暮、鼻歌、軒先の風鈴**
 Màn đêm nồng ẩm, ve đậu quanh đèn dụ côn trùng, tiếng hát ngâm nga, chuông gió trước mái hiên
 
-Sakamichi wo orita mukou gawa, matsuri yatai no doukei  
-**坂道を下りた向こう側、祭り屋台の憧憬**  
+Sakamichi wo orita mukou gawa, matsuri yatai no doukei
+**坂道を下りた向こう側、祭り屋台の憧憬**
 Phía bên kia con đường khi xuống dốc, anh nhìn với theo dãy quán vỉa hè của lễ hội
 
-Yoru ga chikazuku made kyou wa aruite miyou yo  
-**夜が近付くまで今日は歩いてみようよ**  
+Yoru ga chikazuku made kyou wa aruite miyou yo
+**夜が近付くまで今日は歩いてみようよ**
 Hôm nay anh sẽ cứ đi đến khi trời gần tối
 
-Ue wo muite aruita hana ga yozora ni saiteiru  
-**上を向いて歩いた、花が夜空に咲いてる**  
+Ue wo muite aruita hana ga yozora ni saiteiru
+**上を向いて歩いた、花が夜空に咲いてる**
 Vừa đi vừa ngước nhìn, hoa đang nở trên bầu trời đêm
 
-Natsu no nioi ga shiteta  
-**夏の匂いがしてた**  
+Natsu no nioi ga shiteta
+**夏の匂いがしてた**
 Hương thơm của mùa hè phảng phất
 
-Aze michi no zutto mukou e  
-**あぜ道のずっと向こうへ**  
+Aze michi no zutto mukou e
+**あぜ道のずっと向こうへ**
 Tít phía xa bên kia bờ ruộng
 
-Dare hitori hito no inai machi wo sagasunda  
-**誰一人人の居ない街を探すんだ**  
+Dare hitori hito no inai machi wo sagasunda
+**誰一人人の居ない街を探すんだ**
 Anh sẽ đi tìm một thành phố không có ai ở đó
 
-Nee, konna seikatsu wa gomen da  
-**ねぇ、こんな生活はごめんだ**  
+Nee, konna seikatsu wa gomen da
+**ねぇ、こんな生活はごめんだ**
 Nè em, anh xin lỗi khi sống một cuộc sống như này nhé
 
-Sayonara, te wo furu kage hitotsu, yorumachi, hanasaki no basutei  
-**さようなら、手を振る影一つ、夜待ち、鼻先のバス停**  
+Sayonara, te wo furu kage hitotsu, yorumachi, hanasaki no basutei
+**さようなら、手を振る影一つ、夜待ち、鼻先のバス停**
 Lời tạm biệt, bóng ai đang vẫy tay, ngóng trông màn đêm, trạm dừng bus trước mặt
 
-Omoide no naka no fuukei wa tsumaranu hodo kirei de  
-**思い出の中の風景はつまらぬほど綺麗で**  
+Omoide no naka no fuukei wa tsumaranu hodo kirei de
+**思い出の中の風景はつまらぬほど綺麗で**
 Khung cảnh trong ký ức của anh đẹp đẽ đến mức chán ngắt
 
-Yoru ga chikazuku made kyou mo aruiteitan da  
-**夜が近付くまで今日も歩いていたんだ**  
+Yoru ga chikazuku made kyou mo aruiteitan da
+**夜が近付くまで今日も歩いていたんだ**
 Hôm nay anh lại đi đến khi gần tối rồi
 
-Mabuta wo tojireba mieru natsu no nioi ga suru  
-**目蓋を閉じれば見える、夏の匂いがする**  
+Mabuta wo tojireba mieru natsu no nioi ga suru
+**目蓋を閉じれば見える、夏の匂いがする**
 Nhắm mắt lại anh sẽ nhìn thấy được hương thơm của mùa hè
 
-Saa motto tooku ikou yo  
-**さぁ、もっと遠く行こうよ**  
+Saa motto tooku ikou yo
+**さぁ、もっと遠く行こうよ**
 Nào, mình hãy đi xa hơn nữa đi!
 
-Saa motto nigete ikou ze  
-**さぁ、もっと逃げて行こうぜ**  
+Saa motto nigete ikou ze
+**さぁ、もっと逃げて行こうぜ**
 Nào, chúng ta hãy chạy trốn xa hơn nữa đi!
 
-Saa bokura tsumaranai koto wa zenbu houttoite  
-**さぁ、僕らつまらないことは全部放っといて**  
+Saa bokura tsumaranai koto wa zenbu houttoite
+**さぁ、僕らつまらないことは全部放っといて**
 Kìa em, tất cả những thứ tẻ nhạt hãy bỏ lại hết đi
 
-Michi no mukou e  
-**道の向こうへ**  
+Michi no mukou e
+**道の向こうへ**
 Cùng đến bên kia con đường nhé
 
-Natsu no nioi ga shiteta  
-**夏の匂いがしてた**  
+Natsu no nioi ga shiteta
+**夏の匂いがしてた**
 Mùi hương của mùa hè tỏa ra rồi
 
-Aze michi hitotsu nyuudougumo  
-**あぜ道、ひとつ入道雲**  
+Aze michi hitotsu nyuudougumo
+**あぜ道、ひとつ入道雲**
 Bên bở ruộng, xa xa cụm mây lớn
 
-Dare hitori hito no inai machi de kizukun da  
-**誰一人人の居ない街で気付くんだ**  
+Dare hitori hito no inai machi de kizukun da
+**誰一人人の居ない街で気付くんだ**
 Tại một thành phố nơi không có bóng người anh đã nhận ra
 
-Kimi mo inai koto ni yatto  
-**君も居ないことにやっと**  
+Kimi mo inai koto ni yatto
+**君も居ないことにやっと**
 Rằng em không còn ở đây nữa
 
-Nurui yoru, yuugatou no higurashi, hana uta, nokisaki no fuurin  
-**温い夜、誘蛾灯の日暮、鼻歌、軒先の風鈴**  
+Nurui yoru, yuugatou no higurashi, hana uta, nokisaki no fuurin
+**温い夜、誘蛾灯の日暮、鼻歌、軒先の風鈴**
 Màn đêm nồng ẩm, ve đậu quanh đèn dụ côn trùng, tiếng hát ngâm nga, chuông gió trước mái hiên
 
-Sakamichi wo orita mukou gawa, matsuri yatai no doukei  
-**坂道を下りた向こう側、祭り屋台の憧憬**  
+Sakamichi wo orita mukou gawa, matsuri yatai no doukei
+**坂道を下りた向こう側、祭り屋台の憧憬**
 Phía bên kia con đường khi xuống dốc, anh nhìn với theo dãy quán vỉa hè của lễ hội
 
-Otona ni natte mo zutto oboeteru kara  
-**大人になってもずっと憶えてるから**  
+Otona ni natte mo zutto oboeteru kara
+**大人になってもずっと憶えてるから**
 Sau này khi lớn lên anh sẽ mãi ghi nhớ chúng trong đầu
 
-Nee tooku e ikou yo, ano oka no mukou e  
-**ねぇ遠くへ行こうよ、あの丘の向こうへ**  
+Nee tooku e ikou yo, ano oka no mukou e
+**ねぇ遠くへ行こうよ、あの丘の向こうへ**
 Nên mình hãy đi xa hơn nữa đi, đến bên kia ngọn đồi
 
-Saa motto tooku ikou yo  
-**さぁ、もっと遠く行こうよ**  
+Saa motto tooku ikou yo
+**さぁ、もっと遠く行こうよ**
 Nào, mình hãy đi xa hơn nữa đi!
 
-Saa motto nigete ikou ze  
-**さぁ、もっと逃げて行こうぜ**  
+Saa motto nigete ikou ze
+**さぁ、もっと逃げて行こうぜ**
 Nào, chúng ta hãy chạy trốn xa hơn nữa đi!
 
-Saa bokura tsumaranai koto wa zenbu houttoite  
-**さぁ、僕らつまらないことは全部放っといて**  
+Saa bokura tsumaranai koto wa zenbu houttoite
+**さぁ、僕らつまらないことは全部放っといて**
 Kìa em, tất cả những thứ tẻ nhạt hãy bỏ lại hết đi
 
-Michi no mukou e  
-**道の向こうへ**  
+Michi no mukou e
+**道の向こうへ**
 Cùng đến bên kia con đường nhé
 
-Giải thích:  
+Giải thích:
 Về bài hát Toubou này, nó nằm sau track không lời mở ra thời thơ ấu của nhân vật chính và sau đó là bài Yakou nói về kỷ niệm thời còn bé với người vợ. Hơn nữa hình ảnh lẫn cách dùng từ trong bài này cũng rất giống yakou như quán vỉa hè, đèn dụ côn trùng, hình ảnh mùa hè, thị trấn kế bên, phía bên kia con đường vv…
 ## Younenki, omoide no naka (Thời thơ ấu, trong vùng ký ức)
 ## Yakou (Chuyến đi đêm)
@@ -1077,9 +1078,9 @@ Cậu chắc đã quên rồi đúng không?
 Khi chúng ta mải ngồi dưới tán cây mùa hè
 Bỏ viên kem vào miệng và chờ đợi một làn gió
 ## Tiểu thuyết "Đạo tác" (Phần đầu)
-“Ta là một tên trộm.  
-Từ cổ chí kim, trộm thì muôn hình muôn vẻ, nhưng ta thì khác với bọn họ.  
-Ta không ăn trộm tiền, cũng chẳng hứng thú với trang sức cổ hay các loại mỹ thuật có giá trị khác.  
+“Ta là một tên trộm.
+Từ cổ chí kim, trộm thì muôn hình muôn vẻ, nhưng ta thì khác với bọn họ.
+Ta không ăn trộm tiền, cũng chẳng hứng thú với trang sức cổ hay các loại mỹ thuật có giá trị khác.
 Ta, là một kẻ đi ăn trộm âm thanh.
 
 Những bản nhạc jazz standard phát ra từ radio. Những bài pop nghe từ loa trên phố. Tiếng hát vọng đến vòng xuyến trước nhà ga. Bản piano sonata truyền đến từ khán phòng nhỏ trong hội trường thành phố.

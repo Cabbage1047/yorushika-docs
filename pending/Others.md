@@ -2,32 +2,39 @@
 ## Itte
 https://www.youtube.com/watch?v=5XqEjgq-jDU
 Hãy nói đi
+
 Cậu biết không, thực ra tớ hiểu được
 Những điều cậu đã nói đó
 Tớ không muốn nghĩ nhiều về nó nên đã quên đi rồi
 Sống một cuộc đời mù quáng, bất cẩn rồi ảo tưởng
 Ngông cuồng, nóng vội và tiêu cực, cứ như vậy mọi thứ đều vô nghĩa
+
 Chắc chắn tớ sẽ nghĩ trước về ngày cuối cùng của cuộc đời mình
 Và sẽ thật tiếc nếu tớ không thể nói hết ra điều đó
 Ah, một ngày nào đó cậu sẽ không còn ở đây vào ngày cuối của cuộc đời tớ nữa
 Nữa đi, nữa đi
 Hãy nói điều đó nữa đi, thật rõ ràng vào
-Nè cậu, làm sao để tớ có thể nói với cậu về bầu trời trong xanh kia?
+
+Nè cậu, làm sao để tớ có thể nói với cậu
 Về bầu trời trong xanh kia?
 Làm sao để cậu hiểu được rằng
 Những đám mây vào ban đêm cao vời vợi?
 Hãy nói đi
+
 Này cậu, thực ra tớ biết đó
 Rằng cậu đã đi mất rồi
 Cơ mà nè, tớ lại là đứa rất bướng bỉnh
 Mặc dù tớ muốn quên đi
+
 Hãy nói với tớ nhiều hơn nữa đi!
 Ghi lại để cậu không quên đi!
 Rằng ngày mai chúng ta sẽ gặp nhau ở sảnh tàu lúc 10 giờ ấy!
+
 Hoa mấu đơn dẫu có rơi rụng thì vẫn là hoa
 Mùa hè qua đi thì nỗi nhớ thương của tớ vẫn da diết
 Hãy nói ra đi, lên tiếng đi
 Cậu hãy nói đi!
+
 Và nếu như tớ có thể nhìn thấy cậu vào ngày cuối cùng của tớ...
 Chắc chắn vào ngày đó tớ vẫn sẽ hát vang tình yêu trong tớ
 Bởi vì tất cả đã qua đều không hề phí hoài
@@ -118,7 +125,7 @@ Tôi cứ mải chờ đợi một sự hồi hộp như phim của Hitchcock �
 Chỉ sống thôi cũng đã đau đớn lắm rồi
 Cả Nietzche và Freud đều không viết về cách lấp đầy lỗ hổng này
 Em sẽ chỉ nhắm mắt lại thưởng thức mùi hương của mùa hè
-Dùng nóng tay sẽ ra sự cao vời vợi của những đám mây
+Dùng ngón tay sẽ ra sự cao vời vợi của những đám mây
 Em chỉ muốn nhìn về ký ức của mình có phải là ích kỷ lắm không?"
 
 "Những câu chuyện người chết nghe như phim chẳng phải bán chạy lắm sao?
@@ -131,12 +138,14 @@ Cuộc đời em phải làm sao để dễ dàng hơn đây?
 Cái gì mà nước mắt sẽ làm con người mạnh mẽ hơn, toàn là ngụy biện
 Ôi, cuộc đời này đâu phải thế nào cũng được đâu, chỉ toàn sự thật phơi bày ra
 Mùa hè thì sao xa xôi quá
+
 Em cứ thế này thật sự không sao ư?
 Em cứ sống như này thật sự không vấn đề gì ư?
 Thầy liệu có nói rằng cái này chỉ có em mới biết được không?
 Em chỉ muốn nhắm mắt lại trước mùi hương của mùa hè
 Em muốn được cơn gió thổi bay đi mãi mãi
 Liệu có phải ích kỷ quá không khi em chỉ muốn được nhìn trời cao trong xanh?"
+
 Liệu có phải ích kỷ quá không khi tớ chỉ muốn được nhìn cậu?
 ## Tada Kimi Ni Hare
 https://www.youtube.com/watch?v=5pcHyJBVelI
@@ -241,7 +250,7 @@ Chúng ta đang bơi sao?
 Chú cá là tôi hít vào một hơi
 Cuối cùng em cũng nhận ra
 Trăng thật chói
-# Haru Sunny
+## Haru Sunny
 https://www.youtube.com/watch?v=nw4FuFHvwGI
 Người tựa như cơn gió
 Chớp mắt lại trời đã tối

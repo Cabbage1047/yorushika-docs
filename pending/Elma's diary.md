@@ -279,13 +279,13 @@ Mình muốn biết lí do của việc đó.
 Cậu ấy đã từng nói, một ngày nào đó sẽ đọc những bài hát mà mình viết, ghi nhớ ca từ, và sẽ rất ghen tỵ.
 Mình đã cười và chỉ nghĩ đó chỉ là lời trêu đùa dịu dàng.
 
-# 18/6 
+# 18/6
 Mưa mãi vẫn không ngớt.
 
-# 20/6 
+# 20/6
 Hôm nay trời không mưa.
 
-# 22/6 
+# 22/6
 Ngày mà mình bắt gặp cậu ấy đi vào một bệnh viện nhỏ khi đang trên đường đến nhà công cộng, cũng là một ngày nắng đẹp như thế này.
 
 # 25/6
