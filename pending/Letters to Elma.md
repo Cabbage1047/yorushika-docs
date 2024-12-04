@@ -94,6 +94,7 @@ Trong cuốn vở viết câu chuyện mà cậu là nhân vật chính
 Điện nước đều bị cắt
 Thế gian và thời sự, tất cả đều là việc của người dưng
 Cả cuộc đời này là của tớ, cũng chỉ như mực trên giấy mà thôi
+
 Cả giấc mơ mà tớ vẽ ra trong đầu suốt dạo đó
 Thời hiệu của nó kéo dài đến tận khi tớ đã lớn lên
 
@@ -110,16 +111,17 @@ Những thứ không bán đi được đều là đồ bỏ
 
 Qua bao đêm dài cố tình ru mình vào giấc mộng
 Giờ đây tớ vẫn đang vật vờ chờ đợi thời hiệu kết thúc
+
 Chỉ là phía sau bờ mi của tớ
 Tớ vẫn chỉ thấy hình bóng cậu hiện lên xa xăm
-
 Trong cuốn vở, nơi một góc đêm nhạt nhòa, một bông hoa đang bơi trên bầu trời
 Tất cả trong mắt tớ đều là một
+
 Cuộc đời là một chuỗi những thỏa hiệp
 Chuyện đó tớ đã thấu từ thuở nào rồi
-
 Elma, chính là cậu đó
 Chỉ có cậu mới là âm nhạc của tớ
+
 Bài hát này chỉ còn 80 chữ nữa thôi
 Bởi vì giá trị của cuộc đời này chính là cách để kết thúc bài hát
 
@@ -127,6 +129,7 @@ Chỉ vẽ lên hình bóng cậu thôi
 Sắc chàm trong ánh mắt tớ đã thấm nhòe trang giấy rồi
 Trên màn đêm tớ ngước nhìn xa xăm, một bông hoa bơi trên bầu trời
 Nỗi buồn không có cậu che phủ đôi mắt tớ
+
 Chỉ là, chỉ là...
 Nơi bầu trời tớ ngước nhìn xa xăm, cậu hiện lên thật tự tại
 Như đang bơi trong màn đêm
@@ -158,6 +161,7 @@ Tớ hiểu rồi, tớ vờ như không hiểu mà thôi
 Thật tệ hại, thật tệ hại, tất cả mọi thứ của tớ đều quá tệ hại
 
 Tớ muốn đưa cậu về lại nguyên vẹn, dăm ba gì cái ký ức chứ!
+
 
 Thật tệ hại, quá tệ hại, tệ đến mức cảm thấy thoải mái quá đi thôi
 
@@ -233,6 +237,7 @@ Cuộc đời cậu là ánh trăng
 
 Chứ không phải là thứ để người đời nói như chuyện thường tình
 
+
 Thật tệ hại, quá tệ hại, bài hát này mà bị cười nhạo thì cũng hết cách
 
 Vì lời bài hát này toàn gieo vần “tệ hại” mà thôi
@@ -241,6 +246,7 @@ Vì lời bài hát này toàn gieo vần “tệ hại” mà thôi
 Cuộc đời tớ nếu có thể chấm dứt ở tuổi 27, vậy thì bài rock and roll cùng cậu viết đã cứu rỗi tớ
 
 Tớ phải dừng suy nghĩ đi thôi, vì đằng nào cũng chết
+
 
 Hiện tại, tình yêu, quá khứ, ước mơ, ký ức, bài hát ngâm nga, đôi mắt nhạt nhòa, màn đêm mờ ảo, 
 
@@ -521,7 +527,9 @@ Ah, tớ đang cười vào sự đời, bằng một trái tim trong suốt hơ
 
 Ah, tớ thấy bản thân tớ thật ngu ngốc, khi ngày đó đã lựa chọn âm nhạc
 
+
 Tất cả những điều tớ muốn nói, cả bài hát này, cả bản thân tớ và cẩ giọng nói này
+
 
 Đều đã biến thành gió, tan đi cùng bọt biển
 
@@ -542,6 +550,7 @@ Khi ngày đó đã khoe khoang cây ghita mình tự mãn
 
 
 Vì tất cả những điều tớ muốn nói, cả mùa hè và mùa đông, cả rìa bên kia của ngày mai
+
 
 Đều đã biến thành tro bụi, tan biến đi mơ hồ
 
@@ -619,6 +628,7 @@ Màu xanh biếc của khu phố phản chiếu lên cửa sổ, mưa tháng 5 l
 
 Tớ thẫn thờ nhìn lên, một giọt nước rơi xuống, rơi xuống
 
+
 Trái tim tớ hình chữ nhật, ngự tại chính giữa tờ giấy này
 
 Phía trước những câu hát nối đuôi nhau, cậu hiện lên bên trên đó
@@ -630,6 +640,7 @@ Tớ muốn nhìn những thứ không phải là lẽ thường tình
 
 Bởi việc quên đi hương thơm của cơn mưa sâu thẳm chỉ có mất mát mà thôi
 
+
 Hãy cử động khuôn miệng của cậu, lấy ngón tay chà xát
 
 Rồi dùng ngôn từ để đơm lại, đợi tớ ở thành phố đó
@@ -640,6 +651,7 @@ Rồi dùng ngôn từ để đơm lại, đợi tớ ở thành phố đó
 Tiếng nước mưa nhảy múa trên đèn đường, trời nhá nhem phía trước ngã rẽ
 
 Tiếng bước chân của đoàn diễu hành đơn độc, màu xanh mờ của đám mây chờ mùa hè
+
 
 Cuộc sống của tớ bây giờ là i^2
 
@@ -660,12 +672,13 @@ Quên đi hương thơm cơn mưa sâu thẳm chỉ toàn là mất mát mà th�
 
 (Không thể quên đi Elma, vì quên đi chỉ có đau khổ thôi)
 
+
 Chỉ là tớ muốn ngắm nhìn gương mặt cậu khi đọc được lá thư tớ viết
 
 Tớ đang viết về mùa hè năm đó
 
-Toàn những chuyện tớ không quan tâm
 
+Toàn những chuyện tớ không quan tâm
 
 Dính dáng đến người khác cũng thật phiền phức
 
@@ -681,6 +694,7 @@ Tớ biết chuyện này hết sức vô lý 
 Hương thơm của cơn mưa sâu thẳm, tớ mãi viết về thành phố trong cơn mưa
 
 (Quên được Elma thì sẽ không còn đau khổ nữa là chuyện rất vô lý, nên Amy tiếp tục sống trong ký ức)
+
 
 Tớ sẽ lay động trái tim mình, rạo rực lồng ngực mình
 
@@ -747,6 +761,7 @@ Tớ đã thản nhiên mà nuốt một hơi, nước mắt cũng giống như 
 Chỉ cần im lặng thì sẽ tan biến, thật là ngu ngốc quá nhỉ.
 
 Hãy nhớ ra đi!
+
 Đầu óc tớ gào thét, nó không thể nhớ ra được
 Nếu thế thì nỗi đau này là linh hồn của tớ
 Dẫu thế, dẫu thế, nếu cậu vẫn không thể nghe thấy tiếng tớ…
@@ -769,6 +784,7 @@ Tớ đã thản nhiên mà nuốt một hơi, nước mắt cũng giống như 
 Im lặng hết đi! Tôi biết rồi, tôi nghe thấy tiếng cậu ấy rồi!
 
 Cậu ấy nói “Mau nhớ lại đi!”
+
 Cổ họng tớ gào thét, “tớ đã nhớ lại rồi”
 Nỗi đau này chính là bằng chứng của cậu
 Dẫu thế, dẫu thế, nếu cậu vẫn không thể nghe thấy…
@@ -819,13 +835,16 @@ Tớ chẳng cần phải hát được như ca sĩ thật
 
 Tớ muốn sống dễ dàng hơn người khác, tớ không muốn nỗ lực nữa.
 
+
 Tớ cúi đầu xuống bước đi nên không biết trời xanh như thế nào
 
 Tớ chỉ nhìn vào bức ảnh của cậu thôi
 
+
 Trái tim trống rỗng của tớ đang bước đi trong thành phố ngập nắng
 
 Những lời nói dối chồng chất lên nặng hơn cả nòng súng.
+
 
 Cả cuộc đời này tớ muốn dùng súng thổi bay đi
 
@@ -839,19 +858,23 @@ Tớ muốn xoá sổ trái tim mình
 
 Tớ muốn mở ra một chiếc lỗ trong trái tim cậu, chỉ một thôi là được
 
+
 Tớ không quan tâm đến chuyện những bông hoa vô danh cũng có vẻ đẹp riêng
 
 Tớ muốn kết liễu trái tim bần cùng này
 
 Tớ không muốn đi làm nữa
 
+
 Tớ cúi xuống nói chuyện nên tớ không hiểu được cảm xúc của người khác
 
 Tớ chỉ muốn nhìn vào bức ảnh của cậu mà thôi
 
+
 Cậu đang hát như một người bình thường, trong một nhà hát lớn
 
 Phải hát những bài hát không đẻ ra tiền, thật cứ như kẻ ngốc vậy
+
 
 Tớ muốn nói rằng, cuộc đời chính là một cây súng
 
@@ -860,6 +883,7 @@ Khi cậu cất giọng phần điệp khúc
 Nè, tớ muốn xoá sổ những bài hát đau thương,cả những bài hát dịu dàng từ cổ họng ấy
 
 Chỉ nghe thôi cũng đủ đau đớn rồi, tớ chỉ cần một bài hát mà thôi
+
 
 Tớ sẽ thổi bay cuộc đời này bằng một cây súng
 
@@ -915,11 +939,14 @@ Vì từ xưa tớ đã hiểu rằng
 Càng lớn lên tớ sẽ dần quên mất khuôn mặt cậu
 Và vì trong cơ thể này, bên trong cổ họng tớ
 Tớ muốn nắm bắt tất cả khoảnh khắc tiếng nói của mình cất lên
+
 Nếu màn đêm cứ thôi trôi đi
+
 Để ký ức này không khô héo
 Để bài hát này không mất đi
 Xin cậu đừng quên chúng, hãy lưu lại dù chỉ một chút nữa
 Hãy để đoàn diễu hành đơn độc này kéo dài hơn chút nữa
+
 Trước đây tớ đã nghĩ đến điều này rồi
 Rằng có lẽ bên trong đầu ngón tay cảu cậu có một vị thần sinh sống
 Trước hôm nay, trước cả hôm qua, từ rất lâu về trước
@@ -928,6 +955,7 @@ Tớ đã biết rồi
 
 Bên trong cơ thể này, ngay bên dưới cổ họng
 Tớ lưu giữ lại nhiệt độ ngay lúc này khi không có cậu nơi đây
+
 Để tớ không quên đi
 Chuỗi ngày mà tớ chỉ bắt chước những bản nhạc cậu viết
 Bằng những ký ức không khô quạnh
@@ -990,11 +1018,13 @@ Tớ sẽ hát vang lời tạm biệt
 
 Cho đến khi chập choạng và màn đêm buông xuống
 
+
 Ánh nắng xen qua kẽ lá buổi sớm, tôi và Elma
 
 Cậu vẫn còn buồn ngủ sao?
 
 Hơi thở đầu hạ đến với khu rừng tháng 5
+
 
 Giọt sương trên cánh hoa rơi trên khuôn mặt rảo bước đi
 
@@ -1004,9 +1034,11 @@ Cậu cứ ngáp đi thôi
 
 Nếu có chuyện gì thì mình lại ngồi xuống nhé
 
+
 Chẳng có chuyện gì là không thể tha thứ cả
 
 Cậu rồi sẽ trở nên thật bao dung thôi
+
 
 Tớ sẽ ngủ gục trong kẽ hở của mùa hè thoảng qua
 
@@ -1016,6 +1048,7 @@ Không có một giọt nước mắt nào hay một lời nói nào
 
 Ngay cả màn đêm sâu thẳm ra sao chúng ta cũng không biết
 
+
 Biết đó là dối trá, nhưng tớ vẫn chấp nhận
 
 Elma à, tớ vẫn còn đau lắm
@@ -1024,11 +1057,13 @@ Tớ sẽ hát vang lời tạm biệt
 
 Cho đến khi chập choạng và màn đêm buông xuống
 
+
 Chuyện đau khổ, chuyện buồn rầu, nếu không nhìn thấy gì sẽ không biết gì hết
 
 Tớ đã che mắt lại, cứ vậy mà chạy đi
 
 Bước trên con đường trải đầy ánh trăng
+
 
 Căn phòng hẹp, đêm lạnh lẽo
 
@@ -1038,13 +1073,16 @@ Bất cứ lúc nào, tớ vẫn ngắm nhìn khuôn mặt cậu qua lời tạm
 
 Tớ sẽ ngủ gục trong kẽ hở của mùa hè thoảng qua
 
+
 Tại một vương quốc nào đó thật xa
 
 Không có một giọt nước mắt nào hay một lời nói nào
 
 Chỉ còn nhìn thấy màu xanh thẳm của bầu trời cao
 
+
 Không còn biết đến khoảnh khắc chia tay cậu
+
 
 Biết đó là dối trá, nhưng tớ vẫn chấp nhận
 
@@ -1098,10 +1136,11 @@ Tớ đã bỏ phím đàn piano rồi, nhưng thói quen gõ lên mặt bàn v�
 Này, tương lai tớ sẽ làm gì đây?
 Chỉ cần không làm nhạc là được
 Cậu đừng bối rối đấy nhé
+
 Dù có kẻ một đường thẳng chia đôi trái tim
 Thì âm nhạc cũng không thể biến mất trong đầu tớ, vì đã quá muộn rồi
-
 Này, đừng có nhớ lại nữa đi!
+
 Tôi nhầm rồi, tôi chẳng biết gì hết!
 Loài người các ngươi
 Sự thật, tình yêu, thế giới, khổ đau, cuộc đời... tất cả sao cũng được hết!
@@ -1115,6 +1154,7 @@ Là trái tim tớ lại trở nên trống rỗng
 "Tương lai tớ sẽ làm gì đây?"
 Lớn lên rồi tớ mới hiểu ra rằng
 Tớ chẳng làm cái gì hết!
+
 Tớ chẳng biết phải giải thích tại sao
 Tớ lại căm ghét những kẻ mang vẻ hạnh phúc trên mặt
 Vẻ tự ti như bóng ma sâu bên trong suy nghĩ thèm khát của tớ
@@ -1132,6 +1172,7 @@ Chỉ sống thôi sao cũng khổ sở quá
 Âm nhạc cũng không đẻ ra tiền
 Nên ca từ qua loa cũng chẳng sao
 Mọi thứ sao cũng được hết!
+
 Tớ không hề sai mà...
 Tớ không sai phải không?
 Tớ không sai đâu mà...
@@ -1148,6 +1189,7 @@ Nhưng giờ chúng không còn là gì ngoài rác rưởi
 Tớ đã viết về cậu không biết bao nhiêu lần
 Có bán được hay không cũng chẳng sao hết
 Thật đó, sự thật là vậy, ngày xưa tớ đã vậy
+
 Vậy nên tớ đã...
 Vậy nên tớ đã từ bỏ âm nhạc
 # 31/8

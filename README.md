@@ -30,6 +30,8 @@ Vault
 - [Guide to Plagiarism and Creation](https://docs.google.com/document/d/1VpWh0A9e16btKxrmlpUk7AJ3be_j70xwR0xWtnWvN7k/edit?tab=t.0)
 - [Literature references](https://www.reddit.com/r/Yorushika/comments/1340xau/list_of_references_in_yorushikanbunas_songs/)
 - [A little bit about Yorushika titles](https://www.reddit.com/r/Yorushika/comments/xbrnhr/a_little_bit_about_yorushika_titles/)
+## Vietnamese
+- [pikapika](https://pikapika-translate.blogspot.com/p/yorushika.html)
 # Resources
 - Fonts
 	- [Dancing Script](https://fonts.google.com/specimen/Dancing+Script)
