@@ -34,6 +34,7 @@ Bùn đất dưới chân cảm giác thật mềm mại
 
 Cứ mải miết, mải miết, mải miết rồi lại mải miết
 Chỉ đuổi theo cậu thôi…
+
 Vậy mà những điều tớ muốn nói ra chỉ tồn những thứ bất lực
 Hoa súng nổi lên mặt nước, trong suốt dưới áp lực nước
 Nhưng nếu nó vẫn còn rõ ràng hơn cả ảo ảnh thì cũng không sao hết
@@ -44,24 +45,30 @@ Như thể đang ở dưới đáy hồ vậy
 Màng nhĩ rỉ nước ra sao nhột quá
 Kỳ vọng, rồi tương lai, rồi ngày mai, tớ không còn muốn nghe gì nữa
 Bong bóng thổi ra từ miệng thật đẹp đẽ
+
 Cứ mải miết, mải miết, mải miết rồi lại mải miết
 Chỉ ngắm nhìn mà thôi…
+
 Nhưng tớ muốn tìm được điều gì đó quan trọng hơn trái tim
 Lời nói thật là bạc bẽo, trong suốt dưới áp lực nước
 Này cậu, tớ vẫn đang kiếm tìm một thứ gì đó đẹp đẽ hơn cả sự dối lòng
 Mà những chuyện đó quên đi cũng được, hãy chạy đi thôi
 
-Con người này tớ không cần nữa, tớ không cần bất cứ điều gì nữa
+Con người này tớ không cần nữa,
+tớ không cần bất cứ điều gì nữa
+
 Tiền bạc, danh tiếng, tình yêu, tán dương, tớ không cần gì hết
 Tớ muốn cứ thế này chạy đi thật xa, tớ muốn chạm vào bên ngoài vùng ký ức
 Và tớ muốn nghe những bài hát của cậu
 
 Cứ mải miết, mải miết, mải miết rồi lại mải miết
 Chỉ đuổi theo cậu thôi…
+
 Tớ chỉ muốn hát về những điều khiến tớ bất lực
 Hoa súng nổi lên mặt nước, trong suốt dưới áp lực nước
 Nhưng nếu nó vẫn còn rõ ràng hơn cả ảo ảnh thì cũng không sao hết
 Cứ như này đến đâu cũng được,
+
 Thật ra tớ chỉ muốn bỏ lại hết và chạy đi thôi
 Cuộc đời thật trong suốt, trong suốt dưới áp lực nước
 Nhưng nếu nó vẫn còn rõ ràng hơn cả ảo ảnh thì cũng không sao hết
@@ -86,8 +93,10 @@ Quảng trường ở phía Nam đi ra từ ga trung tâm, và gần đại họ
 # 22/3 Yuunagi, bou, hanamadoi – Tịch mịch, nơi nào đó, pháo hoa
 Trước khi mùa hè đến, tớ đã khắc ghi vào trái tim những bông pháo hoa rơi xuống
 Màn đêm sẽ buông xuống, nên tớ chỉ mong chờ đến ngày kia
+
 Hãy nói một lần nữa đi, hãy nhớ lại ngày ấy trong tháng 8 đi
 Trong tớ chỉ tồn những điều nói không bao giờ là đủ
+
 Gảy ghita theo nhịp hai, lời bài hát này có 380 chữ
 Tớ đặt bút viết rock and roll, tớ chỉ toàn hát về mùa hè năm đó
 
@@ -97,6 +106,7 @@ Cánh hoa trôi đi, tớ mong chờ mùa hạ, còn cậu thì hóa thành ngô
 
 Tớ đã ghi lại bông pháo hoa mình thấy mùa hè năm đó để không quên đi
 Tớ và cậu trong ký ức, giống như linh hồn chỉ có thể nhìn thấy trong màn đêm
+
 Chẳng có chuyện gì là tốt đẹp cả
 Thế gian này đối với tớ sao khó quá
 Chỉ tồn những điều cậu chưa từng nói cho tớ biết
@@ -153,9 +163,11 @@ Không biết từ lúc nào, mình cũng đã đi theo con đường mô phỏn
 Những ngôn từ sáng dần sang sắc xám giống một ly capuchino
 Những lời biện hộ hãy bỏ lên bên ô cửa sổ đi
 Tớ đếm không nổi nữa rồi
+
 Trái tim của tớ sáng dần sang sắc xám giống một ly capuchino
 Biện hộ thế là đủ rồi, hãy uống một ngụm capuchino
 Cứ xem như tớ vừa nói đùa đi
+
 Cơn mưa như dao động mọi thứ
 Ngấm vào bông qua quật đổ chúng ta
 Những ký ức không hề phai mờ hình ảnh về cậu
@@ -165,6 +177,7 @@ Bờ biển chờ đợi cơn sóng, ánh mặt trời xuyên qua màn đêm đ�
 Đọng lại bên cửa sổ
 Visby vào tháng 8 chờ đợi tiếng sóng vỗ trong vô vọng
 Chỉ còn lại gió biển lẻ loi
+
 Sắc trắng của bông hoa bơi trong mùa hạ
 Bị nhấn chìm vào màn đêm đang tuôn mưa dai dẳng
 Bông hoa hằn sâu hình bóng của đôi ta
@@ -181,6 +194,7 @@ Cơn mưa như dao động mọi thứ
 Ngấm vào bông hoa quật đổ chúng ta
 Bài hát tớ biết ra để hình bóng cậu không phai màu
 Xin cậu, xin cậu đừng quên nó đi
+
 Lại một mùa hè nữa qua đi, tớ vẫn ôm một bông hoa trong tim
 Phía sau bờ mi đang nghẹn ngào của tớ
 Là bài ca tớ viết để hình bóng cậu không phai mờ
@@ -226,8 +240,10 @@ Ngày đó mình đã luôn sống với tâm thế như thể đang bị cái g
 # 28/5 Kamisama no dance – Điệu nhảy của thần linh
 Quên đi thật là tàn nhẫn, quên đi thì hạnh phúc được sao?
 Có thứ gì đó không màu đã nở, nở trong mùa hè không có cậu
+
 Tớ không muốn bị cười nhạo, nên cứ cúi mặt xuống tỏ vẻ sợ hãi
 Trên đời này có thứ gì quan trọng hơn trái tim sao?
+
 Ánh hoàng hôn tô lên bầu trời không đêm, nhưng không tô lên hình ảnh cậu
 Xin cậu đừng đi khỏi, tớ sẽ không thấy cậu được nữa.
 
@@ -236,6 +252,7 @@ Chúng ta đến cả trái tim cũng xấu xí, thế giới này là của ch�
 
 Chỉ cần âm nhạc là đủ, đừng có hùa theo người khác
 Chẳng phải người đã nói cho tớ điều đó là cậu sao?
+
 Sao cũng được hết, cứ thế này ta sẽ đi thật xa
 Và tìm ánh trăng ở một nơi mà không ai biết tới
 
@@ -251,6 +268,7 @@ Thời gian xin đừng đuổi kịp mọi thứ rồi biến mất
 
 Chúng ta mang trên mình khuôn mặt phớt lờ thần thánh, khao khát mọi thứ trên thế gian
 Này cậu, kẻ đến cả trái tim cũng xấu xí, hãy cho tớ tất cả những kỷ niệm của cậu đi
+
 Nếu giá trị quan cũng không bị gò bó, vậy thì tớ cũng có thể tổn thương người khác đúng không?
 Cậu không hề nói cho tớ biết điều đó mà!
 
@@ -264,7 +282,6 @@ Này, nếu ngôn từ là thế giới, vậy thì thế giới này là của 
 
 Quên đi thì thật tàn nhẫn, quên đi thì hạnh phúc được sao?
 Người đã làm tớ lệch lạc chính là cậu mà!
-
 Đúng vậy, tớ sẽ cứ như vậy đi thật xa
 Tìm ánh trăng ở một nơi không ai biết đến
 # Ký ức 4
@@ -383,6 +400,7 @@ Một thành phố với những di tích và hoa hồng, với con dốc trải
 # 8/7 Aruku – Bước đi
 Hôm nay tớ có cảm giác như mình sắp chết
 Tớ chỉ đợi đến ngày mai, nhìn mùa hè trôi đi
+
 Tớ thấy đằng nào cũng vậy, mình đã đi khá xa rồi
 Tớ nên chấm dứt việc giả vờ như không biết đi thôi
 
@@ -569,6 +587,7 @@ Tảng đá mà Amy đã chụp trong ảnh lại nổi bật hơn tất cả, n
 # 28/7 Koe – Giọng nói
 Không cách nào để chạm vào được, cũng không thể nào nhìn thấy được
 Dù dễ dàng quên đi, nhưng tớ vẫn muốn nhớ lâu hơn chút nữa
+
 Sự tồn tại của bài hát này.
 
 Tớ không hiểu, nên ở phía bên kia của lời nói
