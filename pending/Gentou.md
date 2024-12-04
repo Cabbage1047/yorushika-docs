@@ -836,10 +836,12 @@ Dẫm chân vào vũng nước
 Cậu ngáp một hơi thật dài
 Tôi muốn cậu gọi đến một cơn gió khốc liệt
 Mạnh đến mức cuốn bay cả bầu trời này
+
 Tôi vẫn chờ đợi một cơn gió
 Vì cuộc sống không có gì cả thật quá sức nhàm chán
 Tôi mãi chờ đợi một cơn gió
 Tôi mãi chờ đợi một cơn gió
+
 Nổi lên đi cơn cuồng phong xanh
 Cuốn bay hết cả lời nói đi!
 Hãy nuốt trọn chúng tôi đi này
@@ -849,6 +851,7 @@ Cho đến khi không ai nói thêm được gì nữa
 Tôi tròn mắt hỏi cậu câu đó
 Và rồi cậu đáp thật cụt ngủn
 "Mọi thứ đều nằm trong suy nghĩ hết thôi"
+
 Tôi vẫn chờ đợi một cơn gió
 Vì xã hội rập khuôn quả thật quá cùng cực
 "Vậy thì hãy gọi đến một cơn mưa xối xả đi!
@@ -858,10 +861,12 @@ Nổi lên đi cơn cuồng phong xanh
 Vứt hết mọi thứ đi thôi!
 Chúng ta mà cứ thế này mãi
 Chẳng mấy chốc ai rồi cũng quên đi thôi
+
 Quả óc chó xanh cũng thổi bay đi!
 Trái mộc qua chua cũng cho bay hết đi!
 To hơn nữa đi! Mạnh hơn nữa đi!
 Hỡi cơn gió phá tan thành phố này!
+
 Nổi lên đi hỡi cơn cuồng phong xanh
 Tất cả mọi thứ vứt hết đi thôi!
 Cả nỗi buồn và giấc mơ, hãy cuốn tất cả đi Matasaburou!

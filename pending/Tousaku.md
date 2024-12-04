@@ -137,7 +137,7 @@ Ta không muốn biết đến những thứ dối trá nữa
 Hơi nóng của mùa hè và ngày hôm nay, một ngày nào đó ta sẽ quên mất sao?
 Thật là đau đớn mà
 Nếu sự ngập ngừng đó người ta gọi là "tình yêu", vậy thì ta thà không biết còn hơn!
-Hãy kể thêm về những điề u tưởng như vô ích nữa đi!
+Hãy kể thêm về những điều tưởng như vô ích nữa đi!
 Đừng nói về ngày mai nữa, hay quên nó đi!
 
 Ta muốn nghe nhiều hơn dẫu cho đó có là những thứ khiến ngài đau khổ!
@@ -739,7 +739,7 @@ Vậy nên tôi đã ăn trộm nó"
 
 Ah, ta vẫn chưa thấy đủ, tất cả đều không đủ
 Ta không thấy thỏa mãn bất cứ thứ gì cả!
-Nếu cứ cô độc thế này ta sẽ không thể soóng được mất
+Nếu cứ cô độc thế này ta sẽ không thể sống được mất
 Ta muốn biết nhiều hơn, ta muốn được yêu thương!
 Ta muốn thứ gì đó đẹp đẽ đến mức lấp đầy được trái tim này!
 
@@ -763,7 +763,7 @@ Ta muốn biết đến thứ gì đó đẹp đẽ đến mức thỏa mãn đ�
 Tôi quên mất rồi, nhưng tôi biết nó không phải là thứ ham muốn gì cả
 Hẳn đó phải là một thức gì đó đẹp đẽ lắm
 Cái vỏ giả tạo sớm rồi cũng sẽ bong ra
-Màn đêm không được ngó ngàn tới rồi sẽ đến
+Màn đêm không được ngó ngàng tới rồi sẽ đến
 Tận trong thâm tâm tôi rất mong ngóng khung cảnh tôi sẽ được thấy khi ấy"
 
 Sau khi từng thứ một đều biến mất, địa vị rồi tình yêu, tất cả đều ra đi
