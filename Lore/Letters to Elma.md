@@ -3,6 +3,27 @@
 To Elma
 ![[to elma.jpg]]
 # 8/31 "Untitled"
+> [!Vietnamese]-
+> Gamla Stan, Stockholm
+> 
+> Những bước chân thả trên con đường lát đá
+> 
+> Tớ chỉ còn một xíu mực nữa thôi.
+> 
+> Tớ sẽ cho những bài hát mà tớ đã viết trong suốt chuyến đi và ảnh chụp vào chiếc hộp này.
+> 
+> Đất nước này chụp bừa một góc phố thôi cũng thấy đâu đó sự nhớ nhung.
+> 
+> Khả năng chụp ảnh của tớ thì dở tệ, nhưng tớ đã in ra những bức không bị nhoè rồi.
+> 
+> Elma, những bài hát và nhạc ở trong này đều là của cậu hết, nên cứ thoải mái dùng chúng đi. Tớ không cần đến chúng nữa.
+> 
+> Cuối cùng tớ chính là đây.
+> 
+> Dù đi đến đâu tớ cũng chỉ toàn nghĩ đến TÁC PHẨM, một bóng ma xấu xí phát cuồng nghệ thuật, ích kỉ, RA VẺ yếu thế.
+> 
+> Đúng vậy, rốt cuộc trong tớ chỉ có âm nhạc…
+
 *Stockholm, Gamla stan*
 *The hustle and bustle falling on the cobblestone pavement*
 
@@ -18,6 +39,55 @@ Yes, in the end, music, to me, was–
 
 ![[8-31 untitled.jpg]]
 # 3/14
+> [!Vietnamese]-
+> Bầu trời mà tớ nhìn thấy khi rướn mình ra ngoài cửa sổ thật trong trẻo quá, bỗng dưng tớ nhớ về cậu, và rồi tớ muốn viết thư.
+> 
+> Đúng thật đó là khởi đầu của bức thư này, nhưng bây giờ nghĩ lại thì, có khi cũng chẳng khác trốn tránh là bao. Nếu là cậu chắc cậu sẽ hiểu tớ muốn chạy trốn khỏi điều gì.
+> 
+> Xã hội này, các mối quan hệ này, bạn bè này, công việc này, cuộc đời này. Tóm lại là tất cả đấy.
+> 
+> À đúng rồi, trước đó phải kể với cậu đã. Chắc cậu sẽ bất ngờ đấy, nhưng mà dạo gần đây tớ đã học làm việc nhà rồi. Ngày xưa ngay cả cái máy giặt tớ còn không quay được cơ. Tớ đó!
+> 
+> Con người là cái giống cừ từ từ kiểu gì cũng thay đổi nhỉ.
+> 
+> Đúng như tớ đã nói với cậu đấy, Elma à.
+> 
+> Một ngày nó ngắn đến sửng sốt, nhưng để sống thôi thì cũng dài vô cùng.
+> 
+> Cứ nghĩ rồi cả mùa hè cũng sẽ kết thúc rồi rời xa thôi, là trong lòng tớ lại bảo, cho dù có cả 100 năm đi nữa chắc tớ cũng không làm được cái gì ra hồn.
+> 
+> Thực ra thì tớ cũng đã bỏ công việc làm thêm mà tớ đã duy trì một thời gian dài rồi. Vào đầu tháng 8 năm ngoái.
+> 
+> Elma, trong cuộc đời mình chắc chắn những việc khiến ta bất lực sẽ nhiều hơn.
+> 
+> 50 phần nỗ lực cũng không địch lại 10 phần tài năng, cho dù có hối hận nhiều thế nào đi nữa cũng không thể thay đổi sự thật rằng thất bại thì không thể chuyển sang thành công được.
+> 
+> Lời nói thì không thành hiện thực bằng một viên đạn được, mà bệnh tật thì không thể tự khỏi bằng kì tích.
+> 
+> Tuy thế nhưng tớ lại nghĩ chỉ có âm nhạc thì khác. Thì tại chẳng phải âm nhạc chính là nghệ thuật sao?
+> 
+> Hãy tạo ra những tác phẩm vì con người đi! Cái gì mà nhận được đánh giá tốt hơn ấy!
+> 
+> Gì chứ, toàn là lời nói của mấy kẻ theo chủ nghĩa tôn thờ đồng tiền không hơn.
+> 
+> Đúng như Oscar Wilde nói đó. Nghệ thuật chắc chắn không phải là thứ phản chiếu qua một tấm gương nứt vỡ ra từng ngày. Nghệ thuật không hề bắt chước cuộc sống. 
+> 
+> Mà là cuộc sống “mô phỏng lại nghệ thuật” mới đúng.
+> 
+> Nhưng mà gần đây tớ lại nghĩ, nếu như không có cuộc sống, nếu như không có cơ thể này để tạo ra đồ vật, thì làm gì có thứ gì được sinh ra.
+> 
+> Cho dù có đấu tranh thế nào đi nữa, thì những thứ được tạo ra bởi tớ đều bắt nguồn từ trái tim, cuộc sống, trải nghiệm của tớ. Nghệ thuật của tớ cứ vậy trói buộc sợi dây vào cuộc đời tớ.
+> 
+> Thật sự cứ như một tấm gương vậy.
+> 
+> Đây chỉ là nhật ký thôi Elma. Cho dù bên trong tớ nó chắc chắn là nghệ thuật. Nó rất gần với thứ mà Oscar đã phủ nhận.
+> 
+> Vậy nên… mâu thuẫn đó vẫn luôn khiến tớ thống khổ.
+> 
+> Âm nhạc đã không còn vui vẻ gì nữa rồi.
+> 
+> Elma, cậu thì nghĩ sao?
+
 When I leaned out the window to look out at the sky, it was so clear that I suddenly remembered you and thought that I would write you a letter. Well, that was what it was at the start, but thinking about it now, this is something like an escape. I think you know what I’m escaping from. From society, from connections, from friends, from my job, from life…. Basically, from everything.
 
 Oh, right, before I get into that, I should tell you: This may surprise you, but I’ve recently learned to do housework. That’s right, me, who couldn’t even use a washing machine before. But I guess being a human means changing, however slowly.
@@ -44,6 +114,17 @@ What do you think, Elma?
 # 8/7 (August, That Place, Moonlight)
 [[03. August, That Place, Moonlight]]
 # 4/20
+> [!Vietnamese]-
+> Tớ đang trọ lại ở một căn phòng tại thành phố tên Lund.
+> 
+> Nó là một thành phố cổ nằm ở cực Nam của đất nước, sở hữu trường đại học lâu đời nhất cả nước.
+> 
+> Trong nhà thờ lớn được xây vào thế kỷ 12 có đặt một chiếc đồng hồ thiên văn cũ, một ngày 2 lần cứ đến giờ là búp bê trên đồng hồ sẽ chuyển động.
+> 
+> Thói quen hằng ngày của tớ là tránh giờ làm lễ ra, ngồi ở một chỗ trong nhà thờ lớn thẩn thơ viết nhạc.
+> 
+> Tớ vừa nhớ lại cuộc sống ở Seki vừa viết nhạc.
+
 I'm staying in a city called Lund.
 Geographically, it's an old city, located in the southern tip of the country. Known as the city of scholars, it's home to the country's oldest university.
 
@@ -55,6 +136,53 @@ While reminiscing about the time when I was living in Sekimachi, I'm writing my 
 # 4/24 (Songwriting and Coffee)
 [[04. Songwriting and Coffee]]
 # 7/13
+> [!Vietnamese]-
+> Visby
+> 
+> Đi ra khỏi Almedalen, con đường hướng lên phía bắc
+> 
+> Chiếc ghế dài dưới tán cây nhìn ra đường bờ biển men theo tường Ringmuren
+> 
+> Tớ đang ở đảo Faro, bên cạnh đảo Gotland.
+> 
+> Ở phía bắc đảo này có một núi đá vôi đã bị biển mài mòn theo năm tháng có hình thù rất kì dị, nằm chình ình trên bờ biển.
+> 
+> Về bài hát Parade.
+> 
+> Không ai nhìn thấy nhưng ai cũng có.
+> 
+> Chưa ai từng thấy thấy nó, nhưng hễ cứ nói chuyện là nó lại góp mặt.
+> 
+> Tuỳ tâm trạng lúc thì nồng ấm, lúc thì lạnh lùng.
+> 
+> Và nó truyền đạt lại trái tim, đi ra từ phổi, thông qua khí quản, rơi ra từ miệng.
+> 
+> Chính là giọng nói đấy.
+> 
+> Trái tim chúng ta nằm trong sự rung động của luồng không khí đó.
+> 
+> Nói về thần thánh.
+> 
+> Trong một tác phẩm hay có một vị thần ngự tại.
+> 
+> Mỗi khi ta tạo ra một thứ gì đó, tớ nhớ có một loại ảo giác bị điều khiển bởi một thứ vô hình. Đó không biết chừng có thể chỉ là do một cảm giác trống rỗng, hoặc cảm giác vui buồn, cảm xúc nhất thời nào đó đưa đẩy ngòi bút cũng nên.
+> 
+> Nhưng tớ thì lại nghĩ đó là do thần thánh.
+> 
+> Khoảnh khắc chữ đi từ trái tim mình men theo ngón tay, rơi xuống tờ giấy hình chữ nhật, tớ rất thích.
+> 
+> Cậu chắc hẳn cũng nghĩ thế đúng không?
+> 
+> Có duy nhất một điều chúng ta không được nhầm lẫn, đó là thần thánh ngự trong TÁC PHẨM của mình, chứ không phải LOÀI NGƯỜI chúng ta ở trong đó.
+> 
+> Nghĩ mình ở trong đó chỉ là sự NGẠO MẠN của tác giả mà thôi.
+> 
+> Bởi vì tớ là người theo chủ nghĩa nghệ thuật vị nghệ thuật giống Oscar Wilde.
+> 
+> Sáng tác cũng là một loại tôn giáo. Giống hệt như trong lời nói của tớ luôn luôn có CẬU.
+> 
+> Mực của tớ đang vơi dần đi rồi, phải dùng tiết kiệm lại thôi.
+
 *Visby*
 *The road stretching out to the north outside of Almedalen*
 *From the bench under the shadow of the tree*
@@ -99,6 +227,41 @@ I'm getting low on ink. I have to be careful in how I use it.
 # 6/15 (Let's Dance)
 [[06. Let's Dance]]
 # 5/17
+> [!Vietnamese]-
+> Tớ đang ở một thành phố tên là Linkoping.
+> 
+> Phát âm trong tiếng Nhật thì chắc là Linseipin giống hơn.
+> 
+> Thành phố không to lắm, nhưng nó rất đẹp.
+> 
+> Cách trung tâm thành phố một đoạn có một bảo tàng ngoài trời tên là Gamla Linkoping. Nói là bảo tàng nhưng đó không phải là một toà nhà tráng lệ đâu.
+> 
+> Gamla theo tiếng nước này có nghĩa là “cũ kỹ”, nó lưu lại các dãy phố và cuộc sống ngày xưa ở Linkoping.
+> 
+> Vậy nên ở thành phố này chỉ có một phần nhỏ là quay về trạng thái của thế kỷ 19.
+> 
+> Nếu một ngày nào đó cậu có ghé đất nước này thì thành phố này rất tuyệt vời đó, cậu nên đến xem thử.
+> 
+> Về bài hát mà tớ viết mấy ngày trước. Xanh Paris hay còn gọi là Emerald Green. Tớ hiểu biết về âm nhạc chỉ ở dạng tầm thường, nên có những đoạn không tìm hiểu rõ về chủ đề thì tớ không thể viết ra môn ra khoai được.
+> 
+> Xanh Paris là một loại thuốc nhuộm nhân tạo có độc tính. Trong bài hát đó tất cả đều dùng để ám chỉ nước mắt. Nước mắt cũng giống chất độc mà thôi.
+> 
+> Nước mắt đau khổ, nước mắt vui sướng, nước mắt uất hận, nước mắt đồng cảm, nước mắt cảm động, nước mắt hối hận, tất cả chúng đều là một loại chất độc nào đó.
+> 
+> Nói nước mắt là chức năng bảo vệ bản thân khỏi áp lực, hay là chỉnh đốn cảm xúc hay gì đi nữa, tớ đều không quan tâm.
+> 
+> Nhưng nếu bắt tớ phải nói thì nước mắt là sự trốn tránh.
+> 
+> Sự yếu đuối đó. Tình cảm là thứ rất yếu đuối, nên nước mắt là một loại gây mê làm cho sự yếu đuối đó trở nên chính đáng.
+> 
+> Những giọt nước mắt đánh lừa trái tim đều chỉ biết đến bản thân nó. Một loại độc làm tê liệt nhân cách.
+> 
+> Hồi đó tớ không hiểu được điều này.
+> 
+> Nếu người ta cười cượt kỷ niệm của tớ, tác phẩm của tớ, thì ngay lúc đó tớ cứ đấm bỏ mấy tên đó là được rồi.
+> 
+> Những giọt nước mắt thầm rơi đằng sau sự tự tôn của tớ, không an ủi tớ một chút nào cả, nó là một chất độc. Thật đấy, tớ đã nghĩ vậy đấy.
+
 I'm in a city called Linköping (Rinshōpin)
 In Japanese, perhaps pronouncing it Rinshēpin would be closer to the actual pronunciation.
 It's not that big of a city, but it's beautiful.
@@ -128,6 +291,53 @@ I really, truly think they are.
 # 5/31 (In June, I'll Write About the Town After the Rain)
 [[07. In June, I Write About the Town After the Rain]]
 # 5/29
+> [!Vietnamese]-
+> Ở một khách sạn tại thành phố tên Gamla Stan của Stockholm
+> 
+> Mấy ngày trời mưa tầm tã nên tớ đành mắc kẹt lại trong phòng.
+> 
+> Nghĩa của từ Gamla ngày trước tớ đã nói rồi, tóm lại đây là một khu phố cổ có đường lát đá.
+> 
+> Nếu nhìn từ cửa sổ xuống thì con đường dài hẹp trải những viên đá nhìn rất hấp dẫn, nhưng trời mưa to thế này bước một chân ra ngoài thôi cũng quá phiền đi, nên cuối cùng tớ chỉ ở trong phòng viết nhạc và lời.
+> 
+> Tớ muốn kể cậu nghe về Henry Darger.
+> 
+> Trong một căn phòng đơn ở Chicago bang Illinois, trong vòng hơn 60 năm ông ấy đã một mình vẽ nên những câu chuyện, cậu có biết không?
+> 
+> Những tác phẩm ông ấy viết không ngừng nghỉ không phải là để cho ai xem, chỉ đến khi ông ấy vào viện dưỡng lão trước khi mất nửa năm, chúng mới lần đầu tiên đập vào mắt người khác.
+> 
+> Nguyên một cuốn tiểu thuyết dài 15.145 trang và hàng trăm bức tranh đấy.
+> 
+> Cho đến bây giờ đó vẫn là cuốn tiểu thuyết dài nhất thế giới.
+> 
+> Thật ra những người sáng tác như chúng ta, đều nên giống như Henry Darger.
+> 
+> Đánh giá và danh tiếng, tiền tài và quyền lực đều không cần quan tâm.
+> 
+> Những con người thật sự không mang dục vọng, chỉ đơn thuần sáng tác vì bản thân mình, trên thế giới này liệu còn mấy người?
+> 
+> Tớ cứ nghĩ mãi. Hẳn ông ấy đã tìm thấy hạnh phúc ngay trong chính công việc sáng tác.
+> 
+> Giá trị của hạnh phúc thì tuỳ từng người nhận định, nhưng nếu bản thân hạnh phúc không thể đong đếm một cách khách quan, nếu như cách sống của con người trở thành tiêu chí đánh giá nó, thì những gì mà tớ đã làm đều là lệch lạc.
+> 
+> Tớ muốn viết ra những bài hát nổi tiếng, tớ muốn tạo ra những thứ tốt hơn người khác làm, toàn là những lý do muốn được công nhận mà thôi.
+> 
+> Tớ luôn phàn nàn tại sao chỉ những kẻ đó mới được công nhận chứ. Tớ lấy sự ghen tức đó làm động lực để tiếp tục sáng tác.
+> 
+> Nếu vậy thì tớ cứ rạch ròi vì không bán được nhạc là được rồi. Tớ cứ tìm một công việc nào đó, lúc rảnh thì viết cái gi đó, ngay trong tuyệt vọng tớ vẫn phải tìm ra được hạnh phúc.
+> 
+> Cách tớ đối xử với âm nhạc của mình là sai lầm.
+> 
+> Cuối cùng tớ cũng đã hiểu ra vấn đề đó. Chỉ vậy thôi.
+> 
+> Nhưng mà, giả sử đúng là như thế đi nữa, giả sử cách sống của tớ có không đúng một chút nào đi nữa,
+> 
+> Thì chẳng phải như vâỵ là quá vô vị hay sao?
+> 
+> Những người đã phải làm đến mức đó để sống đến ngày hôm nay như chúng ta, chẳng phải là bất công quá hay sao?
+> 
+> Elma, là cậu thì cậu nghĩ sao?
+
 I'm staying in a hotel in Gamla Stan. It's bad, but it's been raining heavily for some days and I've been stuck inside my room.
 I think I've written about the meaning of Gamla before. In short, this town is an old town where the pavements are made out of stones.
 
@@ -164,6 +374,46 @@ What do you think, Elma?
 # 5/15 (In May, From the Window with Emerald Green)
 [[08. In May, From the Window with Emerald Green]]
 # 6/26
+> [!Vietnamese]-
+> Visby ở đảo Gotland cực thịnh vào thời đại Viking, hiện tại nó là một thành phố thương mại đã suy thoái nhưng vẫn còn lưu lại những di tích mang đậm hương vị của thời kỳ Trung kỳ Trung Cổ.
+> 
+> Bức tường thành bao quanh ôm lấy thành phố được gọi là Ringmuren được tạo ra vào thời Trung kỳ, giờ đây vẫn còn lại nguyên vẹn dù trải qua sự bào mòn của thời gian.
+> 
+> Tớ đang chắp bút trong một căn phòng ở một khách sạn thành phố.
+> 
+> Công viên Almedalen ở trung tâm thành phố mùa này hoa nở bung hết ra, ngồi trên ghế gỗ là thấy chim chóc bay nhảy xung quanh. Chuông nhà thờ vang lên từ xa. Phía sau là gì ta. À, biển siêu đẹp luôn.
+> 
+> Tớ đã đi khá xa rồi. Tự dưng thấy nhớ lúc trước khi lên đường ghê.
+> 
+> Bức thư hôm nay tớ viết không phải là để luyên thuyên về mấy tác phẩm hơi khó thấm, mà chuyện cá nhân tớ.
+> 
+> Ngày xưa trong tớ cũng từng có thứ gọi là tự cao, nếu tác phẩm của tớ bị bôi nhọ là tớ liền phừng phừng cơn giận cho thứ bị bôi nhọ đó. Mỗi tối tớ lại trông vào ánh trăng, vừa viết lách vừa thầm nghĩ chuyện trả đũa mấy kẻ mà tớ tức đến mức muốn cho chúng xuống lỗ.
+> 
+> “Mình mà phải chịu thua chúng nó sao?”, ý niệm phản kháng đầy non nớt đó của tớ chính là năng lượng của tớ khi đó. Tớ hiểu rõ động lực to lớn nhất để sáng tác của mình chính là SỰ TỨC GIẬN.
+> 
+> Chắc là đầu mùa hè năm ngoái chăng.
+> 
+> Một buổi chiều tà nọ tớ đứng trên vòng xuyến trước nhà ga ôm đàn hát sau một thời gian dài không làm, người ta gọi là live đường phố ấy.
+> 
+> Đó là thời kì tớ vừa bỏ việc làm thêm, và RỆU RÃ viết nhạc.
+> 
+> Đó là một nơi thưa người qua lại. Phía sau khu mua bán là ánh hoàng hôn màu cam cháy hắt lên. Đám học sinh, người đi làm, nam thanh nữ tú, người già dừng lại một chút, hết hứng rồi lại đi tiếp. Cái vòng lặp đó không hề thay đổi theo lẽ đương nhiên.
+> 
+> Chính là lúc tớ vừa chỉnh đàn giữa các ca khúc xong. Tớ ngẩng đầu lên thì thấy một người đàn ông trung niên dừng lại nhìn về phía tớ. Tớ khẽ cúi đầu chào rồi lại cầm đàn lên.
+> 
+> Vài phút sau khi tớ bắt đầu đánh bài tiếp theo, người đàn ông lặng thinh đứng nghe. Khi phần đệm đàn đi vào phần cuối, người đàn ông quay trở lại trạng thái ban đầu như thể cũng đã hết hứng, buông ra một câu cảm nhận.
+> 
+> “Thật là bài hát nhạt nhẽo”.
+> 
+> Cậu nghĩ tớ khi nghe được câu đó đã nghĩ gì?
+> 
+> SAO CŨNG ĐƯỢC HẾT.
+> 
+> Sao cũng được hết, Elma à.
+> 
+> Tớ đã ngừng diễn, quay ra đường về bên phía khu mua bán.
+> 
+> Chiều hoàng hôn tưởng như ban đêm mà tớ thấy ngày hôm đó, đến bây giờ tớ vẫn không thể quên đi.
 
 Visby, a city in Gotland, was a town that flourished in the viking age but over time declined as a trading port, and even now a middle age-like flavor strongly remains in the town. There's a rounded wall encircling the town built in the middle ages as castle defense, so you can see its form unchanged for centuries. I'm writing from a hotel room in that town.
 
@@ -188,6 +438,39 @@ I stopped playing there, and on my way home headed through the shopping district
 # 7/11 (False Night)
 [[09. False Night]]
 # 5/6
+> [!Vietnamese]-
+> Cửa ra nơi trú mưa
+> 
+> Từ Lund đi lên phía Bắc, trên đường đến Stockholm tớ bị móc túi
+> 
+> Tớ thì không có cái gì đáng giá để bị mất cả, duy chỉ có số tiền mặt tớ chia ra mấy phần để quản lý, với lọ mực tớ mang dự phòng bị lấy trộm là khiến tớ bận lòng.
+> 
+> Chắc cậu cũng biết rồi, cơ mà lúc viết nhạc thì tớ luôn dùng bút máy với màu mực cố định này, mà thôi tớ cũng sẽ tiết kiệm để nó không hết.
+> 
+> Tớ đã suy nghĩ về thời hạn giữ hương vị ngon nhất của đời người.
+> 
+> Đối với tớ cuộc đời cũng gần giống với âm nhạc, nên nói khác đi thì là hương vị ngon nhất của một sáng tác.
+> 
+> Matsuo Basho từng nói “Thơ Haiku phải giống như một đứa trẻ lên ba”
+> 
+> Tớ thấy âm nhạc cũng tương tự như thế.
+> 
+> Thay vì quen đi rồi thể hiện toàn kỹ thuật vào một tác phẩm, thì một tác phẩm tuy còn non nớt nhưng có những rung động êm nhẹ vẫn là tốt hơn.
+> 
+> Vậy nên âm nhạc của tớ cũng đang dần kết thúc khi những rung động đầu đời đã từng rất thú vị giờ đã bước sang năm thứ 2, thứ 3.
+> 
+> Để nói cụ thể thì chính là, thời hạn giữ hương vị ngon nhất đã kết thúc rồi.
+> 
+> Tớ chỉ có âm nhạc mà thôi.
+> 
+> Tuy thế tớ vẫn không thể tạo ra thứ gì đúng ý mình, hay nói cách khác là tớ không có tâm trí gì để mở nút thắt cho tình trạng bây giờ, không có mục tiêu, hành động thì uể oải, mơ hồ, chậm chạp, mỗi ngày chỉ đơn giản đang bắt chước nghệ thuật.
+> 
+> Giống như đang đạp một chiếc xe bị hỏng phanh vậy.
+> 
+> Vài năm gần đây trong đầu tớ luôn lảng vảng câu thơ trong tuyển tập thơ của Sakutarou:
+> 
+> “kế hoạch thiêu cháy tình cảm trong tôi, ôi tìm đâu cũng không thấy”
+
 North of Lund, on a road towards Stockholm, I met a thief. 
 Well, I don't really have anything left to lose, but I was bothered that they stole some cash that I had and the extra ink that I had brought with me. As you know, I'm determined to use this old pen and this ink when I write things, so, well, I'm saving it so I don't lose it. 
 
@@ -204,6 +487,51 @@ Still, I couldn't create as much music as I wanted to, I didn't have the heart t
 # 7/12 (Parade)
 [[11. Parade]]
 # 8/8
+> [!Vietnamese]-
+> Visby thực sự là một thành phố rất đẹp
+> 
+> Bước xuống cầu thang từ phía bên phải nhà thờ lớn Santa Maria là ra đường đi lên ngọn đồi có thể nhìn thấy toàn bộ phong cảnh thành phố.
+> 
+> Vào chiều hoàng hôn một ngày nắng đẹp, có thể thấy mặt trời lặn xuống sau đường chân trời.
+> 
+> Nói vậy thôi, chứ tớ thấy tớ ở đây hơi lâu quá rồi. Tiền và mực đều còn lại rất ít.
+> 
+> Từ giờ tớ sẽ quay trở lại Stockholm. Đó là thành phố mà hồi nhỏ tớ hay lui tới.
+> 
+> Chắc cũng ngày này đúng một năm về trước.
+> 
+> Ngày mà tớ bỏ việc làm thêm ấy. Cái này tớ cũng đã viết trước đây rồi thì phải.
+> 
+> Nói chính xác thì không phải là bỏ, mà là chạy trốn.
+> 
+> Hôm đó vì một lỗi sai nhỏ nhặt mà ông chủ mắng tớ té tát, tớ vừa ủ rũ vừa suy nghĩ mãi về chuyện khác. Robert Johnson, Jimi Hendrix, Bryan Jones, Jim Morrison, những người sáng tác nhạc nổi tiếng thời kỳ đó đều đã ra đi ở tuổi 27.
+> 
+> Có cả một loại mê tín mang tên “27 Club” cơ. Nổi tiếng lắm.
+> 
+> (Lời bạn dịch: Ở VN có Wanbi Tuấn Anh, Toàn Shinoda cũng mất năm 27 tuổi đó mọi người, còn ở HQ thì có Jonghyun nhóm Shinee đó.)
+> 
+> Khi cuộc đời tớ kết thúc, liệu bên trong tớ có còn lại điều gì để tớ cảm thấy thật là tốt không?
+> 
+> Không nói đến 27 tuổi, mà là khi thời gian của tớ bị giới hạn chỉ còn CÓ BẰNG NÀY THÔI, thì liệu tớ có thể vứt bỏ hết để dồn sức lực cho âm nhạc không?
+> 
+> Tớ sẽ cho rằng làm gì có chuyện đó, rồi tiếp tục cuộc sống hiện tại, sống cuộc sống bình thường, ứ động, âm ỉ cho đến lúc chết sao?
+> 
+> Trong khi đang nghĩ những chuyện đó, không biết từ lúc nào mà tớ đã chạy ra ngoài, còn nguyên cả đồ đạc trên người.
+> 
+> Đó là một đêm trăng khuyết rất đẹp. Tớ vô định đạp xe đến trước ga Higashifushimi. Tớ chỉ muốn đi đến nơi nào đó thật xa mà thôi.
+> 
+> Bây giờ nghĩ lại thì, hồi đó tớ đã để mọi thứ chấm dứt vào mùa hè ấy rồi.
+> 
+> Đã một năm rồi. Một năm nay chính là cả cuộc đời tớ.
+> 
+> Cuộc đời quá dài để không hoàn thành một chuyện, nhưng lại quá ngắn đề hoản thành một điều gì đó.
+> 
+> Lời cậu nói hình như là dẫn từ cuốn “Mặt trăng trên núi và những câu chuyện khác” đúng không?
+> 
+> “Bên dưới ánh trăng như tia nắng xiên qua kẽ lá”
+> 
+> Lúc đó cuối cùng tớ cũng nhớ ra rồi, Elma.
+
 Visby really is a good town.
 If you climb the steps of the Santa Maria cathedral, you get a nice hilltop view of the whole town. On clear days at dusk, you can see the sun sink behind the horizon line over the ocean. Even though I say all this, I think I've overstayed my welcome.
 I only have a little money and ink left.
@@ -236,6 +564,35 @@ I finally remembered that time, Elma.
 
 ![[8-31 elma.jpg]]
 # 4/10
+> [!Vietnamese]-
+> Phố Seki, hè năm ngoái
+> 
+> Trên phố hoàng hôn, tiếng dế kêu
+> 
+> Đây là bức thư thứ 2 mà tớ viết.
+> 
+> Nói là thư nhưng có lẽ cậu sẽ không đọc được đâu, nên nó giống với nhật ký hơn.
+> 
+> Gần đây ngoài âm nhạc ra thì tớ còn làm gì nữa nhỉ.
+> 
+> Tớ đã dọn dẹp lại những thứ xung quanh mình.
+> 
+> Tớ đã bỏ trống căn phòng của mình.
+> 
+> Tớ mua một tấm vé du lịch đến đất nước đó, đóng gói hành lý thật đơn giản.
+> 
+> Một chiếc hộp gỗ đựng những món đồ cần thiết tối thiểu, lọ mực, cây bút máy, máy ảnh, cây ghita acoustic, bài hát và nhạc phổ.
+> 
+> Tớ nghĩ với số tiền mình đã tiết kiệm được từ công việc làm thêm thì tớ có thể cầm cự đến hết mùa hè.
+> 
+> Từ giờ tớ sẽ bắt đầu chuyến đi của mình.
+> 
+> Chuyến đi cuối cùng của cuộc đời.
+> 
+> Dù đã muộn rồi, nhưng mà âm nhạc ra sao, không bán được hay gì, sống thôi cũng khổ sở gì đó, tất cả tớ chẳng thiết nữa rồi.
+> 
+> Elma à, trong chuyến đi này tớ sẽ nghĩ gì, cảm nhận điều gì đây?
+
 This will be my second time trying to write this letter.
 I say letter, but you probably won't read this, so I think it's more of a journal.
 I've been doing some things lately, other than music.
@@ -254,6 +611,41 @@ Elma. I wonder what I will think of during this journey, what I will feel.
 
 ![[8-25 thats why i gave up on music.jpg]]
 # 8/31
+> [!Vietnamese]-
+> Tớ hết mực rồi. Nếu chữ tớ lộn xộn quá thì thông cảm cho tớ nhé.
+> 
+> Tuy thế Elma à, tớ thành ra thế này, không phải là vì tớ tuyệt vọng với âm nhạc, cũng không phải là vì tớ đã đoạn tuyệt với cuộc đời.
+> 
+> Một cuốn tiểu thuyết không có hồi kết rất tẻ nhạt. Những câu chuyện uể oải dài dằng dặc không có nét đẹp gì hết. Cuộc đời chắc chắn cũng vậy.
+> 
+> Để viết kết thúc cho câu chuyện của tớ, đó chắc chắn chỉ có thể là âm nhạc mà thôi.
+> 
+> Tớ đã viết nhạc bằng những gì mình đã thấy, đã cảm nhận qua chuyến đi này.
+> 
+> Những bài hát đựng trong chiếc hộp này là một tác phẩm khắc hoạ lại hình ảnh của tớ. Nói không ngoa, những ca khúc này CHÍNH LÀ cuộc đời của tớ.
+> 
+> Elma, tớ chỉ có thể đưa cho cậu mà thôi.
+> 
+> Tớ không biết chuyện gì sẽ xảy ra với chiếc hộp đựng những bức thư này. Tớ chỉ mong sao có ai đó tốt bụng sẽ nhìn thấy mảnh giấy đi kèm có ghi địa chỉ của cậu, và gửi chiếc hộp này cho cậu.
+> 
+> Tớ cũng sắp hết giấy rồi.
+> 
+> Gần đây tớ hay nhớ về hồi đó.
+> 
+> Hồi tớ còn ngưỡng mộ những người chơi dương cầm, hồi tớ mong muốn trở thành tiểu thuyết gia, hồi tớ bắt đầu viết nhạc vì không thể từ bỏ được ước mơ âm nhạc.
+> 
+> Cho đến bây giờ, cuộc đời tớ là một chuỗi những THOẢ HIỆP.
+> 
+> Vì là bây giờ nên tớ có thể nói.
+> 
+> Rằng một kẻ như tớ, một kẻ đã từng từ bỏ âm nhạc một lần lại có thể viết nhạc lại, chính là nhờ đọc được những lời ca của cậu đó, Elma.
+> 
+> Dù cậu vẫn chưa cho tớ xem, nhưng lời hát của cậu mà tớ chạm vào khi đó, chính là ánh trăng của tớ.
+> 
+> Chính là ánh sáng không lẫn vào đâu được, chỉ toả sáng vào ban đêm.
+> 
+> Nhẹ nhàng toả sáng, đến mức không thể nghĩ đó là ánh trăng nhạt nhoà.
+
 I've run out of ink. Please forgive me if some of this is illegible.
 
 Even so Elma, <span style="font-size:1.5em;">me</span> ending up like this,
