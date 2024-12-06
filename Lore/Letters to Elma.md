@@ -24,7 +24,7 @@ To Elma
 > 
 > Đúng vậy, rốt cuộc trong tớ chỉ có âm nhạc…
 
-*Stockholm, Gamla stan*
+*Stockholm, Gamla stan*  
 *The hustle and bustle falling on the cobblestone pavement*
 
 I don’t have much ink left.
