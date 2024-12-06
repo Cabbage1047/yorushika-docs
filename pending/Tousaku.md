@@ -112,8 +112,8 @@ Ngủ một giấc là đâu sẽ có đó
 Ta đứng trước nhà ga ngóng đợi tình yêu
 Dù sao cũng chẳng có chuyện gì khác để làm cả
 Ngài hãy nói cho ta biết giá trị của sự giả dối đi!
-Đừng nói về dăm ba cái tình yêu nữa, hãy quên nó đi!
 
+Đừng nói về dăm ba cái tình yêu nữa, hãy quên nó đi!
 Hãy cho ta biết mọi thứ, dẫu có là điều khiến ngài đau khổ đi chăng nữa
 Nếu người đời không mảy may đến một con phù du như thế, vậy thì thà quên nó đi còn hơn
 Ta không thể nào nghe mãi những điều vô ích đó được
@@ -138,8 +138,8 @@ Hơi nóng của mùa hè và ngày hôm nay, một ngày nào đó ta sẽ quê
 Thật là đau đớn mà
 Nếu sự ngập ngừng đó người ta gọi là "tình yêu", vậy thì ta thà không biết còn hơn!
 Hãy kể thêm về những điều tưởng như vô ích nữa đi!
-Đừng nói về ngày mai nữa, hay quên nó đi!
 
+Đừng nói về ngày mai nữa, hay quên nó đi!
 Ta muốn nghe nhiều hơn dẫu cho đó có là những thứ khiến ngài đau khổ!
 Dẫu đó chỉ là một con phù du thô kệch đi nữa
 Ôi ta ao ước đến vô ngần
@@ -731,6 +731,7 @@ Khi đọc lời bài hát thì các bạn sẽ tưởng tượng ra cảnh mộ
 Chắc là chiếc đĩa than của bố tôi chăng
 Nghe tiếng của nó tôi thấy dễ chịu lắm
 Cơ mà chỉ nghe thôi thì cũng đâu tốn sức lực gì
+
 Thôi, bỏ qua dạo đầu đi, để tôi kể cho nghe
 Có lần tôi đã nghĩ thế này
 Nếu thứ âm nhạc này thuộc về tôi thì lỗ hổng này liệu có được lấp đầy không?
@@ -755,17 +756,18 @@ Cái đám ô hợp xúm lại kia chẳng biết gì về giá trị thật h�
 Ah sao cứ thấy thiếu gì đó
 Ta đã ăn trộm nhiều như thế mà không thấy vừa lòng gì cả
 Một chút ngôn từ chỉ được cái mã như thế sao mà thỏa mãn được!
-
 Ta muốn biết về tình yêu, ta muốn có thêm tiền!
 Ta muốn biết đến thứ gì đó đẹp đẽ đến mức thỏa mãn được lòng đố kị trong ta!
 
 "Thứ đưa tôi đến với âm nhạc là gì vậy ta?
 Tôi quên mất rồi, nhưng tôi biết nó không phải là thứ ham muốn gì cả
 Hẳn đó phải là một thức gì đó đẹp đẽ lắm
+
 Cái vỏ giả tạo sớm rồi cũng sẽ bong ra
 Màn đêm không được ngó ngàng tới rồi sẽ đến
-Tận trong thâm tâm tôi rất mong ngóng khung cảnh tôi sẽ được thấy khi ấy"
+Tận trong thâm tâm tôi rất mong ngóng khung cảnh tôi sẽ được thấy khi ấy
 
+Đúng rồi
 Sau khi từng thứ một đều biến mất, địa vị rồi tình yêu, tất cả đều ra đi
 Sau khi mất đi tất cả, thì màn đêm mà tôi nhìn thấy hẳn là đẹp lắm
 Nó thật sự, thật sự sẽ đẹp lắm
@@ -813,16 +815,15 @@ Kiễng chân lên, dưới trời mây rực đỏ, ta buông lời tạm biệ
 Ta muốn được công nhận, ta muốn yêu đương
 Đây là ước mơ mà người đời vẫn nói sao?
 Vậy thì hãy thành toàn cho ta đi, mau lên, ta muốn được thỏa mãn!
-(Vậy thì hãy cho ta toại nguyện đi, mau lên, làm ta được thỏa mãn đi!)
-
+**(Vậy thì hãy cho ta toại nguyện đi, mau lên, làm ta được thỏa mãn đi!)**
 Thế gian dịu dàng với kẻ khác này sao có thể hiểu lòng ghen tuông trong ta?
 Ta vẫn luôn đi tìm cơ hội để đánh người đây!
 
 Chiếc đèn đường bị đập vỡ bằng vỏ chai, tiếng cây ghita bị quăng đi rồi vỡ vụn
 Những hối hận không quay lại, tất thảy đều quá đỗi đẹp
 Ta biết rõ điều đó chứ, ấy vậy mà...
-Ta lại bị dày vò trong cơn mưa ngôn từ
 
+Ta lại bị dày vò trong cơn mưa ngôn từ
 Đông qua để lại trong ta tiếc nuối mùa thu
 Một cột khói hiện ra sau ngọn núi mùa xuân
 Làn gió mùa hè sượt qua gò má
@@ -993,6 +994,7 @@ Về bài hát Toubou này, nó nằm sau track không lời mở ra thời thơ
 Nè bóng đêm cứ vậy mà buông xuống thì chúng ta sẽ ra sao đây ta?
 Em có muốn lên tàu đi đâu đó không?
 Anh thì đi đâu cũng được hết
+
 Có lẽ em không biết nhưng mà
 Bầu trời kia cũng là ngôn từ tạo nên đấy
 Vậy hả? Anh sẽ đến với em, ở thị trấn bên cạnh
@@ -1000,6 +1002,7 @@ Vậy hả? Anh sẽ đến với em, ở thị trấn bên cạnh
 Rung rinh rung rinh rung rinh
 Cánh đồng vàng ươm nắng, bài thơ em ngâm, hoa thu mẫu đơn
 Ngoài ra anh chẳng cần gì nữa đâu
+
 Cánh đồng mùa hè gợn sóng
 Chạng vạng không ngớt tiếng ve khoác rả rích đang vào đêm rồi
 Mùa hè sắp đi đến hồi kết rồi
@@ -1008,6 +1011,7 @@ Mùa hè sắp đi đến hồi kết rồi
 Nè em, ngày nào đó khi lớn lên, chúng ta sẽ trờ thành người thế nào đây?
 Có điều gì em muốn làm không?
 Anh thực sự muốn thiếu điều đó đấy
+
 Có lẽ ngày nào đó em sẽ quên mất nhưng mà
 Chỉ có ký ức mới nói lên sự thật
 Vậy à? Anh sẽ đến bên em nơi phía cuối con đường
@@ -1020,27 +1024,32 @@ Cánh đồng mùa hạ nơi em đứng
 Mái tóc tung bay, bầu trời giông bão gầm gừ sắp vào đêm rồi
 Mùa hè sắp đến hồi kết rồi
 Đúng ha em?
+
 Ừ ha, anh đã trưởng thành rồi nhỉ?
 
 Rung rinh rung rinh rung rinh
 Cánh đồng vào ươm nắng, bài thơ em ngâm, hoa thu mẫu đơn
 Ngoài ra anh chẳng cần gì nữa đâu
+
 Cánh đồng mùa hè gợn sóng
 Chạng vạng không ngớt tiếng ve khoác rả rích đang vào đêm rồi
 Mùa hè sắp đến hồi kết rồi
-Chỉ còn em ở lại nơi đây thôi
+Chỉ còn anh ở lại nơi đây thôi
+
 Em sẽ mãi đi về phương xa, đúng không?
 Đúng là vậy rồi
 ## Hana ni bourei (Linh hồn trong bông hoa) 花に亡霊
 Cậu chắc đã quên rồi chăng?
 Chúng ta lúc ngồi dưới bóng râm mùa hè
 Bỏ viên kem vào miệng và chờ đợi một làn gió
+
 Cậu hẳn đã quên rồi nhỉ?
 Một thế giới toàn những điều giả dối
 Và chúng ta đùa rằng hãy cùng đi tìm giá trị thật trong đó
 
 Để chúng ta không quên đi, để ký ức không phai màu
 Để những thứu đang hiện hữu trước mắt không phải là tất cả
+
 Vậy hãy chỉ cho tớ ngôn từ của cậu đi, hãy nói rằng mùa hè sắp đến đi
 Thứ tớ đang vẽ ra, thứ tớ nhìn thấy đều là linh hồn trong bông hoa
 Chân váy tung bay trong gió, tớ sẽ quên đi những kỷ niệm
@@ -1054,17 +1063,18 @@ Còn tớ vẽ một đám mây ra tờ giấy, cưới cưới nắm lấy nó 
 
 Để chúng ta không quên đi, để ký ức không phai màu
 Vì những thứ còn lại trong quá khứ không phải là tất cả
+
 Nên tớ sẽ bỏ đi khuôn mặt mình ngay lúc này
 Tớ sẽ quên hết ngôn ngữ của mình
 Cậu đang cười kìa
 Chúng ta đều là những linh hồn đang chờ đợi mùa hè đó
-
 Cho tớ biết thêm về trái tim cậu đi
 Cho tớ biết mùi vị mùa hè đi
 Khẽ hít một hơi nhẹ...
 
 Để chúng ta không quên đi, để ký ức không phai nhòa
-Vì những thứu vọng đến trái tim tớ không phải là tất cả
+Vì những thứ vọng đến trái tim tớ không phải là tất cả
+
 Vậy nên hãy dạy tớ thêm về ngôn từ của cậu đí
 Cho tớ biết rằng chúng ta sẽ tạm biệt tại đây đi
 Tớ vẫn đang nhìn đó
@@ -1072,6 +1082,7 @@ Nhìn linh hồn trong bông hoa nở vào mùa hè
 Tớ nhìn vào thời gian, chứ không phải ngôn từ
 Mà cũng không phải thời gian, tớ nhìn vào trái tim cậu đó
 Hít một hơi thật nhẹ, lau đi mồ hôi, hơi thở của mùa hè đến bên rồi
+
 Tớ thấy mùi hương của mùa hè rồi
 
 Cậu chắc đã quên rồi đúng không?
