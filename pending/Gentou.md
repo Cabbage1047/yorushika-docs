@@ -264,16 +264,19 @@ Bài thơ số 116 quyển 2 Mannyoshu của Tajimano Himemiko
 
 人言を繁み言痛み己が世に 未だ渡らぬ朝川渡る (Do sợ người đời bàn tán nên khi trời sáng em sẽ băng qua con sông em chưa từng băng qua trong đời)”
 Lyrics
-Hoa đã nở, trôi đôi má ửng đó của em
+Hoa đã nở, trôi đôi má ửng đỏ của em
 Biển vỗ từng gợn sóng dịu êm
 Em đứng bên bờ biển mỉm cười một mình
 Còn anh giờ đây rời khỏi tâm trí em trở thành kỷ niệm
+
 Tiếng ngân nga thật đẹp làm sao
 Ngày mai nó sẽ không còn ở lại nữa
 Mòng biển kêu lên rồi kìa
 Những chú chim cũng khóc rồi
+
 Khi trái tim biến mất, nước mắt đã khô, cũng là lúc tạm biệt
 Gió hạ mang bước chân anh đi, bóng em trở nên mờ nhạt
+
 Hoa nở phấp phới, trên đôi má ửng đỏ của em
 Từng gợn sóng vỗ, biển đã vào đêm
 Em đứng bên bờ biển vẫy tay một mình
@@ -283,20 +286,25 @@ Bình minh đẹp biết mấy
 Thuyền sắp ra khơi rồi
 Mòng biển kêu lên rồi kìa
 Em cũng cất tiếng khóc rồi
+
 Nơi đất khách quê người chỉ còn nghe tiếng sóng vang xa
 Cánh chim bay xa, chở theo ngày mai về bờ bên kia
+
 Xuôi theo dòng nước, cuối cùng nỗi đau cũng trỗi dậy
 Biển đã mang đi con thuyền ngóng theo em
 Ngón tay này viết lên nỗi luyến tiếc trải dài theo thương nhớ
 Những kỷ niệm rơi rụng là con sóng hay rời khỏi tâm trí em đây?
+
 Con thuyền rời xa đô thị tiến về phía trước
 Thời gian rồi cũng trôi theo dòng chảy của nước
 Anh sẽ trở thành kỷ niệm trong em
 Chỉ còn là ký ức của em
+
 Niềm thương như bông hoa trôi trên sóng
 Tấp vào rồi biến mất trên đôi má ửng đỏ
 Em đứng bên bờ biển mỉm cười một mình
 Còn anh giờ đây trở thành kỷ niệm...
+
 Hoa nở phấp phới, trên đôi má ửng đỏ của em
 Từng gợi sóng vỗ, biển đã vào đêm
 Em đứng bên bờ biển vẫy tay một mình

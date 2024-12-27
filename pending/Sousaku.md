@@ -113,9 +113,11 @@ Note: Bài hát này được viết để tả lại cuộc sống của nhạc
 ## 春泥棒 Haru Dorobou (Kẻ trộm mùa xuân)
 Bước ra khỏi cầu vượt, bầu trời xanh lấp ló qua kẽ mây
 Dạo này trời nóng quá, nên anh mãi chờ một cơn gió
+
 Anh ngồi dưới tán cây
 Có cái gì đó vương lại trên gò má
 Ngước lên nhìn, hoa đang nở rộ buông lơi
+
 Thật nhẹ nhàng, chúng tay hãy cùng quên đi cả hơi thở của mình
 Đến cả chớp mắt thôi cũng thật phiền phức
 Ngày hôm nay sang ngày mai cũng sẽ trở thành quá khứ
@@ -129,17 +131,18 @@ Ngày hôm sau chúng ta lại gặp nhau
 Khách đến ngắm hoa đã vãn bớt
 Hương thơm của mùa xuân đã tan biến
 Năm nay liệu mùa hè có đến không ta?
+
 Bước khỏi cầu vượt, em đang đứng cuối đường ngó nhìn anh
 Còn lại bao nhiêu đây?
 Còn lại bao nhiều mùa xuân ta có thể gặp nhau đây?
 
 Trên ngọn đồi ven sông, anh ngồi dưới tán cây
 Gửi lời đến những bông hoa vẫn nở vào hôm nay
+
 Chúng ta hãy quên đi cả những hơi thở đi
 Đến cả chớp mắt thôi sao cũng quá mệt mỏi
 Cơn cuồng phong giờ đây đang mang theo những cánh hoa bay đi
 Thật chẳng khác nào một kẻ trộm mùa xuân
-
 Ngày hôm nay, dòng thời gian vẫn trôi đi theo cơn gió
 Chỉ đứng yên thôi cũng thấy rệu rã
 Bầu trời thấp thoáng sau những tán hoa bay phấp phới
@@ -152,14 +155,16 @@ Hoa sắp tàn rồi
 Ngày mai anh vẫn sẽ đi gặp em
 Mùa xuân sắp qua đi rồi
 Thời gian rơi rụng như lưu lại dư âm
+
 Bao nhiêu lời cũng không đủ để hát lên tình yêu trong anh
 Chỉ gieo vần cho lời ca cũng thật phiền phức
 Những thứ như ngôn tờ liệu có thể tả được khung cảnh nở rộ ngay lúc này ư?
-Thật nhẹ nhàng, chúng ta hãy cùng quên đi cả hơi thở của mình
 
+Thật nhẹ nhàng, chúng ta hãy cùng quên đi cả hơi thở của mình
 Đến cả chớp mắt thôi cũng thật phiền phức
 Khách ngắm hoa giờ chỉ còn mình chúng ta
 Xin tuyết xuân đừng tàn đi!
+
 Chỉ còn chút nữa thôi
 Những cánh hoa chỉ còn đếm trên đầu ngón tay
 Chỉ còn hai bông hoa
@@ -192,6 +197,7 @@ Là cậu đó, chỉ có cậu mà thôi
 Vì tớ cứ suy nghĩ mãi về cậu mà thôi
 Một người đơn thuần chờ đợi áng mây trắng
 Đùa nghịch trong trời xuân lặng gió
+
 Đòng cỏ gợn sóng, cánh chim bay ngang trời
 Nhẹ ngắm hoa khẽ rơi
 Giờ đây, cậu đang thưởng thức làn gió
@@ -205,6 +211,7 @@ Là cậu, chỉ cậu mà thôi
 Cậu chẳng hiểu được món đồ này đâu
 Một trái tim bị tồn thì có sao chứ
 Đối với tớ nó vẫn thật đẹp đẽ
+
 Mùa xuân nở rộ, hoa cỏ khoe sắc
 Ngắm nhìn hoa anh đào tung bay
 
