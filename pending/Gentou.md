@@ -331,7 +331,9 @@ Ta sẽ đóng khung cảnh nối nhau lại trong một cái túi chân không
 Phiêu trên tiếng bước chân dẫm nhịp nhàng lên mặt đường
 Chúng ta cứ như những nhạc công thành Bremen
 Khúc diễu hành này chỉ của riêng hai ta mà thôi
+
 Nào anh bạn, hít vào rồi nhanh thả lỏng nào
+
 Hát hết mình lên nào, cười hả anh bạn, cậu cũng thử đi
 Tôi đang hát tình ca đấy ahahaha
 Hãy thoải mái hết nấc đi, đời này không có gì đáng để mình phải chết đâu
@@ -345,17 +347,22 @@ Ta sẽ lấp đầy ba lô bằng các khung cảnh trong kỷ niệm
 Phiêu theo tiếng rì rào của gió xuân
 Hai ta hãy hát thật nhiều hơn nữa đi
 Rảnh quá thì yêu thương nhau đi nào
+
 Nào anh bạn, hít vào rồi cùng lên tiếng nhé
+
 Hát hết mình lên nào, người ta cười mình là chuyện của người ta
 Thế giới này cái gì cũng sai, nhỉ ahahaha
 Hãy thoải mái hết nấc đi, giả ngu giả ngốc cũng đâu có khiến cậu nhẹ nhõm
 Lời bài hát đằng nào cũng giống nhau, thôi mình bỏ qua lời ba nhé
+
 Nào anh bạn, hít vào rồi nhanh thả lỏng nào
 Chỉ hôm nay thôi, cho tôi mượn trái tim của cậu đi
+
 Hát hết mình lên nào, có gì sai sao?
 Các người đang cười bọn ta đó hả? Này nhé!
 Thật thoải mái lên nào anh bạn, nếu khổ muốn chết thì chạy trốn đi thôi
 Vài năm nữa chắc chắn không còn ai nhớ đến chúng ta đâu
+
 Hát thật sung nữa lên, sao rồi? Anh bạn có thấy cơ thể chuyển động không?
 Tôi đang hát tình ca đấy nhé ahahaha
 Hãy thoải mái hết nấc đi, đời này không có gì đáng để mình phải chết đâu
@@ -373,10 +380,13 @@ Tác phẩm “Quả ngọt của trái đất” của Andre Gide.”
 Lyrics
 Chiếc cốc chứa đầy ánh nắng mặt trời sáng như một viên rubi
 Cảm giác được sống vào ngày thứ bảy đang uống dở cứ để lên bàn đã
+
 Bông hoa trắng cắm trong mình trông quá đỗi dịu dàng hình như đã héo rồi
 Bông hoa này rất quan trọng, nên chắc phải thay đi thôi
+
 A, ánh nắng!
 Trông đẹp thật nhỉ!
+
 Từ giờ trở đi không có chiếc bản đồ nào vẽ con đường sau này cho tôi ư?
 Tôi sẽ không bị lạc chứ?
 "Có sao đâu, cứ như vậy cũng được mà
@@ -390,22 +400,27 @@ Nếu thật sự quan trọng thì ngay từ đầu phải đi mua đi chứ
 
 A, hoa rụng rồi.
 Nhưng vẫn thật đẹp nhỉ.
+
 Ước mơ mà tôi đã hằng mong biến thành hiện thực có đang trói buộc cậu không?
 Giá mà tôi có chút dũng khí để nói cậu hãy từ bỏ nó đi
 "Vứt hết đi, vứt những thứ cậu muốn, vứt cả cặp sách cả bút đi
 Đi ra ngoài thành phố đi thôi"
+
 Tôi đã vứt đi cả bản thân tôi mà cậu từng mong muốn rồi
 Nó thật sự đã từng rất quan trọng, nhưng bây giờ tôi mới nhớ ra
+
 Tôi còn chẳng nhận ra bông hoa trắng trong bình đã héo
 Cho dù thứ quan trọng phải là người thay hoa
 
 A, chờ đã!
 Cậu thật sự sắp đi sao?
+
 Chẳng nhẽ không có chiếc bản đồ nào vẽ con đường sau này cho tôi ư?
 Tôi sẽ không bị lạc chứ?
 "Có sao đâu, cứ như vậy cũng được mà
 Vứt hết đi, vứt những thứ không cần thiết, chiếc sô pha và cả những cuốn sách
 Cứ như vậy là được mà"
+
 Liệu có ánh sáng nào sẽ luôn soi sáng màn đêm của cậu không?
 Cậu cứ thế vậy mà đi à?
 "Cứ vậy thôi, như vậy đâu có sao
@@ -525,26 +540,32 @@ Về bức tranh. Khi đọc lời mở đầu của tập thơ, tôi đã liên
 Lyrics
 Hú lên dưới mặt trăng bên vệ đường, ta bước đi trong thành phố đổ bóng
 Chẳng nhận ra trăng đang lên tròn vành vạnh, màn đêm cứ vậy lặng lẽ chìm sâu
-Chợt nhận ra mình đang hòa trong dòng người, ai cũng đang nhìn chằm chằm khuôn mặt này
 
+Chợt nhận ra mình đang hòa trong dòng người, ai cũng đang nhìn chằm chằm khuôn mặt này
 "Các người thì biết gì về ta hả?" ta xù lên dáng vẻ của thú dữ
+
 Ta muốn giải phóng tất cả mọi thứ
 Hãy cho ta biết rằng ta đang sống đi
-Nếu cứ hát lên nhưddang hú dưới ánh trăng, mọi thứ sẽ thật rực rỡ
+Nếu cứ hát lên như đang hú dưới ánh trăng, mọi thứ sẽ thật rực rỡ
 Ta muốn đập tan thế giới bằng dùi đập đá, thỏa mãn tâm địa xấu xa này
 Nếu cứ hát lên như đang hú dưới ánh trăng
 Ah, mọi thứ sẽ thật ích kỷ đúng như ngươi muốn
+
 Người qua đường hỏi ta "Mặt trăng màu trắng xanh ở đâu thế?"
 Không có ai nhìn thấy nó sao? Đám thú dữ xấu xí cục mịch này?
+
 Họ đi theo hướng ta chỉ tay, một đám người bước đi không thấy mặt ai
 Có cái gì đó đang nhìn về phía ta bên chiếc bóng của bến cảnh phía bên kia
+
 Ta không tin vào bất cứ thứ gì hết
 Chẳng có ai kỳ vọng gì ở ngươi đâu
 Nếu cứ hát lên như đang hú dưới ánh trăng, mọi thứ sẽ thật rực rỡ
 Ta muốn nhúng đầu bút xuống mặt hồ in ánh trăng, vẽ lên một đường thẳng trên sóng
 Nếu cứ hát lên như đang hú dưới ánh trăng, mọi thứ sẽ thật diễm lệ
 Mọi thứ sẽ trôi đi theo cách thời gian vụt qua
+
 Mọi người đều nghĩ ta là một kẻ bệnh tật đáng thương
+
 Ta muốn giải phóng hết tất cả mọi thứ
 Ta vẫn chưa đủ tội lỗi với thế giới này!
 Nếu cứu hát lên như đang hú dưới ánh trăng, mọi thứ sẽ thật rực rỡ
@@ -552,6 +573,8 @@ Ta muốn ngươi dùng dùi đập đá đập đầu ta ra, rồi rót đầy 
 Cứ cất tiếng hát như hú với mặt trăng đi!
 Hỡi con thú dữ ngụ sâu trong khí quản của ta
 Thế giới này sẽ diễn ra đúng như ngươi mong muốn
+
+Hú lên với mặt trăng bên vệ đường
 ## 451
 “Về bức tranh. Trong bản tiểu thuyết phác họa sự kiểm duyệt của xã hội, còn trong tác phẩm này phác họa sự tự kiểm duyệt của chính tác giả. Thời khắc sáng tác tạo ra rồi lại tàn phá. Tác phẩm “451 độ F” của Ray Bradbury.”
 
@@ -561,7 +584,9 @@ Nó đang cháy rực trên trời
 Hình như trái tim ta cũng đang nhen nhóm ngọn lửa
 Ai đó đang đi đường lên tiếng
 Hắn cười cợt "Nhìn kìa, một thằng dị hợm"
+
 Ngón tay chạm vào giấy, một ngọn lửa bùng lên
+
 Nào, bắt lửa đi! Cháy nữa đi! Cháy nữa đi! Cháy nữa đi! Cháy nữa đi! Cháy nữa đi!
 Tận hưởng niềm vui này đi!
 Nào, phấn khích lên đi! Nhảy múa đi! Nhảy múa đi!
@@ -572,8 +597,10 @@ Khuôn mặt chúng đang dò tìm ý đồ trong ngọn lửa của ta
 Nhìn đi kìa, một đám dị hợm
 Chúng đang phẫn nộ kìa
 Chỉ một ngọn lửa cũng khiến chúng nổi điên
+
 Cháy nhanh lên, trong tiếng thét vang dội
 Mớ giấy lộn kia, hãy bừng đỏ lên!
+
 Aa! Một đám phiền phức! Cháy nữa đi! Cháy nữa đi!
 Cháy nữa đi! Cháy nữa đi! Cháy nữa đi!
 Tận hưởng cả nỗi buồn này đi!
@@ -584,13 +611,16 @@ Chạm vào rồi xóa sổ, chạm vào rồi xóa sổ
 Chạm vào rồi mở cửa trái tim
 Cháy nhanh lên rồi hóa tro bụi
 Trước mặt linh hồn đang cháy âm ỉ sâu tận cùng
+
 Nào, bắt lửa đi! Đốt nữa đi! Đốt nữa đi! Đốt nữa đi! Đốt nữa đi! Đốt nữa đi!
 Hãy tận hưởng đến điên cuồng đi!
+
 Nào, phun lửa đi! Đốt nữa đi! Đốt nữa đi!
 Đốt nữa đi! Đốt nữa đi! Đốt nữa đi!
 Tận hưởng đến khi phát chán đi!
 Nào, tiêu thụ tiếp đi! Nhảy múa đi! Nhảy múa đi!
 Nhảy múa đi! Nhảy múa đi! Nhảy múa đi! Nhảy múa đi!
+
 Nào, sáng tạo nữa đi, đốt tiếp đi, đốt nữa đi,
 đốt nữa đi, đốt nữa đi, đốt nữa đi, đốt nữa đi.
 ## Pas de deux
@@ -958,11 +988,11 @@ hạt nắng xuyên qua kẽ lá đùa nghịch bàn chân
 Không gian im ắng chỉ còn nghe thấy hơi thở
 Cậu đứng lên khỏi chiếc ghế cũ kỹ
 Ta nghe mùi cây gai tỏa ra nơi đây
+
 Đi thôi, về phương xa, hãy đi thật xa đi
 Chúng ta hãy rũ bỏ chính cơ thể của mình
 Đến nơi thật xa, xa hơn cả những đám mây,
 về phía bên kia bầu trời
-
 Ta sẽ leo lên những cơn gió
 Vượt ra khỏi sự kìm hãm mang tên trí tưởng tượng
 Để đến nơi thật xa, thật xa khỏi đây
@@ -974,11 +1004,11 @@ Nó đang tò mò đôi giày của cậu kìa
 Chúng ta đang bước đi,
 gió biển mặn mòi mơn trớn làn da
 Một con đường mời gọi ta đi
+
 Đi thôi, về phương xa, hãy đi thật xa đi
 Chúng ta hãy biến thành cơn gió
 Đến nơi thật xa, xa hơn cả những đám mây,
 về phía bên kia bầu trời
-
 Ta sẽ leo lên những cơn gió,
 thoát ra khỏi sự ràng buộc mang tên trí tưởng tượng
 Để đến nơi thật xa, thật xa khỏi đây, đến với biển cả của ta
@@ -987,17 +1017,19 @@ Dây giày của ta đã tuột ra, ta ngồi xuống lắng nghe
 Chỉ có tiếng chim hót quanh tai
 Rồi cậu khẽ đập vai ta, cuối cùng ta cũng nhận ra
 Biển cả đang ở trước mắt ta rồi
+
 Ta muốn về phương xa, hãy đi thật xa đi
 Chúng ta hãy chỉ để lại trái tim của mình
 Đến nơi thật xa, vượt qua những đại dương, về phía bên kia bầu trời
 Ta sẽ leo lên những cơn gió, vượt qua khỏi sự kìm hãm mang tên trí tưởng tượng
 Để đến nơi thật xa, thật xa khỏi đây
 Đến với biển cả của ta
+
 Chúng ta giờ đang cởi giày,
 sóng biển lăn tăn mơn trớn bàn chân
 Đôi mắt cậu hướng về phía xa xăm
 Bãi cát châu Phi nơi sư tử đùa giỡn
-Đang ở bê nkia đại dương rồi
+Đang ở bên kia đại dương rồi
 ## Sayonara Moruten (Tạm biệt Martin)
 “Một người bạn lâu ngày mới gặp lại vẫn tạo ra những thứ không khác gì trước đây. Cậu ta biểu cảm cũng không khác gì so với hồi đó. Không hiểu sao tim tôi lại thắt chặt lại.
 
@@ -1608,6 +1640,7 @@ Tay phải của em đang chống cằm
 Còn tay trái của anh đang cầm chiếc cốc đã nguội
 Lông mày bên phải cảu em đang khẽ chếch xuống
 Buổi sáng mà trời mưa to quá
+
 Chỉ một thôi cũng được
 Chỉ một bông hoa mẫu đơn không rơi thôi cũng được
 Xin hãy chạm vào lồng ngực em
@@ -1616,27 +1649,32 @@ Chỉ một thôi cũng được mà
 Màn đêm anh phải mò mẫm không biết đâu là trái phải
 Sự yên tĩnh khi phải tự mình đi một mình
 Giá mà có thể nói cho em biết dù chỉ một điều mà thôi
+
 Lông mày bên trái của em hơi chùng xuống
 Anh không nhớ rõ lắm đâu
 Hình như anh chẳng biết gì cả
 Tay phải em đang cầm cuốn tiểu thuyết mua từ đâu
 Ủa khoan đã, hình như đó là tay trái mà nhỉ?
+
 Chỉ một thôi cũng được
 Anh chỉ cần một tia nắng trong màn đêm
 Một niềm cảm thương chạm vào lồng ngực, nhìn thấu trái tim em
 Chỉ một thôi cũng được mà
 Anh chỉ cần có thể tự dò dẫm đi trong màn đêm hè mưa đá
 Hoặc đôi mắt em sẽ không nhắm lại
+
 Anh sẽ từng chút một bóc trái tim ra khỏi cơ thể mình
 Rồi trao đến tay em, anh sẽ đưa mọi thứ anh có cho em
 Anh sẽ đưa cho em viên rubi trên tay cầm thanh kiếm, viên sapphire gắp trong con ngươi của anh
 Còn trái tim bằng trì, anh sẽ để lại nó bên cạnh em
+
 Chỉ một thôi cũng được
 Chỉ một bông hoa mẫu đơn không rơi thôi cũng được
 Xin hãy chạm vào lồng ngực em
 Một niềm hạnh phúc khiến anh quên đi cả nước mắt của mình
 Chỉ một thôi cũng được mà
 Chỉ một vầng thái dương đủ để xoa dịu cơn mưa phùn ngày hôm nay
+
 Chỉ một chút thôi cũng được
 Giá như anh có thể lưu lại dấu chân trong thế giới của em dù chỉ một chút
 Em có hiểu không? Niềm hạnh phúc của em
@@ -1645,6 +1683,7 @@ Một đêm dài mò mẫm đến mức không phân định được trái ph�
 Tương lai dài sau này em sẽ cất bước
 Chỉ có một mình anh là không còn cười được nữa
 Giá như có thể nói cho em biết dù chỉ một điều trong số đó
+
 Bất cứ thứ gì anh ăn cũng thật nhạt nhẽo
 Cứ như thể cơ thể anh đã biến mất vậy
 Anh cứ nghĩ trái tim em và trái tim anh
@@ -1667,30 +1706,38 @@ Tại sao em lại trao cho anh trái tim?
 Tại sao em lại vẽ mắt cho anh?
 Nuốt vào làn gió thổi bay đám mây to hơn cả bầu trời
 Đôi mắt của anh lại mơ rồi
+
 Với đôi chân trần
+
 Em đang dần thay đổi mất rồi
 Như ngắm một chiếc bánh đang nở ra từng chút một
 Em đang chạy đi thật chầm chậm
 Không còn sợ hãi mê cung trước mắt nữa
+
 Tại sao em lại đặt tên cho anh?
 Tại sao em lại cho anh cánh tay?
 Nuốt vào con sóng cuốn trôi bờ cát lớn hơn cả biển cả
 Đôi tay nhỏ bé của anh vẫn đang nhìn về xa xăm
+
 Với một tiếng ngáp dài
+
 Chúng ta đang dần chìm vào giấc ngủ
 Một giấc ngủ dài, như đang đi bên gốc cây to
 Đang được nuôi dưỡng trong đầu chúng ta
 Để không còn sợ hãi mê cung trước mắt
+
 Một ngày nào đó em sẽ gặp một người mà em không thể đuổi kịp chăng?
 Một ngày nào đó em sẽ đối diện một bức tường mà em không thể vượt qua chăng?
 Một ngày nào đó em sẽ từ bỏ tất cả những điều đó chăng?
 Em đang dần thay đổi rồi
 Em đang dần thay đổi rồi
 Em đang dần thay đổi rồi
+
 Chúng ta đang dần quên đi
 Như ngắm một tòa tháp đang dần đổ vỡ từng chút một trước mắt
 Chúng ta đang dần chìm vào giấc ngủ
 Dần chìm vào giấc ngủ
+
 Em đang dần thay đổi mất rồi
 Giống như bóng râm được nuôi dưỡng giữa tán cây kia
 Em đang dần chạy xa khỏi anh
@@ -1718,6 +1765,7 @@ Tớ chỉ nhớ về cậu mà thôi
 Bóng mây đang lững thững dần trôi
 Chỉ có ngôn từ cứ đầy vơi
 Còn kỷ niệm đung đưa theo gió hạ
+
 Buổi sáng thức dậy tớ đánh răng
 Trước khi đi dạo sẽ ăn bữa sáng
 Bên ngoài cửa sổ là một bụm mây to
@@ -1725,10 +1773,12 @@ Tớ ghi lại nó vào cuốn sổ tay
 Tớ ngắm nhìn hàng cây đang hát
 Cơn gió sượt qua mang theo hương hoa
 Chợt khiến tớ nghĩ liệu đây có phải mùa xuân?
+
 Tớ chỉ nhớ về cậu mà thôi
 Bóng mây đang lững thững dần trôi
 Chỉ có ngôn từ cứ đầy vơi
 Còn kỷ niệm đung đưa theo gió hạ
+
 Ban trưa tớ lơ đễnh ở nơi nào đó
 Tình cờ bước chân được đưa đến khu thương mại
 Tớ mua một que kem để ăn
@@ -1737,6 +1787,7 @@ Tớ chỉ toàn vẽ lại kỷ niệm xưa
 Tìm cảm được cất vào bài hát này
 Không ai hiểu cũng không sao hết
 Một ngày nào đó tớ sẽ đi gặp cậu
+
 Tớ chỉ nhớ về cậu mà thôi
 Bóng mây đang lững thững dần trôi
 Chỉ có ngôn từ cứ đầy vơi
@@ -1750,11 +1801,13 @@ Tớ rời khỏi ngôi làng bên cạnh
 Hé mở cửa sổ loa tàu
 Màn đêm lướt qua trên gò má
 Mái tóc bay phấp phới trong gió đêm
+
 Tớ chỉ nhớ về cậu mà thôi
 Bóng mây đang lững thững dần trôi
 Chỉ có ngôn từ cứ đầy vơi
 Còn kỷ niệm đung đưa theo gió hạ
 Khi bài ca này đung đưa trong gió hạ
+
 Buổi sáng thức giấc tớ đánh răng
 Trước khi đi dạo sẽ ăn sáng
 Bên kia ngọn đồi là một bụm mây to
@@ -1763,6 +1816,7 @@ Trái tim tớ rung động mạnh mẽ
 Tớ chạy đi trên con đường hoa ly trắng ngào ngạt
 Cuối cùng tớ cũng đã gặp được cậu
 Tớ đã mơ giấc mơ như thế đấy
+
 Cậu tươi cười với tớ
 "Tớ chờ cậu mãi rồi đấy"
 ## Đêm thứ hai
