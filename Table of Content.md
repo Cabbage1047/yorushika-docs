@@ -150,5 +150,6 @@
 [[Aporia]] | アポリア | Aporia  
 	[[Aporia#MV Letter]]  
 [[Sun]] | 太陽 | Taiyou  
+[[Snake]] | へび | Hebi
 # Others
 [[Yuu, Sansan]]  
