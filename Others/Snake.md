@@ -4,15 +4,28 @@ await dv.view('_script');
 へび | Hebi
 #### Lyrics
 
-| Japanese                                                                                            | Romanji |     |
-| --------------------------------------------------------------------------------------------------- | ------- | --- |
-| 行方知らずのあの雲を見た<br><br>わたしの鱗はあなたに似ていた<br><br>舌は二つ、まぶたは眠らず<br><br>ぼやけたよもぎの香りがする                         |         |     |
-| 行方知らずのあの雲の下<br><br>わたしの心は火の粉に似ていた<br><br>靴はいらず、耳は知らず<br><br>冬の寝息を聞く                                 |         |     |
-| ブルーベルのベッドを滑った　春みたいだ<br><br>シジュウカラはあんな風に歌うのか<br><br>海を知らず、花を愛でず、空を仰ぐわたしは<br><br>また巫山の雲を見たいだけ         |         |     |
-| 行方知らずのあの雲の下<br><br>あなたの鱗は日差しに似ていた<br><br>雨を知らず、触れて熱く<br><br>ぼやけたよもぎの香りがする                           |         |     |
-| 芽吹く苔のベッドを転がった<br><br>あの頃みたいに<br><br>カタバミはこんな風に柔いのか<br><br>春を知らず、花を愛でず、風を舐めるわたしは<br><br>ただ海の深さを見たいだけ |         |     |
-| あの大きな海を経れば<br><br>あの雲の白さを見れば<br><br>あなたとの夢の後では<br><br>他には                                           |         |     |
-| ブルーベルのベッドを滑った　春になれば<br><br>ホオジロはあんな風に笑うのか<br><br>海を知らず、花を愛でず、空を仰ぐわたしは<br><br>ただあなたを見たいだけ            |         |     |
-| 行方知らずのあの雲の下<br><br>わたしの心はあなたに似ていた<br><br>舌は二つ、まぶたは眠らず<br><br>いつか見たへびに似る                             |         |     |
+| Japanese                                                                                            | Romanji                                                                                                                                                                                                          | [lyrical-nonsense](https://www.lyrical-nonsense.com/global/lyrics/yorushika/hebi/english/)                                                                                                                              |
+| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 行方知らずのあの雲を見た<br><br>わたしの鱗はあなたに似ていた<br><br>舌は二つ、まぶたは眠らず<br><br>ぼやけたよもぎの香りがする                         | Yukue shirazu no ano kumo wo mita<br><br>Watashi no uroko wa anata ni niteita<br><br>Shita wa futatsu, mabuta wa nemurazu<br><br>Boyaketa yomogi no kaori ga suru                                                | I saw that wandering cloud, drifting away<br><br>My scales resembled yours<br><br>A forked tongue, sleepless eyelids<br><br>Blurred with the scent of mugwort                                                           |
+| 行方知らずのあの雲の下<br><br>わたしの心は火の粉に似ていた<br><br>靴はいらず、耳は知らず<br><br>冬の寝息を聞く                                 | Yukue shirazu no ano kumo no shita<br><br>Watashi no kokoro wa hinoko ni niteita<br><br>Kutsu wa irazu, mimi wa shirazu<br><br>Anata no neiki wo kiku                                                            | Beneath that wandering cloud<br><br>My heart was like embers<br><br>Shoes unneeded, ears unaware<br><br>Listening to the sound of winter—your breath                                                                    |
+| ブルーベルのベッドを滑った　春みたいだ<br><br>シジュウカラはあんな風に歌うのか<br><br>海を知らず、花を愛でず、空を仰ぐわたしは<br><br>また巫山の雲を見たいだけ         | Buruu beru no beddo wo subetta haru mitai da<br><br>Shijuukara wa anna fuu ni utau no ka<br><br>Umi wo shirazu, hana wo medezu, sora wo aogu watashi wa<br><br>Mata fuzan no kumo wo mitai dake                  | Sliding down a bluebell bed—it felt like spring<br><br>Do tits sing that way?<br><br>Unfamiliar with the sea, without savoring flowers, I only gaze at the sky<br><br>Longing once more to see the clouds over Mount Wu |
+| 行方知らずのあの雲の下<br><br>あなたの鱗は日差しに似ていた<br><br>雨を知らず、触れて熱く<br><br>ぼやけたよもぎの香りがする                           | Yukue shirazu no ano kumo no shita<br><br>Anata no uroko wa hizashi ni niteita<br><br>Ame wo shirazu, furete atsuku<br><br>Boyaketa yomogi no kaori ga suru                                                      | Beneath that wandering cloud<br><br>Your scales glistened like sunlight<br><br>Untouched by rain, burning with heat<br><br>Blurred with the scent of mugwort                                                            |
+| 芽吹く苔のベッドを転がった<br><br>あの頃みたいに<br><br>カタバミはこんな風に柔いのか<br><br>春を知らず、花を愛でず、風を舐めるわたしは<br><br>ただ海の深さを見たいだけ | Mebuku koke no beddo wo korogatta<br><br>Ano koro mitai ni<br><br>Katabami wa konna fuu ni yawai no ka<br><br>Haru wo shirazu, hana wo medezu, kaze wo nameru watashi wa<br><br>Tada umi no fukasa wo mitai dake | Rolling over a bed of sprouting moss<br><br>Like back then<br><br>Is oxalis always this soft?<br><br>Unaware of spring, without savoring flowers, I only lick the wind<br><br>Yearning to glimpse the depth of the sea  |
+| あの大きな海を経れば<br><br>あの雲の白さを見れば<br><br>あなたとの夢の後では<br><br>他には                                           | Ano ookina umi wo hereba<br><br>Ano kumo no shirosa wo mireba<br><br>Anata to no yume no ato de wa<br><br>Hoka ni wa                                                                                             | If I could cross that vast ocean<br><br>If I could see the whiteness of that cloud<br><br>After dreaming of you<br><br>There would be nothing else                                                                      |
+| ブルーベルのベッドを滑った　春になれば<br><br>ホオジロはあんな風に笑うのか<br><br>海を知らず、花を愛でず、空を仰ぐわたしは<br><br>ただあなたを見たいだけ            | Buruu beru no beddo wo subetta haru ni nareba<br><br>Hoojiro wa anna fuu ni warau no ka<br><br>Umi wo shirazu, hana wo medezu, sora wo aogu watashi wa<br><br>Tada anata wo mitai dake                           | Sliding down a bluebell bed—when spring comes<br><br>Do buntings laugh like that?<br><br>Unfamiliar with the sea, without savoring flowers, I only gaze at the sky<br><br>Simply wishing to see yo                      |
+| 行方知らずのあの雲の下<br><br>わたしの心はあなたに似ていた<br><br>舌は二つ、まぶたは眠らず<br><br>いつか見たへびに似る                             | Yukue shirazu no ano kumo no shita<br><br>Watashi no kokoro wa anata ni niteita<br><br>Shita wa futatsu, mabuta wa nemurazu<br><br>Itsuka mita hebi ni niru                                                      | Beneath that wandering cloud<br><br>My heart resembled yours<br><br>A forked tongue, sleepless eyelids<br><br>Like a serpent I once saw                                                                                 |
 ##### Notes
->
+> In the Bible, the scene of the man eating the Fruit of Knowledge (Adam's apple) and the serpent deceiving them is well-known, and it can be interpreted as a metaphor for the greed of naive wisdom. So I wrote a song in which a serpent emerges from sleep in springtime to discover the world.
+> 
+> Another source of inspiration for this song is a poem by Yuan Zhen, a poet from Tang China. It is called “Think of My Dear Wife.”
+> 
+> 曾經滄海難爲水  
+> 除却巫山不是雲
+> 
+> To paraphrase it, it means:  
+> "No water is enough when you have known the sea.  
+> No cloud is beautiful if not for the crown it peaks."
+> 
+> The sea and the clouds serve as metaphors for Yuan Zhen's deceased wife—a simple and profound poem of love.
+> 
+> https://www.reddit.com/r/Yorushika/comments/1hx9v04/translation_of_nbunas_comment_on_the_latest_song/
